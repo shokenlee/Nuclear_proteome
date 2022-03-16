@@ -131,3 +131,6 @@ dmypy.json
 # Data directory
 /SourceData
 
+# .DS_Store
+.DS_Store
+
