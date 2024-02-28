@@ -1,4 +1,5 @@
 import requests
+import sys
 
 def get_url(url, **kwargs):
     """
@@ -40,5 +41,48 @@ def find_duplicate(query_list):
             duplicates.append(item)
     return duplicates
             
+    
+def get_source_pmid(entry, loc_of_interest):
+    """
+    Obtain PMIDs for subcellular loc information of a given Uniprot ID.
+    
+    Parameters:
+    - entry (str): Uniprot ID of interest.
+    - loc_of_interest (str): Subcellular location name for which PMID may exist.
+    
+    Returns:
+    - pmid_list (list).
+    """
+    
+    pmid_list = []
+    
+    # Query the gene name to get the Uniprot ID and the Uniprot-registered gene name
+    params = {
+    "query": f'accession:{entry}',
+    "fields": "cc_subcellular_location",
+    "format": "json"
+    }
+
+    r = get_url(my_config.WEBSITE_API, params=params)
+    result = r.json()['results'][0]
+        
+    if 'comments' in result:
+        for comment in result['comments']: # Each comment contains information for each isoform, if any
+            if comment['commentType'] == 'SUBCELLULAR LOCATION':
+                locs = comment.get('subcellularLocations', [])
+
+                for loc in locs:
+                    if 'location' in loc:
+                        value = loc['location'].get('value', '')
+
+                        # If this is the location of interest
+                        # then dig into pmid info
+                        if value == loc_of_interest:
+                            evidences = loc['location'].get('evidences', '')
+                            for evidence in evidences:
+                                pmid = evidence.get('id', '')
+                                pmid_list.append(pmid)
+
+    return pmid_list
     
 
