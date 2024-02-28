@@ -1,5 +1,7 @@
 import requests
 import sys
+import my_config
+from time import sleep
 
 def get_url(url, **kwargs):
     """
@@ -65,6 +67,8 @@ def get_source_pmid(entry, loc_of_interest):
 
     r = get_url(my_config.WEBSITE_API, params=params)
     result = r.json()['results'][0]
+    
+    sleep(1)
         
     if 'comments' in result:
         for comment in result['comments']: # Each comment contains information for each isoform, if any
