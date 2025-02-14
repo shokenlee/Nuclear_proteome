@@ -1,6 +1,6 @@
 # Nuclear envelope proteome curated
 
-Human proteome list of nuclear envelope was curated. See [Lee et al. 2024 bioRxiv] (https://www.biorxiv.org/content/10.1101/2024.11.14.623600v2).
+Human proteome list of nuclear envelope was curated. See [Lee et al. 2024 bioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.14.623600v2).
 
 ## File Structure
 
