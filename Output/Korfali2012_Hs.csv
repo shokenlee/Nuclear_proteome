@@ -1,0 +1,120 @@
+,Gene_Name,UniprotID,Tissue,NE_MM_ratio
+0,TMEM53,Q6P2H8,liver enriched,2.57
+1,TMEM120A,Q9BXJ8,liver enriched,INF
+2,SCARA5,Q6ZMJ2,liver enriched,0.1
+3,TMEM74,Q96NL1,liver enriched,3.36
+4,PLPP7,Q8NBV4,liver enriched,4.42
+5,EGFR,P00533,liver enriched,0.14
+6,SLC39A14,Q15043,liver enriched,0.15
+7,SCCPDH,Q8NBX0,liver enriched,0.16
+8,WDR33,Q9C0J8,liver enriched,INF
+9,TMEM209,Q96SK2,liver enriched,INF
+10,CCAR2,Q8N163,liver enriched,INF
+11,TM7SF2,O76062,liver enriched,0.15
+12,APH1B,Q8WW43,liver enriched,INF
+13,MCAT,Q8IVS2,liver enriched,INF
+14,SLC22A24,Q8N4F4,liver enriched,INF
+15,TMEM38A,Q9H6F2,muscle enriched,2.09
+16,WFS1,O76024,muscle enriched,3.41
+17,POPDC2,Q9HBU9,muscle enriched,0.92
+18,VMA21,Q3ZAQ7,muscle enriched,2.11
+19,KLHL31,Q9H511,muscle enriched,INF
+20,CGRRF1,Q99675,muscle enriched,INF
+21,SAMD8,Q96LT4,muscle enriched,INF
+22,ATP1B4,Q9UN42,muscle enriched,INF
+23,DNAJC16,Q9Y2G8,muscle enriched,1.16
+24,MACO1,Q8N5G2,muscle enriched,INF
+25,DTNA,Q9Y4J8,muscle enriched,5.09
+26,ATP1B1,P05026,muscle enriched,0.02
+27,RYR1,P21817,muscle enriched,0.03
+28,HVCN1,Q96D96,blood enriched,INF
+29,TMEM63A,O94886,blood enriched,INF
+30,PLGRKT,Q9HBL7,blood enriched,INF
+31,SLC38A10,Q9HBR0,blood enriched,1.31
+32,TMEM160,Q9NX00,blood enriched,5.81
+33,FAM210A,Q96ND0,blood enriched,0.84
+34,CNNM4,Q6P4Q7,blood enriched,0.08
+35,MS4A1,P11836,blood enriched,INF
+36,LRRC8A,Q8IWT6,blood enriched,0.86
+37,FAM3C,Q92520,blood enriched,0.22
+38,ABCB1,P08183,blood enriched,INF
+39,SLC9A1,P19634,blood enriched,0.06
+40,ITPR2,Q14571,blood enriched,1.49
+41,STING1,Q86WV6,blood enriched,INF
+42,TMEM126A,Q9H061,blood enriched,0.26
+43,ESYT1,Q9BSJ8,blood enriched,2.02
+44,CYBC1,Q9BQA9,blood enriched,12.05
+45,TMEM230,Q96A57,blood enriched,0.77
+46,SEC11C,Q9BY50,blood enriched,INF
+47,MARCHV,Q9NX47,blood enriched,2.55
+48,OTULINL,Q9NUU6,blood enriched,INF
+49,DHRS7,Q9Y394,blood enriched,INF
+50,SLC25A22,Q9H936,liver and blood,5.63
+51,TKFC,Q3LXA3,liver and blood,0.34
+52,NCLN,Q969V3,liver and blood,0.23
+53,SQSTM1,Q13501,liver and blood,INF
+54,MAGT1,Q9H0U3,liver and blood,3.67
+55,TAPBPL,Q9BX59,liver and blood,1.62
+56,TMUB1,Q9BVT8,liver and blood,0.24
+57,LPCAT2,Q7L5N7,liver and blood,INF
+58,APMAP,Q9HDC9,liver and blood,0.67
+59,TMEM199,Q8N511,liver and blood,INF
+60,ERG28,Q9UKR5,liver and blood,2.73
+61,TOR1AIP2,Q8NFQ8,liver and blood,0.09
+62,PDCD6,O75340,liver and blood,0.66
+63,MYORG,Q6NSJ0,liver and muscle,0.61
+64,TMTC3,Q6ZXV5,liver and muscle,2.16
+65,LRRC37A,A6NMS7,liver and muscle,1.41
+66,MOSPD3,O75425,liver and muscle,1.21
+67,ALG10B,Q5I7T1,liver and muscle,INF
+68,CRELD1,Q96HD1,blood and muscle,2.89
+69,TMEM161A,Q9NX61,blood and muscle,INF
+70,TMEM70,Q9BUB7,blood and muscle,INF
+71,CKAP4,Q07065,blood and muscle,16.44
+72,OSTC,Q9NRP0,blood and muscle,2.12
+73,TMX4,Q9H1E5,blood and muscle,17.4
+74,TMEM41A,Q96HV5,blood and muscle,INF
+75,KTN1,Q86UP2,blood and muscle,2.75
+76,TMEM109,Q9BVC6,blood and muscle,11.47
+77,SMPD4,Q9NXE4,ALL tissues,105.61
+78,TMX3,Q96JJ7,ALL tissues,2.03
+79,CLPTM1,O96005,ALL tissues,1.23
+80,CISD2,Q8N5K1,ALL tissues,1.14
+81,LPCAT3,Q6P1A2,ALL tissues,13.11
+82,MIA2,Q96PC5,ALL tissues,0.02
+83,SARAF,Q96BY9,ALL tissues,INF
+84,TMEM260,Q9NX78,ALL tissues,INF
+85,NEMP1,O14524,ALL tissues,INF
+86,ARL6IP6,Q8N6S5,ALL tissues,INF
+87,TMEM245,Q9H330,ALL tissues,INF
+88,RHBDD1,Q8TEB9,ALL tissues,INF
+89,NCEH1,Q6PIU2,ALL tissues,0.91
+90,TMT1A,Q9H8H3,ALL tissues,0.43
+91,THEM6,Q8WUY1,ALL tissues,0.65
+92,LPGAT1,Q92604,ALL tissues,0.17
+93,ERLIN2,O94905,ALL tissues,4.96
+94,ERMP1,Q7Z2K6,ALL tissues,0.45
+95,ATG9A,Q7Z3C6,ALL tissues,0.55
+96,ERGIC1,Q969X5,ALL tissues,2.25
+97,ATL3,Q6DD88,ALL tissues,0.36
+98,STT3A,P46977,ALL tissues,0.66
+99,TMEM201,Q5SNT2,ALL tissues,INF
+100,TMEM214,Q6NUQ4,ALL tissues,0.58
+101,NDC1,Q9BTX1,ALL tissues,INF
+102,LEMD2,Q8NC56,ALL tissues,98.51
+103,TMEM14C,Q9P0S9,ALL tissues,16.62
+104,SYNE3,Q6ZMZ3,ALL tissues,INF
+105,CTDNEP1,O95476,ALL tissues,0.35
+106,TMEM43,Q9BTV4,Original NETs (pre-MudPIT proteomics),6.55
+107,LBR,Q14739,Original NETs (pre-MudPIT proteomics),INF
+108,TOR1AIP1,Q5JTV8,Original NETs (pre-MudPIT proteomics),1613.57
+109,TMPO,P42166,Original NETs (pre-MudPIT proteomics),531.21
+110,EMD,P50402,Original NETs (pre-MudPIT proteomics),20.24
+111,NRM,Q8IXM6,Original NETs (pre-MudPIT proteomics),INF
+112,LEMD3,Q9Y2U8,Original NETs (pre-MudPIT proteomics),INF
+113,SUN1,O94901,Original NETs (pre-MudPIT proteomics),INF 
+114,SUN2,Q9UH99,Original NETs (pre-MudPIT proteomics),74.71
+115,SYNE1,Q8NF91,Original NETs (pre-MudPIT proteomics),INF
+116,SYNE2,Q8WXH0,Original NETs (pre-MudPIT proteomics),INF
+117,POM121C,A8CG34,Original NETs (pre-MudPIT proteomics),INF
+118,NUP210,Q8TEM1,Original NETs (pre-MudPIT proteomics),INF
