@@ -1,6 +1,6 @@
 import requests
 import sys
-import my_config
+import modules.my_config as my_config
 from time import sleep
 
 def get_url(url, **kwargs):
