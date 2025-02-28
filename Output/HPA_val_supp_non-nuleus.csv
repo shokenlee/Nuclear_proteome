@@ -1,0 +1,3078 @@
+Gene,Uniprot,Reliability,IF location score
+A1CF,Q9NQ94,Supported,Nucleoplasm: Supported
+AAGAB,Q6PD74,Supported,Nuclear speckles: Approved;Cytosol: Supported
+ABCB6,Q9NP58,Validated,Nucleoplasm: Supported;Golgi apparatus: Validated;Cytosol: Supported;Mitochondria: Supported;Plasma membrane: Supported
+ABCB8,Q9NUT2,Supported,Nucleus: Approved;Mitochondria: Supported
+ABCC5,O15440,Supported,Nucleus: Approved;Cell Junctions: Approved;Plasma membrane: Supported
+ABCG2,Q9UNQ0,Validated,Nucleus: Validated;Plasma membrane: Validated
+ABHD14B,Q96IU4,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+ABL1,P00519,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported
+ABL2,P42684,Supported,Nucleoplasm: Supported
+ABTB1,Q969K4,Supported,Nucleoli: Approved;Cytosol: Supported
+ABTB2,Q8N961,Supported,Nucleus: Supported
+AC004556.1,,Supported,Nucleoli (Fibrillar center): Approved;Mitochondria: Supported
+ACACA,Q13085,Supported,Nucleoli (Fibrillar center): Approved;Actin filaments: Supported;Cytosol: Supported
+ACADS,P16219,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+ACADVL,P49748,Supported,Nucleus: Approved;Nucleoli: Uncertain;Mitochondria: Supported
+ACAT2,Q9BWD1,Supported,Nucleus: Approved;Cytosol: Supported
+ACD,Q96AP0,Validated,Nuclear bodies: Validated
+ACIN1,Q9UKV3,Supported,Nucleoplasm: Supported;Cytosol: Uncertain;Plasma membrane: Uncertain
+ACKR2,O00590,Supported,Nucleoplasm: Approved;Vesicles: Supported;Cytosol: Supported
+ACLY,P53396,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+ACOT7,O00154,Supported,Nucleoplasm: Approved;Cytosol: Supported
+ACOX1,Q15067,Validated,Nucleus: Approved;Vesicles: Validated
+ACOXL,Q9NUZ1,Supported,Nucleoli: Approved;Cytosol: Supported
+ACSL1,P33121,Supported,Nucleus: Supported;Mitochondria: Supported
+ACSL5,Q9ULC5,Supported,Nucleus: Approved;Mitochondria: Supported
+ACTL6A,O96019,Validated,Nucleoplasm: Validated;Cytosol: Uncertain
+ACTN4,O43707,Supported,Nuclear bodies: Supported;Cytosol: Supported
+ACTR8,Q9H981,Supported,Nucleus: Supported;Centrosome: Approved
+ADAMTS5,Q9UNA0,Supported,Nucleoplasm: Supported
+ADAR,P55265,Validated,Nucleus: Validated;Nucleoli: Validated
+ADARB1,P78563,Supported,Nucleoplasm: Supported;Cytosol: Approved
+ADAT1,Q9BUB4,Supported,Nucleoplasm: Supported
+ADD1,P35611,Validated,Nucleoplasm: Validated;Plasma membrane: Validated
+ADI1,Q9BV57,Supported,Nucleoplasm: Validated;Golgi apparatus: Approved
+ADIRF,Q15847,Supported,Nucleoplasm: Supported;Cytosol: Approved
+ADK,P55263,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ADPRHL2,Q9NX46,Validated,Nucleoplasm: Validated
+ADRM1,Q16186,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Approved
+AEBP1,Q8IUX7,Supported,Nucleoplasm: Approved;Vesicles: Supported;Cytosol: Approved
+AEBP2,Q6ZN18,Supported,Nucleus: Supported
+AEN,Q8WTP8,Supported,Nucleus: Supported;Nuclear membrane: Supported;Nucleoli: Supported
+AFF3,P51826,Supported,Nucleoplasm: Supported;Cytosol: Approved
+AFF4,Q9UHB7,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+AGAP2,Q99490,Supported,Nucleus: Supported;Nucleoli: Supported;Mitochondria: Approved
+AGL,P35573,Supported,Nucleoplasm: Supported;Cytosol: Supported
+AGO2,Q9UKV8,Supported,Nucleoplasm: Supported;Cell Junctions: Approved
+AGO3,Q9H9G7,Supported,Nucleoplasm: Approved;Cytoplasmic bodies: Supported
+AGO4,Q9HCK5,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported;Cytosol: Validated
+AHCTF1,Q8WYP5,Supported,Nuclear membrane: Supported
+AHDC1,Q5TGY3,Supported,Nucleus: Supported
+AHR,P35869,Validated,Nucleoplasm: Validated;Cytosol: Validated
+AHRR,A9YTQ3,Supported,Nucleoplasm: Supported;Cytosol: Supported
+AIM2,O14862,Supported,Nucleoplasm: Supported;Cytosol: Supported;Mitochondria: Supported
+AK6,Q9Y3D8,Supported,Nucleoplasm: Supported
+AK9,Q5TCS8,Validated,Nucleoplasm: Validated;Nuclear membrane: Validated
+AKAP17A,Q02040,Supported,Nuclear speckles: Supported;Cytosol: Approved
+AKAP8,O43823,Supported,Nucleoplasm: Supported
+AKAP8L,Q9ULX6,Supported,Nuclear speckles: Supported
+AKIP1,Q9NQ31,Supported,Nucleoplasm: Supported
+AKIRIN1,Q9H9L7,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported
+AKIRIN2,Q53H80,Supported,Nucleoplasm: Supported
+AKNA,Q7Z591,Supported,Nucleoplasm: Supported;Centrosome: Supported
+AKR1A1,P14550,Supported,Nucleoplasm: Approved;Cytosol: Supported
+AKR1B1,P15121,Supported,Nucleus: Supported;Cytosol: Supported
+AKR1E2,Q96JD6,Validated,Nucleoplasm: Validated;Golgi apparatus: Validated
+AKT1,P31749,Supported,Nucleus: Supported;Microtubules: Supported
+AKT2,P31751,Supported,Nucleus: Supported;Vesicles: Approved;Cytosol: Supported
+ALAS1,P13196,Validated,Nucleoplasm: Supported;Mitochondria: Validated
+ALDH1A3,P47895,Validated,Nucleus: Validated;Cytosol: Validated
+ALDH1B1,P30837,Supported,Nucleoplasm: Supported;Vesicles: Supported;Mitochondria: Supported
+ALKBH2,Q6NS38,Validated,Nucleus: Validated
+ALKBH3,Q96Q83,Validated,Nucleoplasm: Validated;Mitochondria: Uncertain
+ALKBH6,Q3KRA9,Supported,Nucleoplasm: Supported;Focal Adhesions: Approved
+ALKBH8,Q96BT7,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ALOX12,P18054,Supported,Nuclear speckles: Approved;Cytosol: Supported
+ALOX5,P09917,Supported,Nucleoplasm: Supported
+ALX1,Q15699,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Golgi apparatus: Uncertain
+ALX4,Q9H161,Supported,Nucleoplasm: Supported
+ALYREF,Q86V81,Validated,Nuclear speckles: Validated
+AMER1,Q5JTC6,Supported,Nuclear bodies: Supported;Vesicles: Supported;Plasma membrane: Supported
+AMPD3,Q01432,Validated,Nuclear membrane: Validated
+AMT,P48728,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+AMZ2,Q86W34,Supported,Nucleoplasm: Supported;Nuclear bodies: Approved;Cytosol: Approved
+ANAPC11,Q9NYG5,Validated,Nucleoplasm: Validated;Nucleoli: Validated
+ANAPC2,Q9UJX6,Validated,Nucleoplasm: Validated
+ANKRD1,Q15327,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+ANKRD11,Q6UB99,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ANKRD12,Q6UB98,Supported,Nucleoplasm: Supported;Cytosol: Approved
+ANKRD17,O75179,Supported,Nucleus: Supported;Nuclear membrane: Approved
+ANKRD18A,Q8IVF6,Supported,Nucleoli: Supported;Cytosol: Supported
+ANKRD23,Q86SG2,Supported,Nucleoplasm: Supported;Actin filaments: Supported
+ANKRD37,Q7Z713,Supported,Nucleus: Supported;Cytosol: Supported;Mitochondria: Approved
+ANKS3,Q6ZW76,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ANLN,Q9NQW6,Supported,Nucleoplasm: Supported
+ANO2,Q9NQ90,Supported,Nucleoplasm: Approved;Plasma membrane: Supported
+ANPEP,P15144,Supported,Nucleus: Approved;Plasma membrane: Supported
+ANXA1,P04083,Validated,Nucleoplasm: Validated;Cytosol: Validated;Plasma membrane: Validated
+ANXA11,P50995,Supported,Nucleoplasm: Supported;Cytosol: Supported
+AOX1,Q06278,Supported,Nuclear bodies: Uncertain;Cytosol: Supported
+AP2A2,O94973,Validated,Nucleoplasm: Approved;Vesicles: Validated
+AP5Z1,O43299,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported
+APEX1,P27695,Validated,Nucleus: Validated
+APEX2,Q9UBZ4,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Vesicles: Supported
+API5,Q9BZZ5,Validated,Nuclear speckles: Validated
+APLF,Q8IW19,Supported,Nucleoplasm: Supported
+APOA1BP,Q8NCW5,Validated,Nucleoplasm: Validated;Cytosol: Validated
+APOL6,Q9BWW8,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Approved
+APOLD1,Q96LR9,Validated,Nucleoplasm: Validated;Cytosol: Validated
+APRT,P07741,Supported,Nucleoplasm: Approved;Cytosol: Supported
+APTX,Q7Z2E3,Validated,Nucleus: Validated;Nucleoli: Validated
+AQP3,Q92482,Supported,Nucleus: Uncertain;Plasma membrane: Supported
+AQR,O60306,Validated,Nucleoplasm: Validated
+ARFGAP1,Q8N6T3,Supported,Nuclear membrane: Uncertain;Golgi apparatus: Supported;Vesicles: Supported
+ARFGEF1,Q9Y6D6,Validated,Nucleoplasm: Validated;Golgi apparatus: Validated;Cytosol: Validated
+ARFIP1,P53367,Supported,Nucleus: Approved;Golgi apparatus: Supported;Vesicles: Approved
+ARGLU1,Q9NWB6,Validated,Nucleoplasm: Validated;Mitochondria: Validated
+ARHGAP22,Q7Z5H3,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+ARHGAP27,Q6ZUM4,Supported,Nucleus: Supported;Cytosol: Supported
+ARHGAP35,Q9NRY4,Supported,Nuclear bodies: Supported;Aggresome: Uncertain
+ARHGAP40,Q5TG30,Supported,Nucleoplasm: Approved;Centrosome: Approved;Cytosol: Supported;Plasma membrane: Supported
+ARHGEF26,Q96DR7,Supported,Nucleoplasm: Approved;Cytosol: Approved;Plasma membrane: Supported
+ARID1A,O14497,Validated,Nucleoplasm: Validated
+ARID1B,Q8NFD5,Supported,Nucleoplasm: Supported
+ARID2,Q68CP9,Supported,Nucleoplasm: Supported;Plasma membrane: Supported
+ARID3A,Q99856,Supported,Nucleoplasm: Supported;Vesicles: Approved;Cytosol: Supported
+ARID3B,Q8IVW6,Supported,Nucleoplasm: Supported
+ARID4A,P29374,Supported,Nucleoplasm: Supported;Cytosol: Approved;Plasma membrane: Approved
+ARID5A,Q03989,Supported,Nucleus: Validated;Nucleoli: Supported
+ARIH2,O95376,Validated,Nucleoplasm: Validated
+ARL3,P36405,Supported,Nucleus: Approved;Centrosome: Supported
+ARL4A,P40617,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ARMCX6,Q7L4S7,Supported,Nucleus: Approved;Nuclear membrane: Approved;Cytosol: Supported
+ARNT,P27540,Supported,Nucleus: Supported;Nuclear bodies: Supported
+ARNTL,O00327,Supported,Nucleoplasm: Supported;Vesicles: Uncertain
+ARNTL2,Q8WYA1,Validated,Nucleus: Validated;Nucleoli: Validated
+ARRB1,P49407,Supported,Nucleoplasm: Supported
+ARSJ,Q5FYB0,Supported,Nucleoli: Approved;Actin filaments: Supported
+ARVCF,O00192,Supported,Nuclear speckles: Approved;Cell Junctions: Supported;Plasma membrane: Approved
+ASAP3,Q8TDY4,Supported,Nucleoplasm: Uncertain;Vesicles: Supported
+ASB9,Q96DX5,Supported,Nucleus: Supported;Cytosol: Supported
+ASF1A,Q9Y294,Validated,Nucleus: Validated
+ASF1B,Q9NVP2,Supported,Nucleoplasm: Supported
+ASH1L,Q9NR48,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+ASH2L,Q9UBL3,Supported,Nucleoplasm: Supported;Plasma membrane: Supported
+ASNA1,O43681,Validated,Nucleus: Validated;Nucleoli: Validated
+ASPN,Q9BXN1,Supported,Nucleoplasm: Approved;Vesicles: Supported
+ASPSCR1,Q9BZE9,Supported,Nucleoplasm: Supported;Vesicles: Supported;Plasma membrane: Supported
+ASXL2,Q76L83,Validated,Nucleoplasm: Validated
+ATAD2,Q6PL18,Validated,Nucleoplasm: Validated
+ATAD2B,Q9ULI0,Supported,Nucleoplasm: Supported
+ATE1,O95260,Supported,Nucleus: Supported
+ATF1,P18846,Validated,Nucleoplasm: Validated
+ATF2,P15336,Validated,Nucleoplasm: Validated
+ATF3,P18847,Validated,Nucleus: Validated;Nucleoli: Validated
+ATF5,Q9Y2D1,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ATF6B,Q99941,Supported,Nucleus: Supported;Nucleoli: Approved
+ATF7IP,Q6VMQ6,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+ATG16L2,Q8NAA4,Validated,Nucleoplasm: Validated
+ATG2B,Q96BY7,Supported,Nucleoplasm: Supported
+ATG7,O95352,Supported,Nucleoplasm: Approved;Cytosol: Supported;Plasma membrane: Approved
+ATM,Q13315,Supported,Nucleoplasm: Supported
+ATMIN,O43313,Supported,Nuclear bodies: Supported
+ATN1,P54259,Validated,Nucleoplasm: Validated
+ATOH8,Q96SQ7,Supported,Nucleoplasm: Supported
+ATP10D,Q9P241,Supported,Nucleoplasm: Approved;Plasma membrane: Supported
+ATP2A2,P16615,Supported,Nucleoplasm: Supported
+ATP5F1,P24539,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+ATP5H,O75947,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+ATP5J2,P56134,Supported,Nucleoplasm: Uncertain;Mitochondria: Supported
+ATP6V1A,P38606,Supported,Nucleus: Supported;Vesicles: Supported;Cytosol: Supported
+ATP6V1C1,P21283,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ATP6V1G1,O75348,Supported,Nucleus: Supported;Nucleoli: Supported
+ATP8A2,Q9NTI2,Supported,Nucleoplasm: Uncertain;Plasma membrane: Supported
+ATR,Q13535,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+ATRX,P46100,Supported,Nuclear bodies: Supported
+ATXN1,P54253,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+ATXN1L,P0C7T5,Validated,Nucleus: Validated
+ATXN3,P54252,Supported,Nucleus: Supported;Nucleoli: Supported;Plasma membrane: Approved
+ATXN7,O15265,Supported,Nucleoplasm: Supported;Cytosol: Supported
+AURKAIP1,Q9NWT8,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+AURKB,Q96GD4,Supported,Nucleoplasm: Supported;Midbody: Supported
+AXIN1,O15169,Supported,Nucleoli: Supported;Vesicles: Supported
+B3GNT9,Q6UX72,Supported,Nucleoli (Fibrillar center): Approved;Golgi apparatus: Supported
+BAALC,Q8WXS3,Supported,Nucleus: Approved;Cytosol: Supported
+BABAM1,Q9NWV8,Supported,Nucleus: Supported;Nuclear bodies: Supported;Cytosol: Supported
+BACH2,Q9BYV9,Supported,Nucleus: Supported;Cytosol: Supported
+BAG1,Q99933,Supported,Nucleoplasm: Supported
+BAG2,O95816,Supported,Nucleoplasm: Supported
+BAG6,P46379,Validated,Nucleoplasm: Validated;Cytosol: Validated
+BAHD1,Q8TBE0,Supported,Nucleoplasm: Supported
+BANF1,O75531,Supported,Nucleoplasm: Supported;Cytosol: Supported
+BANP,Q8N9N5,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+BAP1,Q92560,Validated,Nucleoplasm: Validated;Cytosol: Supported
+BARD1,Q99728,Supported,Nuclear speckles: Supported
+BARX2,Q9UMQ3,Supported,Nucleoplasm: Supported;Cytosol: Approved
+BATF,Q16520,Validated,Nucleoplasm: Validated
+BAZ1B,Q9UIG0,Supported,Nuclear bodies: Supported
+BAZ2A,Q9UIF9,Validated,Nuclear speckles: Validated
+BBX,Q8WY36,Validated,Nucleoplasm: Validated;Cytosol: Validated
+BCAS3,Q9H6U6,Supported,Nucleoli: Supported
+BCCIP,Q9P287,Supported,Nucleoplasm: Supported;Cytosol: Approved
+BCDIN3D,Q7Z5W3,Supported,Nucleus: Supported;Cytosol: Supported
+BCL11A,Q9H165,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported
+BCL2,P10415,Supported,Nucleoplasm: Approved;Nuclear membrane: Supported
+BCL3,P20749,Supported,Nucleoplasm: Supported;Vesicles: Approved;Midbody: Approved
+BCL6,P41182,Validated,Nucleoplasm: Validated;Golgi apparatus: Uncertain
+BCL9L,Q86UU0,Validated,Nucleoplasm: Validated
+BCLAF1,Q9NYF8,Validated,Nuclear speckles: Validated
+BCOR,Q6W2J9,Validated,Nucleus: Validated
+BDNF,P23560,Supported,Nuclear speckles: Supported;Mitochondria: Supported
+BHLHE40,O14503,Supported,Nuclear bodies: Supported
+BIRC2,Q13490,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Cytosol: Supported
+BIRC3,Q13489,Supported,Nucleoplasm: Supported;Cytosol: Supported
+BIRC7,Q96CA5,Supported,Nucleus: Supported;Microtubule organizing center: Uncertain;Cytosol: Supported
+BIVM,Q86UB2,Supported,Nucleoplasm: Supported
+BLM,P54132,Supported,Nucleus: Supported;Cytosol: Approved
+BLMH,Q13867,Supported,Nucleoplasm: Approved;Nuclear bodies: Approved;Cytosol: Supported
+BLNK,Q8WV28,Supported,Nucleoplasm: Uncertain;Cytosol: Supported
+BLVRB,P30043,Supported,Nucleoplasm: Approved;Cytosol: Supported;Plasma membrane: Approved
+BLZF1,Q9H2G9,Supported,Nucleus: Supported;Golgi apparatus: Supported
+BMP2K,Q9NSY1,Supported,Nuclear speckles: Supported
+BMS1,Q14692,Validated,Nucleus: Validated;Nucleoli: Validated
+BMX,P51813,Supported,Nucleoplasm: Approved;Plasma membrane: Supported
+BNC2,Q6ZN30,Supported,Nucleus: Supported;Cytosol: Supported
+BOC,Q9BWV1,Supported,Nucleoplasm: Supported;Plasma membrane: Supported
+BOD1L1,Q8NFC6,Validated,Nucleoplasm: Validated
+BOP1,Q14137,Validated,Nucleus: Validated;Nucleoli: Validated
+BPTF,Q12830,Validated,Nucleoplasm: Validated
+BRAP,Q7Z569,Supported,Nuclear membrane: Approved;Cytosol: Supported
+BRAT1,Q6PJG6,Supported,Nucleoplasm: Supported
+BRCC3,P46736,Supported,Nucleoplasm: Supported
+BRD1,O95696,Supported,Nuclear speckles: Supported
+BRD2,P25440,Validated,Nuclear speckles: Validated
+BRD4,O60885,Validated,Nucleoplasm: Validated
+BRD7,Q9NPI1,Supported,Nucleoplasm: Supported;Cytosol: Supported
+BRIP1,Q9BX63,Supported,Nucleus: Supported;Nuclear membrane: Supported
+BRIX1,Q8TDN6,Validated,Nucleoli: Validated
+BRMS1L,Q5PSV4,Supported,Nucleoplasm: Supported
+BRSK1,Q8TDC3,Supported,Nucleoplasm: Supported
+BRWD1,Q9NSI6,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+BTBD10,Q9BSF8,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+BTBD8,Q5XKL5,Supported,Nucleoplasm: Supported
+BUB1,O43683,Supported,Nucleoplasm: Supported;Cytosol: Approved
+BUB3,O43684,Validated,Nucleoplasm: Validated
+BUD13,Q9BRD0,Validated,Nucleus: Validated
+BYSL,Q13895,Validated,Nucleus: Supported;Nucleoli: Validated
+C10orf11,Q9H2I8,Supported,Nucleus: Supported;Cytosol: Approved
+C11orf1,Q9H5F2,Validated,Nucleoplasm: Validated
+C11orf30,Q7Z589,Validated,Nucleoplasm: Validated
+C11orf54,Q9H0W9,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+C11orf63,Q6NUN7,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+C12orf10,Q9HB07,Supported,Nucleoplasm: Supported
+C12orf43,Q96C57,Validated,Nucleoli: Validated;Golgi apparatus: Approved
+C12orf57,Q99622,Supported,Nuclear speckles: Supported
+C14orf166,Q9Y224,Supported,Nucleoplasm: Supported
+C14orf169,Q9H6W3,Supported,Nucleoli: Supported
+C14orf2,P56378,Supported,Nucleoli (Fibrillar center): Supported;Mitochondria: Supported
+C16orf46,Q6P387,Supported,Nucleoplasm: Supported;Cytosol: Supported
+C17orf50,Q8WW18,Supported,Nucleoplasm: Supported
+C17orf96,A6NHQ4,Supported,Nucleoplasm: Supported;Cytosol: Approved;Cytoplasmic bodies: Approved
+C18orf54,Q8IYD9,Supported,Nucleoplasm: Supported
+C19orf33,Q9GZP8,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Approved
+C19orf47,Q8N9M1,Validated,Nucleoplasm: Validated
+C19orf53,Q9UNZ5,Supported,Nucleus: Supported;Nucleoli: Supported
+C19orf70,Q5XKP0,Supported,Nucleoplasm: Uncertain;Mitochondria: Supported
+C1D,Q13901,Validated,Nucleus: Validated;Nucleoli: Validated
+C1orf131,Q8NDD1,Validated,Nucleus: Approved;Nucleoli: Validated;Cytosol: Approved
+C1orf174,Q8IYL3,Validated,Nucleus: Validated
+C1orf52,Q8N6N3,Validated,Nucleus: Validated
+C1QTNF1,Q9BXJ1,Supported,Nucleus: Supported;Cytosol: Supported
+C21orf58,P58505,Supported,Nucleoplasm: Supported;Nuclear bodies: Approved
+C2orf42,Q9NWW7,Validated,Nucleus: Validated
+C2orf49,Q9BVC5,Supported,Nucleoplasm: Supported;Mitochondria: Approved
+C3orf17,Q6NW34,Supported,Nucleus: Supported;Nucleoli: Supported
+C5orf24,Q7Z6I8,Supported,Nucleus: Supported
+C5orf51,A6NDU8,Supported,Nucleoplasm: Supported;Cytosol: Supported
+C7orf25,Q9BPX7,Supported,Nucleoplasm: Supported;Cytosol: Approved
+C8orf34,Q49A92,Supported,Nucleus: Supported;Nucleoli: Supported;Golgi apparatus: Approved
+C8orf44,Q96CB5,Validated,Nucleoplasm: Validated
+C9orf142,Q9BUH6,Supported,Nucleus: Supported
+C9orf152,Q5JTZ5,Supported,Nucleus: Supported
+C9orf69,H0YL14,Supported,Nucleoplasm: Supported
+C9orf78,Q9NZ63,Validated,Nucleoplasm: Validated
+CABYR,O75952,Supported,Nucleus: Supported;Cytosol: Supported
+CACTIN,Q8WUQ7,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported;Cytosol: Uncertain
+CACYBP,Q9HB71,Validated,Nucleoplasm: Validated;Cytosol: Validated
+CAD,P27708,Supported,Nucleoplasm: Supported
+CAMK2N2,Q96S95,Supported,Nucleus: Supported;Centrosome: Approved
+CAMK4,Q16566,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported
+CAMKMT,Q7Z624,Supported,Nucleus: Supported
+CAMTA1,Q9Y6Y1,Supported,Nucleoli: Uncertain;Cytosol: Supported
+CAND1,Q86VP6,Validated,Nucleoplasm: Validated;Golgi apparatus: Validated;Cytosol: Validated
+CAPG,P40121,Validated,Nucleus: Validated
+CAPRIN2,Q6IMN6,Supported,Nucleus: Approved;Centrosome: Approved;Cytosol: Supported
+CAPS,Q13938,Supported,Nucleus: Approved;Cytosol: Supported;Plasma membrane: Approved
+CAPS,Q13938,Supported,Nucleus: Approved;Cytosol: Supported;Plasma membrane: Approved
+CAPZB,P47756,Validated,Nucleoplasm: Validated;Vesicles: Validated;Cytosol: Validated
+CARD8,Q9Y2G2,Validated,Nucleoplasm: Validated;Cytosol: Validated
+CARM1,Q86X55,Validated,Nucleoplasm: Validated
+CASC5,Q8NG31,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+CASP1,P29466,Supported,Nucleoplasm: Approved;Cytosol: Supported
+CASP3,P42574,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+CASP6,P55212,Supported,Nucleus: Approved;Cytosol: Supported
+CASP8,Q14790,Validated,Nucleoplasm: Approved;Cytosol: Validated
+CASZ1,Q86V15,Supported,Nucleoplasm: Supported;Cytosol: Approved
+CBFA2T3,O75081,Validated,Nucleoplasm: Validated
+CBLB,Q13191,Supported,Nucleoplasm: Approved;Cytosol: Supported
+CBLL1,Q75N03,Supported,Nuclear speckles: Supported
+CBR3,O75828,Supported,Nucleoplasm: Approved;Cytosol: Supported
+CBX1,P83916,Supported,Nucleus: Supported;Nuclear bodies: Supported
+CBX2,Q14781,Supported,Nucleoplasm: Supported
+CBX3,Q13185,Supported,Nucleus: Supported;Nuclear bodies: Supported
+CBX4,O00257,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported
+CBX5,P45973,Validated,Nucleus: Validated
+CBX7,O95931,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CBX8,Q9HC52,Validated,Nucleoplasm: Validated
+CC2D1A,Q6P1N0,Supported,Nucleoli (Fibrillar center): Approved;Cytosol: Supported;Plasma membrane: Approved
+CC2D1B,Q5T0F9,Supported,Nucleoplasm: Supported;Vesicles: Approved
+CCAR1,Q8IX12,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+CCAR2,Q8N163,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+CCBL1,Q16773,Validated,Nucleoplasm: Validated;Cytosol: Validated
+CCDC106,Q9BWC9,Supported,Nucleus: Supported;Cytosol: Uncertain
+CCDC107,Q8WV48,Validated,Nucleoplasm: Validated;Plasma membrane: Validated
+CCDC112,Q8NEF3,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+CCDC12,Q8WUD4,Supported,Nucleoplasm: Supported
+CCDC127,Q96BQ5,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+CCDC137,Q6PK04,Validated,Nucleoli: Validated
+CCDC149,Q6ZUS6,Supported,Nucleoli: Supported
+CCDC174,Q6PII3,Validated,Nucleoplasm: Validated
+CCDC51,Q96ER9,Supported,Nucleoplasm: Supported;Centrosome: Approved;Mitochondria: Supported
+CCDC86,Q9H6F5,Validated,Nucleus: Validated;Nucleoli: Validated
+CCDC91,Q7Z6B0,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+CCDC92,Q53HC0,Supported,Nucleoplasm: Approved;Centrosome: Supported
+CCDC94,Q9BW85,Supported,Nucleoplasm: Approved
+CCDC97,Q96F63,Supported,Nucleoplasm: Supported;Cytosol: Approved;Plasma membrane: Approved
+CCNA2,P20248,Validated,Nucleoplasm: Validated;Cytosol: Validated
+CCNB3,Q8WWL7,Supported,Nuclear speckles: Supported
+CCNC,P24863,Supported,Nucleoplasm: Supported;Cytosol: Approved
+CCND1,P24385,Supported,Nucleoplasm: Supported
+CCND2,P30279,Supported,Nucleoplasm: Supported
+CCNDBP1,O95273,Validated,Nucleoplasm: Validated
+CCNE1,P24864,Validated,Nucleoplasm: Validated
+CCNG1,P51959,Supported,Nucleoplasm: Supported
+CCNH,P51946,Supported,Nucleoplasm: Supported
+CCNI,Q14094,Supported,Nucleoplasm: Approved;Nuclear bodies: Approved;Golgi apparatus: Supported
+CCNK,O75909,Supported,Nucleoplasm: Supported
+CCNL1,Q9UK58,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+CCNL2,Q96S94,Supported,Nucleoplasm: Supported
+CCNT1,O60563,Validated,Nucleoplasm: Validated
+CCT4,P50991,Supported,Nucleoplasm: Approved;Cytosol: Supported
+CCT5,P48643,Supported,Nucleoli: Approved;Cytosol: Supported
+CD2BP2,O95400,Validated,Nuclear speckles: Validated;Cytosol: Validated
+CD33,P20138,Supported,Nucleus: Approved;Plasma membrane: Supported
+CD3EAP,O15446,Validated,Nucleus: Validated;Nucleoli (Fibrillar center): Validated;Mitochondria: Approved
+CD48,P09326,Supported,Nucleoli (Fibrillar center): Approved;Cytosol: Approved;Plasma membrane: Supported
+CDC14A,Q9UNH5,Supported,Nucleoplasm: Supported;Nuclear bodies: Approved;Cytosol: Approved
+CDC14B,O60729,Supported,Nuclear membrane: Supported
+CDC20,Q12834,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CDC25C,P30307,Supported,Nuclear speckles: Supported
+CDC26,Q8NHZ8,Validated,Nucleoplasm: Validated
+CDC27,P30260,Validated,Nucleoplasm: Validated
+CDC34,P49427,Supported,Nuclear speckles: Supported;Cytosol: Supported
+CDC40,O60508,Supported,Nucleus: Supported
+CDC45,O75419,Supported,Nucleoplasm: Supported;Centrosome: Approved;Cytosol: Supported
+CDC5L,Q99459,Supported,Nucleoplasm: Supported
+CDC6,Q99741,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported;Cytosol: Supported
+CDC7,O00311,Supported,Nucleoplasm: Supported;Cytokinetic bridge: Supported;Mitotic spindle: Supported
+CDC73,Q6P1J9,Supported,Nucleus: Supported;Cytosol: Approved
+CDCA2,Q69YH5,Validated,Nucleoplasm: Validated
+CDCA4,Q9BXL8,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CDCA5,Q96FF9,Supported,Nucleoplasm: Supported
+CDCA7,Q9BWT1,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CDCA7L,Q96GN5,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+CDCA8,Q53HL2,Validated,Nucleoli: Validated;Cytokinetic bridge: Validated
+CDIP1,Q9H305,Supported,Nucleoplasm: Supported;Centrosome: Supported
+CDK1,P06493,Validated,Nucleus: Validated;Cytosol: Validated
+CDK10,Q15131,Supported,Nucleoplasm: Supported;Midbody: Approved;Midbody ring: Approved
+CDK11A,Q9UQ88,Supported,Nuclear speckles: Supported;Cytosol: Supported
+CDK12,Q9NYV4,Supported,Nucleus: Supported
+CDK13,Q14004,Supported,Nuclear speckles: Supported
+CDK14,O94921,Supported,Nucleus: Supported;Cytosol: Supported
+CDK2,P24941,Validated,Nucleoplasm: Validated;Centrosome: Supported;Cytosol: Supported
+CDK20,Q8IZL9,Supported,Nucleoplasm: Supported
+CDK2AP1,O14519,Validated,Nucleoplasm: Validated
+CDK4,P11802,Supported,Nucleus: Supported;Nuclear membrane: Supported;Nucleoli: Supported;Cytosol: Supported
+CDK5,Q00535,Supported,Nucleus: Supported;Cell Junctions: Approved;Cytosol: Approved;Plasma membrane: Supported
+CDK5R1,Q15078,Supported,Nucleoplasm: Supported;Vesicles: Supported
+CDK6,Q00534,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CDKL1,Q00532,Validated,Nucleoplasm: Validated;Vesicles: Validated
+CDKL5,O76039,Validated,Nucleoplasm: Validated
+CDKN1A,P38936,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+CDKN1B,P46527,Supported,Nucleus: Supported;Vesicles: Approved
+CDKN2A,P42771;Q8N726,Validated,Nucleoli: Validated
+CDKN2AIP,Q9NXV6,Validated,Nucleoplasm: Validated
+CDKN2D,P55273,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CDT1,Q9H211,Supported,Nucleus: Supported;Nuclear bodies: Supported
+CDV3,Q9UKY7,Validated,Nucleoli: Validated;Cytosol: Validated;Plasma membrane: Validated
+CDX2,Q99626,Supported,Nucleoplasm: Supported
+CDYL,Q9Y232,Validated,Nucleoplasm: Validated;Nuclear speckles: Supported
+CEBPB,P17676,Validated,Nucleoplasm: Validated
+CEBPD,P49716,Supported,Nucleoplasm: Supported
+CEBPE,Q15744,Validated,Nucleoplasm: Validated
+CEBPG,P53567,Supported,Nucleoplasm: Supported
+CELF1,Q92879,Validated,Nucleoplasm: Validated
+CENPA,P49450,Supported,Nucleus: Validated
+CENPB,P07199,Validated,Nuclear bodies: Validated
+CENPC,Q03188,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated;Cytosol: Approved
+CENPF,P49454,Supported,Nucleoplasm: Supported
+CENPH,Q9H3R5,Supported,Nucleus: Supported;Nucleoli: Supported
+CENPI,Q92674,Supported,Nuclear bodies: Supported;Cytosol: Approved
+CENPN,Q96H22,Supported,Nucleus: Supported
+CENPO,Q9BU64,Supported,Nucleus: Supported
+CENPP,Q6IPU0,Supported,Nucleus: Supported;Nucleoli: Approved
+CENPQ,Q7L2Z9,Validated,Nucleoplasm: Validated
+CENPT,Q96BT3,Validated,Nuclear bodies: Validated
+CENPU,Q71F23,Supported,Nucleus: Supported;Microtubule organizing center: Supported
+CENPV,Q7Z7K6,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+CENPW,Q5EE01,Supported,Nucleoplasm: Supported
+CEP164,Q9UPV0,Supported,Nucleoplasm: Supported;Centrosome: Supported
+CEP68,Q76N32,Supported,Nucleus: Approved;Microtubule organizing center: Supported
+CEP85,Q6P2H3,Supported,Nucleoli: Supported;Golgi apparatus: Approved;Cytosol: Supported
+CERKL,Q49MI3,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CERS2,Q96G23,Supported,Nuclear membrane: Supported;Endoplasmic reticulum: Supported
+CERS6,Q6ZMG9,Supported,Nucleus: Supported
+CFAP20,Q9Y6A4,Supported,Nucleus: Supported
+CFAP45,Q9UL16,Validated,Nucleoplasm: Validated
+CFAP97,Q9P2B7,Supported,Nucleoli: Supported;Cytosol: Supported;Plasma membrane: Supported
+CFDP1,Q9UEE9,Supported,Nucleoplasm: Supported
+CFLAR,O15519,Supported,Nucleus: Supported;Nuclear bodies: Approved;Cytosol: Supported;Plasma membrane: Supported
+CGGBP1,Q9UFW8,Validated,Nucleus: Validated
+CGRRF1,Q99675,Supported,Nucleoplasm: Supported;Vesicles: Approved
+CHAF1A,Q13111,Supported,Nucleus: Supported;Cytosol: Uncertain
+CHAF1B,Q13112,Supported,Nucleoplasm: Supported
+CHAMP1,Q96JM3,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+CHCHD1,Q96BP2,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported;Mitochondria: Supported
+CHD1,O14646,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+CHD1L,Q86WJ1,Supported,Nucleoplasm: Supported
+CHD2,O14647,Validated,Nucleus: Validated
+CHD4,Q14839,Validated,Nucleus: Validated
+CHD5,Q8TDI0,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported;Cytosol: Approved
+CHD7,Q9P2D1,Supported,Nucleus: Supported
+CHD8,Q9HCK8,Supported,Nucleoplasm: Supported
+CHEK2,O96017,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+CHML,P26374,Supported,Nucleoplasm: Approved;Cytosol: Validated
+CHMP1B,Q7LBR1,Supported,Nucleus: Approved;Midbody: Supported
+CHMP7,Q8WUX9,Supported,Nucleus: Supported;Cytosol: Supported
+CHTF18,Q8WVB6,Validated,Nucleoplasm: Validated;Cytosol: Approved
+CHTF8,P0CG12;P0CG13,Validated,Nucleoplasm: Validated
+CHTOP,Q9Y3Y2,Validated,Nuclear speckles: Validated
+CHUK,O15111,Supported,Nucleoplasm: Supported;Vesicles: Approved;Cytosol: Supported
+CIART,Q8N365,Supported,Nucleoplasm: Supported
+CIB1,Q99828,Supported,Nucleoplasm: Supported;Plasma membrane: Supported
+CIC,Q96RK0,Supported,Nucleoplasm: Supported;Vesicles: Approved
+CIPC,Q9C0C6,Supported,Nucleus: Supported;Nucleoli: Approved;Cytosol: Supported
+CIR1,Q86X95,Supported,Nuclear speckles: Supported
+CIRBP,Q14011,Supported,Nucleus: Supported;Nucleoli: Approved
+CIRH1A,Q969X6,Supported,Nucleoli (Fibrillar center): Supported
+CITED1,Q99966,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CITED2,Q99967,Supported,Nucleoplasm: Supported
+CIZ1,Q9ULV3,Validated,Nucleoplasm: Validated
+CLASRP,Q8N2M8,Validated,Nucleus: Validated
+CLCA2,Q9UQC9,Supported,Nucleus: Approved;Cell Junctions: Supported
+CLCN7,P51798,Supported,Nucleoplasm: Supported
+CLDN2,P57739,Supported,Nucleoplasm: Approved;Cell Junctions: Supported
+CLIC3,O95833,Supported,Nuclear bodies: Supported
+CLIC5,Q9NZA1,Supported,Nuclear speckles: Approved;Plasma membrane: Supported
+CLINT1,Q14677,Supported,Nucleoplasm: Uncertain;Vesicles: Supported
+CLK1,P49759,Supported,Nucleoplasm: Supported;Nuclear membrane: Approved
+CLK2,P49760,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported
+CLK3,P49761,Supported,Nucleoplasm: Supported;Intermediate filaments: Supported
+CLNS1A,P54105,Supported,Nucleus: Supported;Microtubules: Approved;Cytosol: Supported
+CLOCK,O15516,Validated,Nucleoplasm: Validated
+CLP1,Q92989,Supported,Nucleoplasm: Supported
+CLSPN,Q9HAW4,Validated,Nucleoplasm: Validated;Golgi apparatus: Supported
+CLUAP1,Q96AJ1,Supported,Nucleoplasm: Supported;Vesicles: Approved
+CLUH,O75153,Supported,Nuclear bodies: Approved;Vesicles: Supported
+CMIP,Q8IY22,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CMPK1,P30085,Supported,Nucleus: Supported
+CMTR1,Q8N1G2,Validated,Nucleoplasm: Validated;Cytosol: Validated
+CNBP,P62633,Supported,Nucleus: Supported;Cytosol: Supported
+CNDP2,Q96KP4,Validated,Nucleoplasm: Validated;Cytosol: Supported
+CNOT11,Q9UKZ1,Supported,Nucleoplasm: Supported
+CNOT7,Q9UIV1,Supported,Nuclear bodies: Supported
+CNP,P09543,Validated,Nucleus: Validated;Cytosol: Validated
+CNTNAP5,Q8WYK1,Supported,Nucleus: Approved;Nucleoli (Fibrillar center): Supported;Vesicles: Approved
+COG5,Q9UP83,Validated,Nucleoplasm: Uncertain;Golgi apparatus: Validated
+COIL,P38432,Validated,Nucleus: Supported;Nucleoli (Fibrillar center): Validated;Nuclear bodies: Validated
+COL4A3BP,Q9Y5P4,Validated,Nucleoplasm: Validated;Golgi apparatus: Validated
+COMMD1,Q8N668,Supported,Nucleoplasm: Supported;Cytosol: Supported
+COMMD4,Q9H0A8,Supported,Nucleus: Supported;Plasma membrane: Approved
+COMMD5,Q9GZQ3,Supported,Nucleoplasm: Supported;Cytosol: Supported
+COMMD8,Q9NX08,Supported,Nucleoplasm: Supported;Cytosol: Supported
+COPG1,Q9Y678,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported;Cytosol: Approved
+COPRS,Q9NQ92,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Supported
+COPS3,Q9UNS2,Supported,Nucleus: Supported;Cytosol: Supported
+COPS4,Q9BT78,Supported,Nuclear speckles: Supported
+COPS5,Q92905,Validated,Nucleoplasm: Validated
+COPS6,Q7L5N1,Supported,Nucleoplasm: Supported
+COPS7A,Q9UBW8,Supported,Nucleoplasm: Supported
+COPS7B,Q9H9Q2,Supported,Nucleoplasm: Supported
+COPS8,Q99627,Supported,Nucleoplasm: Supported;Cytosol: Supported
+COX10,Q12887,Supported,Nucleoli: Approved;Cytosol: Approved;Mitochondria: Supported
+COX7A2L,O14548,Validated,Nucleoli: Validated;Mitochondria: Validated
+CPEB2,Q7Z5Q1,Supported,Nucleoplasm: Approved;Cytosol: Supported
+CPNE1,Q99829,Supported,Nucleoplasm: Supported;Nuclear membrane: Approved
+CPNE3,O75131,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported;Mitochondria: Approved
+CPSF3L,Q5TA45,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CPSF4,O95639,Supported,Nucleoplasm: Supported
+CPSF6,Q16630,Validated,Nucleoplasm: Validated;Nuclear speckles: Validated
+CPSF7,Q8N684,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CPT2,P23786,Supported,Nucleoplasm: Uncertain;Nucleoli: Uncertain;Mitochondria: Validated
+CRABP2,P29373,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CREB1,P16220,Validated,Nucleoplasm: Validated
+CREB3L2,Q70SY1,Supported,Nucleoplasm: Supported;Endoplasmic reticulum: Approved
+CREBBP,Q92793,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+CREBRF,Q8IUR6,Supported,Nucleus: Supported
+CREM,Q03060,Supported,Nucleus: Supported;Vesicles: Approved
+CRIPT,Q9P021,Supported,Nucleus: Supported;Nucleoli: Supported
+CRKL,P46109,Validated,Nucleoplasm: Validated;Cytosol: Approved
+CRTC1,Q6UUV9,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Supported;Plasma membrane: Approved
+CRTC2,Q53ET0,Validated,Nucleoplasm: Validated
+CRTC3,Q6UUV7,Validated,Nucleoplasm: Validated;Cytosol: Validated
+CRY1,Q16526,Supported,Nucleus: Supported;Nuclear membrane: Approved;Microtubules: Approved
+CRY2,Q49AN0,Supported,Nuclear speckles: Supported;Cytosol: Supported
+CSE1L,P55060,Validated,Nucleoplasm: Validated;Cytosol: Validated
+CSNK1D,P48730,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+CSNK2A1,P68400,Supported,Nucleoplasm: Supported
+CSRNP1,Q96S65,Validated,Nucleoplasm: Validated;Vesicles: Uncertain
+CSTB,P04080,Supported,Nucleoli: Approved;Cytosol: Supported
+CSTF1,Q05048,Validated,Nucleoplasm: Validated
+CSTF2,P33240,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+CSTF2T,Q9H0L4,Validated,Nucleoplasm: Validated
+CSTF3,Q12996,Validated,Nucleoplasm: Validated
+CTB-50L17.10,Q7Z4V5,Supported,Nucleoplasm: Supported
+CTBP1,Q13363,Validated,Nucleoplasm: Validated
+CTC-534A2.2,,Supported,Nucleoplasm: Supported;Nucleoli: Supported
+CTCF,P49711,Supported,Nucleoplasm: Supported
+CTDP1,Q9Y5B0,Supported,Nuclear speckles: Supported;Actin filaments: Approved
+CTDSP1,Q9GZU7,Supported,Nucleoplasm: Supported
+CTDSPL2,Q05D32,Validated,Nucleoplasm: Validated
+CTNNBL1,Q8WYA6,Validated,Nucleoplasm: Validated
+CTR9,Q6PD62,Validated,Nucleoplasm: Validated
+CTSB,P07858,Supported,Nucleoli: Supported;Vesicles: Supported
+CUEDC2,Q9H467,Validated,Nucleoplasm: Validated;Cytosol: Validated
+CUL1,Q13616,Supported,Nucleus: Supported;Nucleoli: Approved
+CUL2,Q13617,Validated,Nucleoplasm: Validated
+CUL4B,Q13620,Validated,Nucleoplasm: Validated
+CUTC,Q9NTM9,Supported,Nucleoplasm: Supported;Cytosol: Supported
+CUX1,P39880;Q13948,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+CWC22,Q9HCG8,Supported,Nuclear speckles: Supported;Cytosol: Uncertain
+CWC25,Q9NXE8,Validated,Nuclear speckles: Validated
+CWC27,Q6UX04,Validated,Nucleoplasm: Validated
+CXorf67,Q86X51,Validated,Nucleoplasm: Validated
+CXXC1,Q9P0U4,Validated,Nucleus: Validated
+CXXC5,Q7LFL8,Validated,Nucleoplasm: Validated;Cytosol: Validated
+CYB5RL,Q6IPT4,Validated,Nucleoplasm: Validated
+CYGB,Q8WWM9,Validated,Nuclear speckles: Validated
+CYHR1,Q6ZMK1,Validated,Nucleoplasm: Validated
+CYLD,Q9NQC7,Supported,Nucleoplasm: Approved;Microtubule organizing center: Supported
+CYP24A1,Q07973,Supported,Nucleoplasm: Approved;Mitochondria: Validated;Plasma membrane: Uncertain
+CYTH3,O43739,Supported,Nucleoplasm: Uncertain;Cytosol: Supported
+DAB2,P98082,Supported,Nucleoli: Supported;Vesicles: Supported;Plasma membrane: Supported
+DACH1,Q9UI36,Supported,Nucleoplasm: Supported;Vesicles: Approved
+DACT1,Q9NYF0,Supported,Nucleoplasm: Supported
+DAP3,P51398,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+DARS2,Q6PI48,Supported,Nucleus: Approved;Mitochondria: Supported
+DAXX,Q9UER7,Validated,Nucleus: Validated;Nuclear bodies: Validated
+DAZAP1,Q96EP5,Validated,Nucleoplasm: Validated;Cytosol: Validated
+DAZAP2,Q15038,Supported,Nuclear speckles: Supported
+DBF4B,Q8NFT6,Supported,Nucleus: Supported
+DBNL,Q9UJU6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DBR1,Q9UK59,Supported,Nucleoplasm: Supported
+DCAF11,Q8TEB1,Validated,Nucleoplasm: Validated
+DCAF13,Q9NV06,Supported,Nucleus: Supported;Nucleoli: Supported;Centrosome: Approved;Cell Junctions: Approved;Cytosol: Approved
+DCAF17,Q5H9S7,Supported,Nucleoplasm: Supported
+DCAF6,Q58WW2,Supported,Nucleus: Supported;Focal Adhesions: Approved
+DCAF7,P61962,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DCDC2,Q9UHG0,Validated,Nucleus: Supported;Cytosol: Validated
+DCK,P27707,Supported,Nucleus: Supported
+DCLRE1A,Q6PJP8,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported
+DCLRE1B,Q9H816,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+DCLRE1C,Q96SD1,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+DCPS,Q96C86,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DCTN5,Q9BTE1,Supported,Nucleoplasm: Supported;Nuclear membrane: Approved
+DCTN6,O00399,Supported,Nucleoli: Supported;Cytosol: Supported;Plasma membrane: Supported
+DDB1,Q16531,Validated,Nucleoplasm: Validated
+DDB2,Q92466,Supported,Nucleoplasm: Supported;Cell Junctions: Approved
+DDI2,Q5TDH0,Validated,Nucleoplasm: Validated;Cytosol: Validated
+DDRGK1,Q96HY6,Supported,Nucleoli: Uncertain;Endoplasmic reticulum: Supported
+DDX1,Q92499,Validated,Nucleoplasm: Validated;Cytosol: Validated
+DDX11,Q96FC9,Supported,Nucleus: Supported;Nucleoli: Supported
+DDX17,Q92841,Validated,Nuclear speckles: Validated
+DDX18,Q9NVP1,Validated,Nucleoli: Validated
+DDX20,Q9UHI6,Supported,Nucleus: Uncertain;Nuclear bodies: Supported;Cytosol: Supported
+DDX21,Q9NR30,Validated,Nucleus: Validated;Nucleoli: Validated
+DDX23,Q9BUQ8,Supported,Nucleus: Supported;Nucleoli: Supported
+DDX28,Q9NUL7,Supported,Nucleoli: Supported;Cytosol: Supported;Mitochondria: Supported
+DDX31,Q9H8H2,Supported,Nucleoli: Supported;Golgi apparatus: Approved;Vesicles: Approved
+DDX39B,Q13838,Validated,Nuclear speckles: Validated
+DDX3Y,O15523,Supported,Nucleus: Supported;Cytosol: Supported
+DDX41,Q9UJV9,Supported,Nucleus: Supported
+DDX42,Q86XP3,Validated,Nuclear speckles: Validated
+DDX46,Q7L014,Validated,Nuclear speckles: Validated
+DDX47,Q9H0S4,Validated,Nucleoli: Validated
+DDX5,P17844,Validated,Nucleoplasm: Validated
+DDX50,Q9BQ39,Validated,Nucleoli: Validated
+DDX52,Q9Y2R4,Supported,Nucleus: Approved;Nucleoli: Supported
+DDX55,Q8NHQ9,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+DEAF1,O75398,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Approved
+DEF6,Q9H4E7,Validated,Nucleoplasm: Validated
+DEK,P35659,Validated,Nucleus: Validated
+DENND1A,Q8TEH3,Supported,Nucleoplasm: Approved;Vesicles: Supported;Cytosol: Approved
+DENND1B,Q6P3S1,Supported,Nuclear speckles: Approved;Cytosol: Supported
+DEPDC1,Q5TB30,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+DERA,Q9Y315,Supported,Nucleus: Supported
+DGKZ,Q13574,Supported,Nuclear speckles: Supported
+DHODH,Q02127,Supported,Nucleoplasm: Approved;Mitochondria: Validated
+DHRS12,A0PJE2,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved;Vesicles: Approved
+DHRS2,Q13268,Validated,Nucleus: Validated;Mitochondria: Validated
+DHX15,O43143,Validated,Nuclear speckles: Validated
+DHX16,O60231,Supported,Nucleoplasm: Supported
+DHX33,Q9H6R0,Supported,Nucleoli: Supported
+DHX36,Q9H2U1,Supported,Nucleus: Supported;Cytosol: Supported
+DHX38,Q92620,Supported,Nucleus: Supported
+DHX40,Q8IX18,Supported,Nucleus: Supported
+DHX8,Q14562,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+DHX9,Q08211,Validated,Nucleus: Validated
+DIAPH2,O60879,Supported,Nucleoli: Approved;Endoplasmic reticulum: Approved;Vesicles: Supported
+DIO2,Q92813,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DIS3,Q9Y2L1,Validated,Nucleus: Supported;Cytosol: Supported
+DKC1,O60832,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+DMAP1,Q9NPF5,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DMTF1,Q9Y222,Supported,Nucleoplasm: Supported
+DMXL1,Q9Y485,Supported,Nucleoli: Supported;Cytosol: Supported
+DNAJB1,P25685,Validated,Nucleus: Validated;Cytosol: Validated
+DNAJB2,P25686,Validated,Nuclear membrane: Validated
+DNAJB4,Q9UDY4,Validated,Nucleoplasm: Validated;Cytosol: Validated;Plasma membrane: Validated
+DNAJB6,O75190,Supported,Nucleoplasm: Supported
+DNAJC7,Q99615,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DNAJC8,O75937,Validated,Nucleoplasm: Validated
+DNAJC9,Q8WXX5,Supported,Nucleoplasm: Supported;Plasma membrane: Supported
+DNLZ,Q5SXM8,Validated,Nucleoplasm: Approved;Mitochondria: Validated
+DNM1,Q05193,Supported,Nucleoplasm: Supported
+DNMT1,P26358,Validated,Nucleoplasm: Validated
+DNMT3A,Q9Y6K1,Supported,Nucleoplasm: Supported
+DNTTIP1,Q9H147,Validated,Nucleus: Validated
+DNTTIP2,Q5QJE6,Validated,Nucleoli: Validated
+DOCK1,Q14185,Validated,Nucleus: Validated
+DOCK4,Q8N1I0,Supported,Nucleoli: Approved;Golgi apparatus: Approved;Cytosol: Supported;Plasma membrane: Supported
+DOT1L,Q8TEK3,Validated,Nucleoplasm: Validated
+DPF2,Q92785,Supported,Nucleoplasm: Supported
+DPF3,Q92784,Validated,Nucleoplasm: Validated
+DPH3,Q96FX2,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DPH6,Q7L8W6,Validated,Nucleus: Validated;Nucleoli: Validated
+DPP3,Q9NY33,Validated,Nuclear speckles: Uncertain;Cytosol: Validated;Plasma membrane: Uncertain
+DPY30,Q9C005,Validated,Nucleoplasm: Validated;Golgi apparatus: Validated
+DR1,Q01658,Supported,Nucleus: Supported
+DRG1,Q9Y295,Supported,Nuclear bodies: Approved;Cytosol: Supported
+DRG2,P55039,Supported,Nucleoplasm: Approved;Vesicles: Approved;Cytosol: Supported
+DSE,Q9UL01,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DSN1,Q9H410,Supported,Nucleus: Supported
+DTL,Q9NZJ0,Validated,Nucleus: Validated;Cytosol: Approved
+DTWD2,Q8NBA8,Supported,Nuclear bodies: Supported
+DTX1,Q86Y01,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Supported
+DTX2,Q86UW9,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported
+DTX3L,Q8TDB6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DUSP10,Q9Y6W6,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved;Cytosol: Supported
+DUSP11,O75319,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Cytokinetic bridge: Uncertain
+DUSP12,Q9UNI6,Supported,Nucleus: Supported
+DUSP16,Q9BY84,Supported,Nucleoplasm: Supported
+DUSP18,Q8NEJ0,Supported,Nucleoplasm: Supported
+DUSP2,Q05923,Supported,Nucleus: Supported;Nuclear membrane: Supported
+DUSP23,Q9BVJ7,Supported,Nucleoplasm: Supported
+DUSP26,Q9BV47,Supported,Nucleus: Supported
+DUSP3,P51452,Supported,Nucleoplasm: Supported;Cytosol: Approved
+DUSP4,Q13115,Supported,Nucleoplasm: Supported
+DUT,P33316,Supported,Nucleoplasm: Supported
+DVL2,O14641,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+DYNC1I2,Q13409,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported;Microtubules: Approved;Cytosol: Supported
+DYNLT1,P63172,Supported,Nucleoplasm: Supported
+DYRK2,Q92630,Supported,Nucleoplasm: Supported;Cytosol: Supported
+DYRK3,O43781,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+DZIP1,Q86YF9,Supported,Nucleoplasm: Supported;Microtubule organizing center: Approved;Cytosol: Supported
+E2F1,Q01094,Validated,Nucleoplasm: Validated;Centrosome: Supported
+E2F3,O00716,Supported,Nucleoplasm: Supported;Cytosol: Approved
+E2F4,Q16254,Supported,Nucleoplasm: Supported
+E2F5,Q15329,Supported,Nucleus: Supported;Nucleoli: Supported
+E2F6,O75461,Supported,Nucleus: Supported;Nucleoli: Supported
+E2F7,Q96AV8,Supported,Nuclear speckles: Supported
+E2F8,A0AVK6,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+E4F1,Q66K89,Validated,Nucleoplasm: Validated
+EAF1,Q96JC9,Validated,Nucleoplasm: Supported;Nuclear bodies: Supported;Vesicles: Supported
+EARS2,Q5JPH6,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+EBNA1BP2,Q99848,Validated,Nucleoli: Validated
+ECD,O95905,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ECSIT,Q9BQ95,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ECT2,Q9H8V3,Supported,Nucleus: Supported
+EDC4,Q6P2E9,Validated,Nucleoplasm: Supported;Cytoplasmic bodies: Validated
+EDF1,O60869,Supported,Nucleus: Supported;Cytosol: Supported
+EED,O75530,Supported,Nucleoplasm: Supported
+EEF1A2,Q05639,Validated,Nucleoli: Validated;Cytosol: Validated
+EEF1D,P29692,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+EEF1E1,O43324,Supported,Nucleus: Supported;Cytosol: Supported
+EFHD1,Q9BUP0,Supported,Nucleoli (Fibrillar center): Approved;Golgi apparatus: Supported
+EFNB2,P52799,Supported,Nucleoplasm: Supported;Cytosol: Supported
+EFTUD2,Q15029,Supported,Nucleoplasm: Supported;Cytosol: Approved
+EGLN2,Q96KS0,Supported,Nucleoplasm: Supported
+EGR1,P18146,Validated,Nucleoplasm: Validated
+EGR2,P11161,Supported,Nucleoplasm: Supported
+EHF,Q9NZC4,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+EHMT1,Q9H9B1,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+EHMT2,Q96KQ7,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported
+EID1,Q9Y6B2,Supported,Nucleoplasm: Supported
+EID2,Q8N6I1,Supported,Nucleoplasm: Supported
+EID3,Q8N140,Supported,Nucleus: Supported;Nucleoli: Supported
+EIF1AD,Q8N9N8,Supported,Nucleoplasm: Supported;Vesicles: Supported
+EIF2AK1,Q9BQI3,Supported,Nucleus: Supported;Cytosol: Supported
+EIF2S1,P05198,Validated,Nucleoplasm: Approved;Cytosol: Validated
+EIF2S2,P20042,Supported,Nucleoli: Approved;Endoplasmic reticulum: Supported
+EIF3A,Q14152,Supported,Nucleus: Approved;Cytosol: Supported
+EIF3E,P60228,Validated,Nuclear bodies: Validated;Cytosol: Validated
+EIF4A3,P38919,Supported,Nucleoplasm: Supported
+EIF4EBP1,Q13541,Supported,Nucleoplasm: Supported;Cytosol: Supported
+EIF5A,P63241,Validated,Nucleoplasm: Validated;Cytosol: Validated
+EIF6,P56537,Supported,Nucleoplasm: Supported
+ELAC1,Q9H777,Supported,Nucleus: Supported;Cytosol: Supported
+ELAC2,Q9BQ52,Validated,Nucleoplasm: Validated
+ELAVL1,Q15717,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+ELF1,P32519,Supported,Nucleoplasm: Supported
+ELF2,Q15723,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ELF3,P78545,Validated,Nucleoplasm: Validated
+ELF4,Q99607,Supported,Nucleoplasm: Approved;Nuclear bodies: Supported
+ELF5,Q9UKW6,Supported,Nucleoplasm: Supported
+ELK1,P19419,Validated,Nucleoplasm: Validated
+ELK3,P41970,Supported,Nucleoplasm: Supported;Mitochondria: Approved
+ELK4,P28324,Supported,Nucleoplasm: Supported
+ELL2,O00472,Supported,Nucleoplasm: Supported
+ELL3,Q9HB65,Supported,Nucleoplasm: Supported;Nucleoli: Supported
+ELMOD1,Q8N336,Supported,Nucleoplasm: Approved;Cytosol: Supported
+ELMSAN1,Q6PJG2,Validated,Nucleoplasm: Validated
+ELP2,Q6IA86,Validated,Nucleus: Supported;Cytosol: Validated
+ELP4,Q96EB1,Supported,Nucleoplasm: Supported
+EMD,P50402,Validated,Nuclear membrane: Validated;Endoplasmic reticulum: Supported
+EMG1,Q92979,Validated,Nucleus: Validated;Nucleoli: Validated
+EN1,Q05925,Supported,Nucleus: Supported;Nucleoli: Supported
+EN2,P19622,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Approved
+ENO1,P06733,Validated,Nucleoplasm: Validated;Cytosol: Validated;Plasma membrane: Validated
+ENTHD2,Q96N21,Supported,Nuclear membrane: Approved;Nuclear speckles: Approved;Golgi apparatus: Supported
+EP300,Q09472,Validated,Nucleoplasm: Validated
+EP400,Q96L91,Supported,Nucleus: Supported
+EPB41L2,O43491,Validated,Nucleus: Supported;Cell Junctions: Supported;Plasma membrane: Validated
+EPHA6,Q9UF33,Validated,Nucleoplasm: Validated
+EPHB2,P29323,Supported,Nucleus: Approved;Plasma membrane: Supported
+EPM2A,O95278,Validated,Nucleoplasm: Validated
+EPN3,Q9H201,Supported,Nucleoplasm: Approved;Vesicles: Supported
+ERBB2IP,Q96RT1,Supported,Nuclear speckles: Supported;Plasma membrane: Supported
+ERCC1,P07992,Validated,Nucleoplasm: Validated
+ERCC2,P18074,Supported,Nucleoplasm: Supported
+ERCC3,P19447,Validated,Nucleoplasm: Validated
+ERCC4,Q92889,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ERCC6,Q03468,Supported,Nucleus: Supported
+ERCC6L,Q2NKX8,Supported,Nucleoplasm: Supported;Centrosome: Supported;Cytosol: Supported
+ERF,P50548,Validated,Nucleoplasm: Validated
+ERGIC1,Q969X5,Validated,Nucleoplasm: Supported;Vesicles: Validated
+ERGIC2,Q96RQ1,Supported,Nucleoli: Supported;Vesicles: Supported
+ERGIC3,Q9Y282,Supported,Nucleoplasm: Supported
+ERI2,A8K979,Supported,Nucleus: Supported;Golgi apparatus: Supported
+ESCO2,Q56NI9,Supported,Nucleus: Supported;Golgi apparatus: Supported
+ESPL1,Q14674,Supported,Nucleoplasm: Supported;Vesicles: Supported
+ESRP1,Q6NXG1,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+ESRP2,Q9H6T0,Validated,Nucleoplasm: Validated
+ESX1,Q8N693,Supported,Nuclear speckles: Supported
+ETNK1,Q9HBU6,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+ETS1,P14921,Validated,Nucleoplasm: Validated
+ETS2,P15036,Supported,Nucleoplasm: Supported;Plasma membrane: Uncertain
+ETV4,P43268,Supported,Nucleoli: Supported
+ETV5,P41161,Supported,Nucleoplasm: Supported
+ETV6,P41212,Validated,Nucleoli: Validated;Cytosol: Supported
+ETV7,Q9Y603,Supported,Nucleoplasm: Supported
+EWSR1,Q01844,Validated,Nucleus: Validated;Nucleoli: Supported
+EXO1,Q9UQ84,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+EXO5,Q9H790,Supported,Nucleoplasm: Supported;Cytosol: Supported
+EXOC4,Q96A65,Supported,Nucleus: Supported;Nucleoli: Supported
+EXOC6,Q8TAG9,Supported,Nucleoplasm: Approved;Vesicles: Supported
+EXOSC10,Q01780,Supported,Nucleus: Approved;Nucleoli: Supported;Cytosol: Approved
+EXOSC2,Q13868,Supported,Nucleus: Supported;Nucleoli: Supported
+EXOSC3,Q9NQT5,Supported,Nucleoplasm: Supported
+EXOSC5,Q9NQT4,Validated,Nucleus: Uncertain;Nucleoli: Validated
+EXOSC7,Q15024,Supported,Nuclear speckles: Supported
+EXOSC9,Q06265,Validated,Nucleus: Supported;Nucleoli: Validated
+EYA1,Q99502,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+EYA3,Q99504,Validated,Nucleoplasm: Validated
+EZH1,Q92800,Supported,Nucleoplasm: Supported
+EZH2,Q15910,Supported,Nucleoplasm: Supported
+FAAP100,Q0VG06,Validated,Nucleoplasm: Validated;Intermediate filaments: Validated;Cytosol: Validated
+FAAP20,Q6NZ36,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cell Junctions: Uncertain
+FAAP24,Q9BTP7,Supported,Nucleoplasm: Supported;Vesicles: Approved
+FABP7,O15540,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FADD,Q13158,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FAF1,Q9UNN5,Validated,Nucleus: Validated
+FAHD1,Q6P587,Validated,Nucleus: Validated;Mitochondria: Validated
+FAM103A1,Q9BTL3,Supported,Nucleoplasm: Supported
+FAM107B,Q9H098,Supported,Nucleoplasm: Supported
+FAM110A,Q9BQ89,Supported,Nucleus: Approved;Vesicles: Supported;Cytosol: Supported
+FAM114A1,Q8IWE2,Validated,Nucleus: Validated;Golgi apparatus: Validated;Cytosol: Validated
+FAM126B,Q8IXS8,Supported,Nucleus: Approved;Cell Junctions: Supported
+FAM129B,Q96TA1,Supported,Nucleoplasm: Approved;Cytosol: Validated;Plasma membrane: Approved
+FAM131B,Q86XD5,Validated,Nucleoplasm: Validated;Cytosol: Validated
+FAM134B,Q9H6L5,Supported,Nuclear bodies: Approved;Endoplasmic reticulum: Supported
+FAM169A,Q9Y6X4,Supported,Nuclear membrane: Validated;Cytosol: Uncertain
+FAM172A,Q8WUF8,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FAM175A,Q6UWZ7,Supported,Nuclear bodies: Supported
+FAM184A,Q8NB25,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported;Cytosol: Approved
+FAM188A,Q9H8M7,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported
+FAM189A1,O60320,Supported,Nucleus: Supported
+FAM189B,P81408,Supported,Nucleoplasm: Supported
+FAM192A,Q9GZU8,Supported,Nucleoplasm: Supported;Vesicles: Supported
+FAM193B,Q96PV7,Validated,Nucleus: Validated;Nucleoli: Approved
+FAM204A,Q9H8W3,Supported,Nucleus: Supported;Nucleoli: Supported
+FAM206A,Q9NX38,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FAM208A,Q9UK61,Validated,Nucleoplasm: Validated
+FAM208B,Q5VWN6,Supported,Nucleus: Supported;Cytosol: Supported
+FAM20B,O75063,Supported,Nucleoplasm: Uncertain;Golgi apparatus: Supported
+FAM217B,Q9NTX9,Supported,Nucleoplasm: Supported
+FAM219A,Q8IW50,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported;Vesicles: Supported
+FAM21A,Q641Q2,Supported,Nucleoli: Approved;Vesicles: Supported;Cytosol: Uncertain
+FAM21C,Q9Y4E1,Supported,Nucleoli: Approved;Vesicles: Supported;Cytosol: Uncertain
+FAM222B,Q8WU58,Validated,Nucleoplasm: Validated
+FAM32A,Q9Y421,Supported,Nucleus: Supported;Nucleoli: Supported
+FAM50A,Q14320,Validated,Nucleoplasm: Validated
+FAM50B,Q9Y247,Validated,Nucleoplasm: Validated;Cytokinetic bridge: Validated
+FAM63A,Q8N5J2,Supported,Nucleoplasm: Supported
+FAM63B,Q8NBR6,Validated,Nucleoplasm: Validated
+FAM64A,Q9BSJ6,Validated,Nucleus: Validated;Nucleoli: Supported;Cytosol: Approved
+FAM96A,Q9H5X1,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FAM96B,Q9Y3D0,Supported,Nucleoplasm: Supported;Cytosol: Approved
+FAM98B,Q52LJ0,Supported,Nucleoplasm: Supported;Vesicles: Approved
+FAN1,Q9Y2M0,Supported,Nucleoplasm: Supported;Cytokinetic bridge: Uncertain;Cytosol: Uncertain
+FANCA,O15360,Supported,Nucleus: Supported
+FANCC,Q00597,Supported,Nucleoplasm: Supported
+FANCD2,Q9BXW9,Supported,Nucleus: Supported;Nuclear bodies: Supported;Cytosol: Uncertain
+FANCE,Q9HB96,Supported,Nucleoplasm: Supported
+FANCG,O15287,Supported,Nucleoli: Supported;Cytosol: Supported;Plasma membrane: Approved
+FANCI,Q9NVI1,Validated,Nucleoplasm: Validated
+FANCM,Q8IYD8,Supported,Nucleoplasm: Supported
+FANK1,Q8TC84,Supported,Nucleoplasm: Supported
+FARSB,Q9NSD9,Supported,Nucleus: Supported;Cytosol: Supported
+FASTKD3,Q14CZ7,Supported,Nucleus: Approved;Mitochondria: Supported
+FAU,P35544;P62861,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+FBL,P22087,Validated,Nucleoli (Fibrillar center): Validated
+FBLIM1,Q8WUP2,Supported,Nucleoli (Fibrillar center): Approved;Focal Adhesions: Supported;Cell Junctions: Supported
+FBXL3,Q9UKT7,Validated,Nuclear bodies: Validated
+FBXL4,Q9UKA2,Supported,Nuclear speckles: Supported
+FBXO11,Q86XK2,Supported,Nucleus: Supported
+FBXO32,Q969P5,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FBXO38,Q6PIJ6,Supported,Nucleoplasm: Supported;Cytokinetic bridge: Approved;Cytosol: Approved;Plasma membrane: Supported
+FBXO5,Q9UKT4,Supported,Nucleoplasm: Supported
+FBXO7,Q9Y3I1,Supported,Nucleus: Supported;Cytosol: Supported
+FBXW7,Q969H0,Supported,Nucleoplasm: Supported;Vesicles: Approved
+FCHO1,O14526,Validated,Nucleoplasm: Validated;Cytosol: Validated
+FEM1A,Q9BSK4,Supported,Nucleus: Supported;Golgi apparatus: Supported;Cytosol: Approved
+FEM1B,Q9UK73,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FERMT2,Q96AC1,Supported,Nucleoplasm: Supported;Focal Adhesions: Supported
+FEZF1,A0PJY2,Supported,Nucleus: Supported;Cytosol: Approved
+FGF1,P05230,Validated,Nucleoplasm: Validated
+FGF2,P09038,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+FGF5,P12034,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Cytosol: Supported
+FIBP,O43427,Supported,Nuclear speckles: Supported
+FIP1L1,Q6UN15,Validated,Nucleoplasm: Validated
+FKBP4,Q02790,Validated,Nucleoplasm: Validated;Cytosol: Validated
+FKBP5,Q13451,Validated,Nucleoplasm: Validated
+FLI1,Q01543,Supported,Nucleus: Supported;Nuclear bodies: Supported
+FLII,Q13045,Supported,Nucleoplasm: Supported;Microtubule organizing center: Supported;Cytosol: Supported
+FLT4,P35916,Supported,Nuclear speckles: Supported;Cell Junctions: Supported;Plasma membrane: Supported
+FLYWCH1,Q4VC44,Supported,Nucleoplasm: Approved;Nuclear bodies: Validated;Cytosol: Approved
+FMN1,Q68DA7,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FNBP4,Q8N3X1,Validated,Nuclear speckles: Validated
+FNDC1,Q4ZHG4,Supported,Nuclear speckles: Supported
+FOS,P01100,Supported,Nucleoplasm: Supported
+FOSB,P53539,Supported,Nucleoplasm: Supported;Vesicles: Uncertain
+FOSL1,P15407,Validated,Nucleoplasm: Validated
+FOSL2,P15408,Validated,Nucleus: Validated
+FOXA1,P55317,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported
+FOXA2,Q9Y261,Supported,Nucleoplasm: Supported;Cell Junctions: Approved
+FOXC1,Q12948,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+FOXC2,Q99958,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+FOXJ2,Q9P0K8,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+FOXK1,P85037,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Approved
+FOXK2,Q01167,Supported,Nucleoplasm: Supported;Vesicles: Supported
+FOXL2,P58012,Supported,Nucleus: Supported;Cytokinetic bridge: Supported
+FOXL2NB,Q6ZUU3,Supported,Nucleoli (Fibrillar center): Supported
+FOXM1,Q08050,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Uncertain
+FOXN2,P32314,Supported,Nucleus: Supported;Vesicles: Supported
+FOXO1,Q12778,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FOXO3,O43524,Validated,Nucleus: Validated
+FOXO4,P98177,Supported,Nuclear speckles: Supported;Cytosol: Supported
+FOXP1,Q9H334,Validated,Nucleoplasm: Validated
+FOXP2,O15409,Supported,Nucleoplasm: Supported;Vesicles: Approved;Centrosome: Approved
+FOXQ1,Q9C009,Supported,Nucleus: Supported
+FRK,P42685,Supported,Nucleoplasm: Supported;Cytosol: Supported
+FSBP,O95073,Supported,Nucleus: Supported
+FTSJ3,Q8IY81,Validated,Nucleoli: Validated
+FUBP1,Q96AE4,Validated,Nucleoplasm: Validated
+FURIN,P09958,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+FUS,P35637,Validated,Nucleoplasm: Validated
+FYTTD1,Q96QD9,Supported,Nuclear speckles: Supported
+FZD10,Q9ULW2,Supported,Nucleoplasm: Supported
+FZR1,Q9UM11,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported
+GABPA,Q06546,Validated,Nucleoplasm: Validated
+GABPB1,Q06547,Supported,Nucleoplasm: Supported;Cytoplasmic bodies: Uncertain
+GABPB2,Q8TAK5,Supported,Nucleoplasm: Supported;Cytosol: Approved
+GADD45A,P24522,Supported,Nuclear speckles: Supported
+GALNT7,Q86SF2,Validated,Nucleus: Uncertain;Golgi apparatus: Validated
+GAR1,Q9NY12,Supported,Nucleus: Approved;Nucleoli (Fibrillar center): Supported
+GATA2,P23769,Supported,Nucleoplasm: Supported
+GATA3,P23771,Supported,Nucleoplasm: Supported
+GATA4,P43694,Supported,Nuclear bodies: Supported
+GATA6,Q92908,Supported,Nucleus: Supported
+GATAD1,Q8WUU5,Supported,Nucleus: Supported
+GATAD2A,Q86YP4,Validated,Nucleoplasm: Validated
+GATAD2B,Q8WXI9,Validated,Nucleoplasm: Validated
+GBE1,Q04446,Supported,Nucleoplasm: Supported;Cytosol: Supported
+GBP2,P32456,Supported,Nucleoplasm: Supported;Actin filaments: Supported;Cytosol: Supported
+GBX2,P52951,Supported,Nucleoplasm: Supported
+GCAT,O75600,Supported,Nucleoplasm: Supported;Mitochondria: Approved
+GCC2,Q8IWJ2,Validated,Nucleoplasm: Supported;Golgi apparatus: Validated
+GCFC2,P16383,Supported,Nucleoplasm: Supported;Cytosol: Approved
+GCH1,P30793,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported;Cytosol: Supported
+GCHFR,P30047,Supported,Nucleoplasm: Supported
+GCNT1,Q02742,Supported,Nuclear speckles: Supported
+GCNT4,Q9P109,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+GEMIN2,O14893,Supported,Nucleus: Approved;Nucleoli: Approved;Nuclear bodies: Supported
+GEMIN4,P57678,Supported,Nuclear bodies: Supported;Cytosol: Supported
+GEMIN5,Q8TEQ6,Validated,Nuclear bodies: Supported;Cytosol: Validated
+GEMIN6,Q8WXD5,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+GEMIN7,Q9H840,Supported,Nucleus: Supported;Cytosol: Supported
+GEMIN8,Q9NWZ8,Supported,Nucleoplasm: Approved;Cytosol: Supported
+GET4,Q7L5D6,Supported,Nucleoplasm: Approved;Nucleoli: Approved;Cytosol: Supported
+GFOD2,Q3B7J2,Supported,Nucleoplasm: Supported;Cytosol: Approved
+GGA1,Q9UJY5,Supported,Nucleoplasm: Supported;Vesicles: Supported
+GID8,Q9NWU2,Supported,Nucleoplasm: Supported;Cell Junctions: Supported
+GINS2,Q9Y248,Supported,Nucleoplasm: Supported
+GINS3,Q9BRX5,Validated,Nucleoplasm: Validated
+GINS4,Q9BRT9,Supported,Nucleoplasm: Supported;Centrosome: Approved
+GLB1L2,Q8IW92,Supported,Nucleus: Supported
+GLDC,P23378,Supported,Nucleus: Uncertain;Mitochondria: Supported
+GLE1,Q53GS7,Supported,Nuclear membrane: Supported;Nucleoli: Approved
+GLI1,P08151,Supported,Nucleoplasm: Supported;Cytosol: Supported
+GLI2,P10070,Supported,Nucleus: Supported;Nucleoli: Supported
+GLIS3,Q8NEA6,Supported,Nucleoplasm: Supported
+GLO1,Q04760,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+GLRX2,Q9NS18,Validated,Nucleoplasm: Validated
+GLTSCR1L,Q6AI39,Supported,Nucleoplasm: Supported
+GLTSCR2,Q9NZM5,Validated,Nucleoli: Validated
+GLYR1,Q49A26,Validated,Nucleoplasm: Validated;Nuclear speckles: Supported
+GMEB1,Q9Y692,Validated,Nucleoplasm: Validated
+GMEB2,Q9UKD1,Validated,Nucleoplasm: Validated
+GMIP,Q9P107,Validated,Nucleoplasm: Validated;Cytosol: Validated;Plasma membrane: Approved
+GMNN,O75496,Validated,Nucleoplasm: Validated
+GMPPB,Q9Y5P6,Supported,Nucleus: Supported
+GNAI1,P63096,Supported,Nucleus: Approved;Nucleoli: Approved;Centrosome: Supported
+GNAI2,P04899,Supported,Nucleoplasm: Approved;Cytosol: Supported;Plasma membrane: Supported
+GNAI3,P08754,Supported,Nucleus: Approved;Nucleoli: Approved;Centrosome: Supported
+GNAS,O95467;P63092;P84996;Q5JWF2,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+GNB2L1,P63244,Validated,Nucleoplasm: Validated;Cytosol: Validated
+GNL2,Q13823,Validated,Nucleoli: Validated
+GNL3,Q9BVP2,Validated,Nucleoli: Validated;Nuclear bodies: Approved
+GNL3L,Q9NVN8,Supported,Nucleus: Approved;Nucleoli: Supported;Cytosol: Approved
+GOLGA3,Q08378,Supported,Nucleus: Approved;Golgi apparatus: Validated
+GON4L,Q3T8J9,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+GORAB,Q5T7V8,Validated,Nucleus: Supported;Golgi apparatus: Validated;Cytosol: Validated
+GOSR2,O14653,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+GOT1,P17174,Supported,Nucleoplasm: Supported;Cytosol: Supported
+GPATCH11,Q8N954,Supported,Nucleus: Supported
+GPATCH2,Q9NW75,Supported,Nuclear speckles: Supported
+GPATCH4,Q5T3I0,Supported,Nucleus: Supported;Nucleoli: Supported
+GPI,P06744,Supported,Nucleoplasm: Approved;Cytosol: Supported;Plasma membrane: Supported
+GPKOW,Q92917,Validated,Nucleoplasm: Validated
+GPN1,Q9HCN4,Supported,Nucleoplasm: Supported;Cytosol: Supported;Mitochondria: Approved
+GPR50,Q13585,Supported,Nucleoplasm: Approved;Plasma membrane: Supported
+GPRC5B,Q9NZH0,Supported,Nucleus: Approved;Nucleoli: Approved;Vesicles: Supported
+GPS2,Q13227,Supported,Nucleoplasm: Supported
+GPSM1,Q86YR5,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+GPX4,P36969,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+GRB2,P62993,Supported,Nucleus: Supported
+GRHL1,Q9NZI5,Validated,Nucleus: Validated;Golgi apparatus: Validated;Vesicles: Validated
+GRHL2,Q6ISB3,Supported,Nucleoplasm: Supported
+GRWD1,Q9BQ67,Supported,Nucleus: Approved;Nucleoli: Supported
+GSDMD,P57764,Supported,Nucleoplasm: Supported
+GSG2,Q8TF76,Supported,Nucleus: Supported
+GSK3B,P49841,Validated,Nucleus: Validated
+GSS,P48637,Supported,Nucleus: Supported
+GSTCD,Q8NEC7,Supported,Nucleus: Supported
+GSTM2,P28161,Supported,Nucleoplasm: Approved;Vesicles: Approved;Cytosol: Supported
+GSTM3,P21266,Supported,Nucleoli: Approved;Cytosol: Supported
+GSTT2B,P0CG30,Supported,Nucleoplasm: Approved;Cytosol: Supported
+GTF2A1,P52655,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+GTF2A2,P52657,Supported,Nucleoplasm: Supported
+GTF2B,Q00403,Supported,Nucleus: Supported;Nuclear bodies: Supported
+GTF2E1,P29083,Validated,Nucleus: Validated;Cytosol: Uncertain
+GTF2E2,P29084,Validated,Nucleoplasm: Validated;Cytosol: Supported
+GTF2F1,P35269,Validated,Nucleus: Validated;Cell Junctions: Supported
+GTF2F2,P13984,Supported,Nucleus: Supported;Microtubules: Supported
+GTF2H1,P32780,Validated,Nucleoplasm: Validated
+GTF2H2,Q13888,Supported,Nuclear speckles: Supported
+GTF2H3,Q13889,Supported,Nucleoplasm: Supported
+GTF2H4,Q92759,Supported,Nuclear speckles: Supported
+GTF2I,P78347,Validated,Nucleoplasm: Validated
+GTF2IRD1,Q9UHL9,Supported,Nucleoplasm: Supported;Cytosol: Approved
+GTF3A,Q92664,Supported,Nucleus: Supported
+GTF3C1,Q12789,Supported,Nucleus: Supported;Nucleoli: Supported
+GTF3C3,Q9Y5Q9,Supported,Nucleus: Supported;Nuclear membrane: Approved
+GTF3C4,Q9UKN8,Supported,Nucleus: Supported
+GTF3C5,Q9Y5Q8,Validated,Nucleoplasm: Validated
+GTF3C6,Q969F1,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+GTPBP4,Q9BZE4,Validated,Nuclear membrane: Approved;Nucleoli: Validated
+GUCY1A3,Q02108,Supported,Nucleoplasm: Approved;Cytosol: Supported
+GZF1,Q9H116,Supported,Nucleus: Supported;Nucleoli: Supported
+H1F0,P07305,Supported,Nucleus: Supported;Nuclear bodies: Supported;Golgi apparatus: Uncertain;Actin filaments: Uncertain
+H1FX,Q92522,Validated,Nucleus: Validated;Nucleoli: Validated
+H2AFX,P16104,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported
+H2AFY,O75367,Supported,Nucleus: Supported
+H2AFY2,Q9P0M6,Validated,Nucleoplasm: Validated
+H2AFZ,P0C0S5,Supported,Nucleoplasm: Supported
+H3F3A,P84243,Supported,Nucleoplasm: Supported
+H3F3B,P84243,Validated,Nucleoplasm: Validated
+HABP4,Q5JVS0,Supported,Nucleoplasm: Supported;Cytosol: Supported
+HACD3,Q9P035,Validated,Nuclear membrane: Uncertain;Endoplasmic reticulum: Validated;Cytosol: Uncertain;Mitochondria: Uncertain
+HAND2,P61296,Supported,Nucleoplasm: Supported;Vesicles: Approved
+HAP1,P54257,Supported,Nucleoli: Approved;Cytosol: Supported
+HAT1,O14929,Validated,Nucleoplasm: Validated
+HAUS6,Q7Z4H7,Supported,Nuclear speckles: Approved;Microtubule organizing center: Supported;Cytosol: Supported
+HAVCR2,Q8TDQ0,Supported,Nucleoplasm: Supported
+HBP1,O60381,Validated,Nuclear speckles: Validated
+HCFC1,P51610,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+HCFC2,Q9Y5Z7,Supported,Nucleoplasm: Supported;Cytosol: Approved;Plasma membrane: Approved
+HDAC1,Q13547,Validated,Nucleoplasm: Validated
+HDAC2,Q92769,Validated,Nucleus: Validated
+HDAC3,O15379,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+HDAC4,P56524,Supported,Nucleoplasm: Supported;Cytosol: Supported
+HDAC5,Q9UQL6,Supported,Nuclear speckles: Supported;Golgi apparatus: Approved;Cytosol: Supported
+HDAC6,Q9UBN7,Supported,Nucleoplasm: Supported
+HDAC8,Q9BY41,Supported,Nucleus: Supported;Plasma membrane: Supported
+HDGF,P51858,Validated,Nucleoplasm: Validated
+HDHD3,Q9BSH5,Supported,Nucleoli: Supported
+HEATR1,Q9H583,Validated,Nucleoli (Fibrillar center): Validated;Mitochondria: Validated
+HECTD1,Q9ULT8,Supported,Nucleus: Supported;Nucleoli: Supported
+HERC4,Q5GLZ8,Supported,Nucleoli (Fibrillar center): Approved;Cytosol: Supported
+HERC6,Q8IVU3,Supported,Nucleus: Approved;Cytosol: Supported
+HES1,Q14469,Supported,Nucleoplasm: Supported
+HEXIM1,O94992,Validated,Nucleoplasm: Validated;Vesicles: Validated
+HEXIM2,Q96MH2,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported
+HGH1,Q9BTY7,Supported,Nucleoplasm: Approved;Nuclear bodies: Approved;Cytosol: Approved
+HIC1,Q14526,Supported,Nucleoplasm: Supported;Cytosol: Supported
+HIC2,Q96JB3,Supported,Nucleus: Supported
+HIF1A,Q16665,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Plasma membrane: Approved
+HIF1AN,Q9NWT6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+HIF3A,Q9Y2N7,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Approved
+HIGD1A,Q9Y241,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+HILPDA,Q9Y5L2,Supported,Nucleoplasm: Uncertain;Lipid droplets: Supported
+HINFP,Q9BQA5,Supported,Nucleus: Supported;Cell Junctions: Supported;Cytosol: Supported
+HINT1,P49773,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Supported
+HINT3,Q9NQE9,Supported,Nucleoli: Supported;Cytosol: Supported;Mitochondria: Approved
+HIPK2,Q9H2X6,Supported,Nucleus: Supported
+HIPK3,Q9H422,Supported,Nuclear bodies: Supported;Cytosol: Supported
+HIRA,P54198,Validated,Nucleoplasm: Validated
+HIRIP3,Q9BW71,Validated,Nucleus: Validated
+HIST1H1B,P16401,Supported,Nucleoplasm: Supported
+HIST1H1C,P16403,Supported,Nucleus: Supported;Nucleoli: Supported
+HIST1H1E,P10412,Supported,Nuclear speckles: Supported
+HIST1H2AE,P04908,Supported,Nucleoplasm: Supported
+HIST3H3,Q16695,Supported,Nucleoplasm: Supported
+HIST4H4,P62805,Supported,Nucleoplasm: Supported
+HIVEP1,P15822,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Mitochondria: Approved
+HIVEP2,P31629,Supported,Nucleoplasm: Supported
+HJURP,Q8NCD3,Validated,Nucleus: Validated;Nucleoli: Validated;Cytosol: Approved
+HKR1,P10072,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported;Mitochondria: Supported
+HLF,Q16534,Validated,Nucleus: Validated
+HLTF,Q14527,Validated,Nucleus: Validated
+HMBOX1,Q6NT76,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated;Cytosol: Validated
+HMG20B,Q9P0W2,Validated,Nucleoplasm: Validated
+HMGA2,P52926,Supported,Nucleus: Supported;Nucleoli: Supported
+HMGB1,P09429,Supported,Nucleus: Supported
+HMGB2,P26583,Supported,Nucleus: Supported;Nucleoli: Approved
+HMGCS1,Q01581,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Supported
+HMGN1,P05114,Supported,Nucleus: Supported
+HMGN2,P05204,Supported,Nucleus: Supported
+HMGN3,Q15651,Validated,Nucleus: Validated;Cytosol: Supported
+HMGN5,P82970,Supported,Nucleus: Supported
+HN1,Q9UK76,Supported,Nucleus: Supported;Nuclear membrane: Supported;Nucleoli: Supported
+HNF1A,P20823,Supported,Nucleoplasm: Supported
+HNF1B,P35680,Supported,Nucleoplasm: Supported
+HNF4A,P41235,Supported,Nucleoplasm: Supported
+HNRNPA0,Q13151,Validated,Nucleoplasm: Validated
+HNRNPA1,P09651,Validated,Nucleoplasm: Validated
+HNRNPA2B1,P22626,Validated,Nucleoplasm: Validated
+HNRNPA3,P51991,Validated,Nucleoplasm: Validated
+HNRNPAB,Q99729,Validated,Nucleoplasm: Validated
+HNRNPC,P07910,Validated,Nucleoplasm: Validated
+HNRNPD,Q14103,Validated,Nucleoplasm: Validated
+HNRNPDL,O14979,Validated,Nucleoplasm: Validated
+HNRNPF,P52597,Validated,Nucleoplasm: Validated
+HNRNPH1,P31943,Supported,Nucleoplasm: Supported;Cytosol: Approved
+HNRNPH2,P55795,Validated,Nucleoplasm: Validated
+HNRNPH3,P31942,Supported,Nucleoplasm: Supported
+HNRNPK,P61978,Validated,Nucleoplasm: Validated
+HNRNPL,P14866,Validated,Nucleoplasm: Supported
+HNRNPM,P52272,Validated,Nucleoplasm: Validated
+HNRNPR,O43390,Validated,Nucleoplasm: Validated
+HNRNPU,Q00839,Supported,Nucleoplasm: Supported
+HNRNPUL1,Q9BUJ2,Validated,Nucleoplasm: Validated
+HNRNPUL2,Q1KMD3,Validated,Nucleoplasm: Validated
+HOMEZ,Q8IX15,Supported,Nucleus: Supported;Nucleoli: Supported
+HOXA10,P31260,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+HOXA11,P31270,Supported,Nucleoplasm: Supported
+HOXA3,O43365,Supported,Nucleoplasm: Supported
+HOXA4,Q00056,Validated,Nuclear bodies: Validated
+HOXA9,P31269,Supported,Nucleus: Supported
+HOXB13,Q92826,Validated,Nucleoplasm: Validated
+HOXB2,P14652,Supported,Nucleus: Supported
+HOXB3,P14651,Supported,Nucleus: Supported
+HOXB5,P09067,Supported,Nucleus: Supported
+HOXB7,P09629,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Uncertain
+HOXB8,P17481,Supported,Nucleoplasm: Supported
+HOXC10,Q9NYD6,Supported,Nuclear bodies: Supported
+HOXC11,O43248,Supported,Nucleoplasm: Supported;Cytosol: Approved
+HOXC4,P09017,Supported,Nucleus: Supported
+HOXC5,Q00444,Supported,Nucleoplasm: Supported
+HOXC6,P09630,Supported,Nucleoplasm: Supported;Cytosol: Approved
+HOXC9,P31274,Validated,Nucleoplasm: Validated
+HOXD1,Q9GZZ0,Supported,Nucleoplasm: Supported
+HOXD13,P35453,Supported,Nucleus: Supported
+HOXD3,P31249,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported
+HOXD4,P09016,Validated,Nucleus: Validated;Cell Junctions: Approved
+HOXD9,P28356,Supported,Nucleus: Supported;Nucleoli: Supported
+HP1BP3,Q5SSJ5,Supported,Nuclear speckles: Supported
+HPGD,P15428,Supported,Nucleoplasm: Approved;Cytosol: Supported
+HPSE,Q9Y251,Supported,Nucleoplasm: Supported;Vesicles: Supported
+HR,O43593,Supported,Nucleoplasm: Supported
+HS6ST2,Q96MM7,Validated,Nucleoplasm: Validated
+HSCB,Q8IWL3,Supported,Nucleus: Approved;Cytosol: Supported;Mitochondria: Supported
+HSF1,Q00613,Supported,Nucleoplasm: Supported;Cytosol: Supported
+HSF2,Q03933,Supported,Nucleoplasm: Supported
+HSF4,Q9ULV5,Supported,Nuclear speckles: Supported
+HSPA4,P34932,Supported,Nucleoplasm: Supported;Cytosol: Supported
+HSPB3,Q12988,Supported,Nuclear speckles: Supported
+HSPH1,Q92598,Validated,Nucleoplasm: Validated;Cytosol: Validated
+HTATSF1,O43719,Validated,Nucleoplasm: Validated
+HTR7,P34969,Supported,Nuclear speckles: Approved;Cytosol: Approved;Plasma membrane: Supported
+HTT,P42858,Supported,Nucleoplasm: Supported;Cytosol: Supported
+HUWE1,Q7Z6Z7,Validated,Nucleoplasm: Validated;Cytosol: Validated
+HYPK,Q9NX55,Supported,Nucleoplasm: Supported;Microtubules: Approved
+IAH1,Q2TAA2,Supported,Nucleoplasm: Supported
+IBTK,Q9P2D0,Supported,Nucleoplasm: Supported
+ICE1,Q9Y2F5,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ICE2,Q659A1,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ICT1,Q14197,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+ID1,P41134,Validated,Nucleoplasm: Validated;Golgi apparatus: Uncertain
+ID3,Q02535,Supported,Nucleoplasm: Supported
+ID4,P47928,Supported,Nucleus: Supported
+IER2,Q9BTL4,Validated,Nucleoplasm: Validated
+IER5,Q5VY09,Supported,Nucleus: Supported;Nucleoli: Supported
+IFI16,Q16666,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Approved
+IFT122,Q9HBG6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+IGFALS,P35858,Supported,Nucleoplasm: Supported
+IK,Q13123,Validated,Nuclear speckles: Validated
+IKBKAP,O95163,Supported,Nucleoplasm: Supported;Cytosol: Supported
+IKZF4,Q9H2S9,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+IKZF5,Q9H5V7,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+IL15,P40933,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported
+IL17RD,Q8NFM7,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+IL37,Q9NZH6,Supported,Nucleoplasm: Supported;Vesicles: Supported
+ILF2,Q12905,Validated,Nucleus: Validated;Nucleoli: Supported
+ILF3,Q12906,Supported,Nucleoplasm: Supported;Nucleoli: Supported;Mitochondria: Approved
+IMP3,Q9NV31,Validated,Nucleus: Validated;Nucleoli: Validated
+IMP4,Q96G21,Validated,Nucleoli: Validated
+IMPAD1,Q9NX62,Supported,Nucleus: Approved;Golgi apparatus: Supported;Cytosol: Approved
+INA,Q16352,Supported,Nucleoplasm: Approved;Nuclear membrane: Approved;Intermediate filaments: Supported
+INCENP,Q9NQS7,Supported,Nucleus: Supported;Nuclear bodies: Supported;Midbody: Supported
+ING2,Q9H160,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported;Cytosol: Supported
+ING3,Q9NXR8,Supported,Nucleus: Supported
+ING4,Q9UNL4,Supported,Nucleoplasm: Supported
+INIP,Q9NRY2,Supported,Nucleoplasm: Supported
+INO80,Q9ULG1,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+INO80B,Q9C086,Supported,Nucleus: Supported;Cytosol: Approved;Plasma membrane: Approved
+INO80C,Q6PI98,Supported,Nucleoli (Fibrillar center): Supported
+INO80E,Q8NBZ0,Supported,Nucleoplasm: Supported;Nucleoli: Supported
+INTS3,Q68E01,Supported,Nucleus: Supported;Nucleoli: Supported
+INTS5,Q6P9B9,Supported,Nucleus: Supported
+INTS6,Q9UL03,Supported,Nucleoplasm: Supported;Actin filaments: Approved
+INTS7,Q9NVH2,Supported,Nucleus: Supported;Nuclear speckles: Supported
+INTS9,Q9NV88,Validated,Nucleoplasm: Validated
+IP6K1,Q92551,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Cytosol: Supported
+IPMK,Q8NFU5,Validated,Nucleus: Validated
+IPO11,Q9UI26,Validated,Nucleus: Validated;Nucleoli (Fibrillar center): Validated
+IPO5,O00410,Supported,Nucleoplasm: Supported;Cytosol: Supported
+IPO7,O95373,Validated,Nucleoplasm: Validated;Cytosol: Validated
+IPO8,O15397,Supported,Nucleus: Supported
+IRAK1,P51617,Supported,Nucleus: Supported;Cytosol: Supported
+IRF1,P10914,Supported,Nucleoplasm: Supported;Cytosol: Supported
+IRF2,P14316,Validated,Nucleoplasm: Validated;Cytosol: Validated
+IRF2BP1,Q8IU81,Supported,Nucleoplasm: Supported
+IRF2BP2,Q7Z5L9,Validated,Nucleoplasm: Validated
+IRF2BPL,Q9H1B7,Validated,Nucleoplasm: Validated
+IRF4,Q15306,Supported,Nucleoplasm: Supported
+IRF6,O14896,Validated,Nucleus: Approved;Cytosol: Validated
+IRF8,Q02556,Validated,Nucleoplasm: Validated
+IRX1,P78414,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+ISG20,Q96AZ6,Supported,Nucleus: Supported
+ISG20L2,Q9H9L3,Supported,Nucleoplasm: Supported
+ISL1,P61371,Validated,Nucleoplasm: Validated
+ISM2,Q6H9L7,Supported,Nucleoplasm: Supported
+ISX,Q2M1V0,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ISY1,Q9ULR0,Validated,Nuclear speckles: Validated
+ISY1-RAB43,,Validated,Nuclear speckles: Validated
+ITCH,Q96J02,Supported,Nucleoplasm: Supported
+ITGB1BP1,O14713,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ITGB3BP,Q13352,Supported,Nucleoplasm: Supported
+ITGB4,P16144,Supported,Nucleus: Approved;Cell Junctions: Supported;Plasma membrane: Supported
+ITPKC,Q96DU7,Supported,Nuclear speckles: Supported
+ITPR2,Q14571,Supported,Nucleus: Uncertain;Endoplasmic reticulum: Supported
+IVD,P26440,Validated,Nucleoplasm: Approved;Mitochondria: Validated
+IVL,P07476,Supported,Nuclear bodies: Approved;Centrosome: Approved;Cytosol: Supported
+IWS1,Q96ST2,Validated,Nucleoplasm: Validated
+JADE2,Q9NQC1,Validated,Nucleoplasm: Validated
+JAK2,O60674,Supported,Nucleoplasm: Supported;Focal Adhesions: Approved;Plasma membrane: Approved
+JARID2,Q92833,Supported,Nucleus: Supported;Mitochondria: Approved
+JAZF1,Q86VZ6,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+JMJD1C,Q15652,Supported,Nucleoplasm: Approved;Cytosol: Approved
+JMJD6,Q6NYC1,Supported,Nucleoplasm: Supported
+JPH1,Q9HDC5,Supported,Nucleus: Supported
+JUN,P05412,Validated,Nucleoplasm: Validated
+JUNB,P17275,Validated,Nucleoplasm: Validated
+JUND,P17535,Supported,Nucleus: Supported
+KALRN,O60229,Supported,Nucleoplasm: Approved;Cytosol: Supported
+KANSL1,Q7Z3B3,Supported,Nucleoplasm: Supported
+KANSL2,Q9H9L4,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+KANSL3,Q9P2N6,Validated,Nucleus: Validated
+KAT5,Q92993,Supported,Nucleoplasm: Supported
+KAT7,O95251,Supported,Nucleoplasm: Supported
+KAT8,Q9H7Z6,Supported,Nucleoplasm: Supported
+KATNA1,O75449,Supported,Nucleus: Supported;Microtubule organizing center: Supported
+KAZN,Q674X7,Supported,Nucleoplasm: Supported;Cytosol: Supported
+KCMF1,Q9P0J7,Validated,Nucleoplasm: Validated;Cytosol: Validated
+KCTD10,Q9H3F6,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+KCTD13,Q8WZ19,Supported,Nucleus: Supported;Nuclear bodies: Supported
+KCTD9,Q7L273,Supported,Nucleoplasm: Supported;Intermediate filaments: Supported;Cytosol: Supported
+KDELC1,Q6UW63,Supported,Nucleus: Supported
+KDELC2,Q7Z4H8,Supported,Nucleoplasm: Supported;Vesicles: Approved
+KDF1,Q8NAX2,Supported,Nucleoplasm: Approved;Mitotic spindle: Approved;Cell Junctions: Supported
+KDM1A,O60341,Validated,Nucleoplasm: Validated;Cytosol: Approved
+KDM3A,Q9Y4C1,Validated,Nucleoplasm: Validated
+KDM3B,Q7LBC6,Validated,Nucleoplasm: Validated
+KDM4A,O75164,Supported,Nucleoli (Fibrillar center): Supported
+KDM4B,O94953,Supported,Nucleus: Supported;Cytosol: Approved
+KDM5B,Q9UGL1,Supported,Nucleus: Supported
+KDM5C,P41229,Validated,Nucleoplasm: Validated;Cytosol: Validated
+KDM7A,Q6ZMT4,Supported,Nucleoplasm: Supported;Nucleoli: Approved
+KEAP1,Q14145,Supported,Nucleoplasm: Supported;Microtubule organizing center: Approved;Cytosol: Supported
+KHDRBS1,Q07666,Validated,Nucleoplasm: Validated
+KHDRBS3,O75525,Supported,Nucleoplasm: Supported
+KHSRP,Q92945,Validated,Nucleoplasm: Validated
+KIAA0196,Q12768,Supported,Nucleoplasm: Supported
+KIAA0368,Q5VYK3,Supported,Nucleus: Supported
+KIAA0391,O15091,Supported,Nucleus: Approved;Mitochondria: Supported
+KIAA1033,Q2M389,Validated,Nucleoplasm: Validated
+KIAA1429,Q69YN4,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+KIAA1522,Q9P206,Supported,Nucleoplasm: Approved;Cell Junctions: Supported;Plasma membrane: Supported
+KIAA1551,Q9HCM1,Supported,Nucleoli: Supported;Intermediate filaments: Supported;Cytosol: Supported
+KIAA1715,Q9C0E8,Supported,Nucleoplasm: Uncertain;Endoplasmic reticulum: Supported
+KIF18B,Q86Y91,Supported,Nucleus: Supported;Microtubule ends: Supported;Cytosol: Supported
+KIF20A,O95235,Supported,Nucleoplasm: Supported
+KIF20B,Q96Q89,Validated,Nucleoplasm: Validated;Midbody: Supported;Cytosol: Approved
+KIF23,Q02241,Validated,Nucleoplasm: Validated
+KIF2A,O00139,Validated,Nucleus: Validated;Nucleoli: Validated;Centrosome: Validated
+KIF2C,Q99661,Supported,Nucleoplasm: Supported;Centrosome: Supported
+KIF4A,O95239,Validated,Nucleoplasm: Validated;Cytokinetic bridge: Validated
+KIF4B,Q2VIQ3,Validated,Nucleoplasm: Validated
+KIFC2,Q96AC6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+KIN,O60870,Validated,Nucleus: Validated
+KLC2,Q9H0B6,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+KLF16,Q9BXK1,Supported,Nucleus: Supported
+KLF3,P57682,Supported,Nucleoplasm: Supported
+KLF4,O43474,Supported,Nucleoplasm: Supported
+KLF5,Q13887,Supported,Nucleoplasm: Supported;Golgi apparatus: Uncertain;Vesicles: Uncertain
+KLF8,O95600,Supported,Nucleoplasm: Supported
+KLHDC2,Q9Y2U9,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported;Nuclear bodies: Supported
+KLHDC3,Q9BQ90,Supported,Nucleoplasm: Supported
+KLHDC4,Q8TBB5,Supported,Nucleoli: Supported
+KLHL41,O60662,Supported,Nucleus: Uncertain;Cytosol: Supported;Plasma membrane: Approved
+KLHL7,Q8IXQ5,Supported,Nucleoplasm: Supported;Cytosol: Supported
+KLHL8,Q9P2G9,Validated,Nucleoplasm: Validated
+KLK6,Q92876,Supported,Nucleoplasm: Supported;Nuclear membrane: Approved;Cytokinetic bridge: Approved
+KLLN,B2CW77,Supported,Nucleus: Supported
+KMT2A,Q03164,Supported,Nucleoplasm: Supported;Cytosol: Approved
+KMT2C,Q8NEZ4,Supported,Nucleoplasm: Supported
+KNOP1,Q1ED39,Supported,Nucleoli: Supported;Cytosol: Approved
+KPNA1,P52294,Validated,Nucleus: Validated;Cytosol: Validated
+KPNA2,P52292,Validated,Nucleoplasm: Validated;Cytosol: Validated
+KPNA4,O00629,Validated,Nucleus: Validated
+KPNB1,Q14974,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported;Cytosol: Supported
+KRI1,Q8N9T8,Validated,Nucleoli: Validated
+KRR1,Q13601,Validated,Nucleus: Validated;Nucleoli: Validated
+KRT15,P19012,Supported,Nucleoplasm: Uncertain;Intermediate filaments: Supported
+L3MBTL1,Q9Y468,Supported,Nucleus: Supported;Plasma membrane: Supported
+L3MBTL3,Q96JM7,Validated,Nucleus: Validated;Nucleoli: Validated
+LACTB2,Q53H82,Supported,Nucleus: Supported;Golgi apparatus: Supported;Cytosol: Supported
+LAGE3,Q14657,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+LAMA5,O15230,Supported,Nucleoplasm: Approved;Vesicles: Supported
+LAMP3,Q9UQV4,Supported,Nucleus: Uncertain;Vesicles: Supported
+LANCL2,Q9NS86,Supported,Nucleus: Supported;Cytosol: Supported
+LAP3,P28838,Supported,Nucleoplasm: Approved;Midbody: Approved;Cytosol: Supported
+LARP1,Q6PKG0,Supported,Nucleus: Approved;Endoplasmic reticulum: Approved;Cytosol: Supported
+LARP1B,Q659C4,Supported,Nuclear bodies: Approved;Cytosol: Supported
+LARP7,Q4G0J3,Supported,Nucleoplasm: Supported;Cytosol: Approved
+LARS,Q9P2J5,Supported,Nuclear bodies: Approved;Cytosol: Supported
+LARS2,Q15031,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+LBR,Q14739,Validated,Nuclear membrane: Validated
+LCORL,Q8N3X6,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported
+LDB2,O43679,Supported,Nucleus: Supported;Nucleoli: Supported
+LDB3,O75112,Supported,Nucleoplasm: Approved;Focal Adhesions: Supported;Cytosol: Supported
+LDLRAD4,O15165,Supported,Nucleoplasm: Approved;Vesicles: Supported
+LDOC1,O95751,Supported,Nucleus: Supported;Nucleoli: Supported
+LEMD2,Q8NC56,Validated,Nuclear membrane: Validated
+LEMD3,Q9Y2U8,Supported,Nuclear membrane: Supported
+LENG8,Q96PV6,Supported,Nucleus: Supported
+LEO1,Q8WVC0,Validated,Nucleoplasm: Validated;Nucleoli (Fibrillar center): Validated
+LETMD1,Q6P1Q0,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+LGALS3,P17931,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Approved
+LHPP,Q9H008,Supported,Nuclear speckles: Supported;Cytosol: Supported
+LIG1,P18858,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved;Vesicles: Approved
+LIG3,P49916,Supported,Nucleoplasm: Supported
+LIMD1,Q9UGP4,Supported,Nucleus: Supported;Focal Adhesions: Supported
+LIMK1,P53667,Supported,Nuclear speckles: Supported;Cytosol: Supported
+LIMK2,P53671,Supported,Nucleoplasm: Supported;Cytosol: Supported
+LIN28B,Q6ZN17,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+LIN37,Q96GY3,Supported,Nucleoplasm: Supported
+LIN9,Q5TKA1,Supported,Nucleoplasm: Supported
+LITAF,Q99732,Supported,Nucleoplasm: Supported;Vesicles: Supported;Cytosol: Supported
+LLPH,Q9BRT6,Validated,Nucleoli: Validated
+LMCD1,Q9NZU5,Supported,Nucleus: Supported;Cell Junctions: Approved;Cytosol: Supported;Plasma membrane: Approved
+LMNB1,P20700,Validated,Nuclear membrane: Validated
+LMNB2,Q03252,Supported,Nuclear membrane: Supported
+LMO4,P61968,Supported,Nucleoplasm: Supported;Midbody ring: Approved
+LONP1,P36776,Validated,Nucleus: Validated;Mitochondria: Validated
+LONRF2,Q1L5Z9,Supported,Nucleus: Supported
+LPXN,O60711,Validated,Nuclear speckles: Supported;Focal Adhesions: Validated;Cytosol: Validated
+LRIF1,Q5T3J3,Supported,Nucleus: Supported;Microtubule organizing center: Approved
+LRIG2,O94898,Supported,Nucleus: Approved;Golgi apparatus: Supported
+LRMP,Q12912,Supported,Nucleus: Approved;Vesicles: Supported;Cytosol: Approved
+LRP1,Q07954,Supported,Nucleoli: Supported;Cytosol: Supported
+LRRC23,Q53EV4,Supported,Nucleoli: Supported
+LRRC42,Q9Y546,Validated,Nucleoplasm: Validated
+LRRC45,Q96CN5,Supported,Nucleoplasm: Approved;Centrosome: Supported;Cytosol: Supported;Plasma membrane: Approved
+LRRC47,Q8N1G4,Supported,Nucleoli (Fibrillar center): Supported
+LSG1,Q9H089,Supported,Nucleus: Supported;Nuclear bodies: Supported;Cytosol: Supported
+LSM10,Q969L4,Supported,Nucleus: Supported;Nuclear bodies: Supported
+LSM11,P83369,Supported,Nucleus: Supported;Nuclear bodies: Supported
+LSM14B,Q9BX40,Supported,Nucleoli (Fibrillar center): Approved;Vesicles: Supported
+LSM2,Q9Y333,Supported,Nucleus: Supported
+LTA4H,P09960,Supported,Nucleoplasm: Supported;Cytosol: Supported
+LTB4R2,Q9NPC1,Supported,Nucleoplasm: Uncertain;Plasma membrane: Supported
+LTV1,Q96GA3,Validated,Nucleoplasm: Validated;Cytosol: Validated
+LUC7L3,O95232,Validated,Nuclear speckles: Validated
+LXN,Q9BS40,Validated,Nucleoplasm: Validated;Cytosol: Validated
+LY6K,Q17RY6,Supported,Nucleoplasm: Uncertain;Plasma membrane: Supported
+LYAR,Q9NX58,Supported,Nucleus: Approved;Nucleoli: Supported
+LYRM1,O43325,Supported,Nucleoplasm: Supported;Midbody: Approved
+LYRM4,Q9HD34,Supported,Nuclear bodies: Supported
+LYSMD1,Q96S90,Validated,Nucleus: Validated
+LYST,Q99698,Supported,Nucleoplasm: Supported
+MACROD1,Q9BQ69,Supported,Nucleoplasm: Supported
+MACROD2,A1Z1Q3,Supported,Nucleus: Supported;Nucleoli: Supported;Centrosome: Approved
+MAD1L1,Q9Y6D9,Supported,Nucleus: Supported;Actin filaments: Approved;Cytosol: Approved
+MAD2L1BP,Q15013,Supported,Nucleus: Supported;Nuclear membrane: Supported;Nucleoli: Supported
+MAD2L2,Q9UI95,Supported,Nucleoli: Supported;Cytosol: Supported
+MAEA,Q7L5Y9,Validated,Nucleoplasm: Validated
+MAF1,Q9H063,Supported,Nucleus: Supported;Nucleoli: Approved;Vesicles: Approved
+MAFK,O60675,Validated,Nucleoplasm: Validated
+MAGEA10,P43363,Supported,Nucleoplasm: Supported;Cytosol: Approved
+MAGEA11,P43364,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Supported
+MAGEC2,Q9UBF1,Supported,Nucleus: Supported;Nucleoli: Approved;Cytosol: Supported
+MAGED2,Q9UNF1,Validated,Nucleus: Validated;Nucleoli: Validated;Cytosol: Validated
+MAGI1,Q96QZ7,Validated,Nucleoplasm: Validated;Cell Junctions: Validated
+MAGOH,P61326,Supported,Nucleus: Supported
+MAK16,Q9BXY0,Supported,Nucleoli: Supported;Vesicles: Supported
+MALT1,Q9UDY8,Supported,Nucleoli: Supported;Cytosol: Supported
+MAML1,Q92585,Validated,Nucleoplasm: Validated
+MAML2,Q8IZL2,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Approved
+MAML3,Q96JK9,Supported,Nuclear speckles: Supported
+MAMLD1,Q13495,Supported,Nucleoplasm: Supported
+MAN2C1,Q9NTJ4,Validated,Nucleoplasm: Validated
+MAP2,P11137,Supported,Nucleoli: Supported;Cytosol: Supported
+MAP2K3,P46734,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MAP2K6,P52564,Supported,Nucleus: Supported;Cytosol: Supported
+MAP3K14,Q99558,Supported,Nucleus: Uncertain;Nucleoli (Fibrillar center): Uncertain;Vesicles: Approved;Cytosol: Supported
+MAP3K2,Q9Y2U5,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MAPK10,P53779,Supported,Nucleoplasm: Supported
+MAPK14,Q16539,Supported,Nuclear speckles: Supported
+MAPK7,Q13164,Validated,Nucleus: Validated;Cytosol: Validated
+MAPKAP1,Q9BPZ7,Supported,Nucleoplasm: Supported;Cytosol: Approved
+MAPKAPK2,P49137,Supported,Nucleoplasm: Supported;Centrosome: Supported
+MAPKAPK3,Q16644,Supported,Nucleoplasm: Supported
+MAPKAPK5,Q8IW41,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MAPT,P10636,Supported,Nuclear speckles: Approved;Plasma membrane: Supported
+MARCKSL1,P49006,Supported,Nucleoplasm: Supported;Actin filaments: Supported;Cytosol: Supported
+MARK2,Q7KZI7,Supported,Nucleoplasm: Approved;Plasma membrane: Supported
+MASP1,P48740,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MASTL,Q96GX5,Validated,Nucleoplasm: Validated
+MAU2,Q9Y6X3,Supported,Nucleoplasm: Supported
+MAX,P61244,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved;Vesicles: Approved
+MAZ,P56270,Supported,Nucleus: Supported
+MBD1,Q9UIS9,Supported,Nucleus: Supported
+MBD2,Q9UBB5,Validated,Nucleoplasm: Validated
+MBD3,O95983,Supported,Nucleoplasm: Supported
+MBD4,O95243,Supported,Nuclear speckles: Supported
+MBD5,Q9P267,Supported,Nucleus: Supported;Midbody: Approved
+MBD6,Q96DN6,Validated,Nucleus: Validated
+MBIP,Q9NS73,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+MBNL1,Q9NR56,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MBNL2,Q5VZF2,Supported,Nucleoplasm: Supported
+MCC,P23508,Supported,Nucleoplasm: Supported
+MCIDAS,D6RGH6,Supported,Nuclear bodies: Supported
+MCM10,Q7L590,Supported,Nucleus: Supported;Nucleoli: Supported
+MCM2,P49736,Validated,Nucleoplasm: Validated;Cytosol: Validated
+MCM3,P25205,Validated,Nucleoplasm: Validated
+MCM3AP,O60318,Supported,Nucleus: Supported;Nuclear membrane: Supported;Cytosol: Supported
+MCM4,P33991,Validated,Nucleoplasm: Validated
+MCM5,P33992,Validated,Nucleoplasm: Validated
+MCM6,Q14566,Validated,Nucleoplasm: Validated
+MCM7,P33993,Validated,Nucleoplasm: Validated
+MCM8,Q9UJA3,Supported,Nucleus: Supported
+MCMBP,Q9BTE3,Validated,Nucleoplasm: Validated
+MCRS1,Q96EZ8,Supported,Nucleoplasm: Supported
+MCTP2,Q6DN12,Validated,Nucleoplasm: Validated;Cytosol: Validated
+MDC1,Q14676,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+MDFI,Q99750,Supported,Nucleoplasm: Supported
+MDFIC,Q9P1T7,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+MDM2,Q00987,Supported,Nucleus: Supported
+MDM4,O15151,Supported,Nucleus: Supported
+MEAF6,Q9HAF1,Supported,Nucleoplasm: Approved;Nuclear bodies: Supported
+MECOM,Q03112,Supported,Nuclear speckles: Supported
+MECP2,P51608,Supported,Nucleus: Supported
+MED1,Q15648,Supported,Nucleoplasm: Supported
+MED10,Q9BTT4,Supported,Nucleoplasm: Supported
+MED13,Q9UHV7,Supported,Nucleus: Supported
+MED15,Q96RN5,Supported,Nucleus: Supported
+MED19,A0JLT2,Supported,Nucleus: Approved;Nuclear bodies: Supported
+MED25,Q71SY5,Supported,Nucleoplasm: Supported
+MED27,Q6P2C8,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Approved
+MED28,Q9H204,Supported,Nucleoplasm: Supported
+MED29,Q9NX70,Supported,Nucleoplasm: Supported
+MED4,Q9NPJ6,Supported,Nucleoplasm: Supported
+MED6,O75586,Validated,Nucleoplasm: Validated
+MED7,O43513,Supported,Nuclear bodies: Supported
+MEF2A,Q02078,Supported,Nucleoplasm: Supported
+MEF2C,Q06413,Supported,Nucleoplasm: Approved;Vesicles: Supported
+MEF2D,Q14814,Validated,Nucleoplasm: Validated
+MEIS1,O00470,Supported,Nucleoplasm: Supported
+MEN1,O00255,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MESDC2,Q14696,Supported,Nuclear bodies: Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+MESP1,Q9BRJ9,Supported,Nucleus: Supported;Nucleoli: Approved
+METTL1,Q9UBP6,Validated,Nucleus: Validated
+METTL14,Q9HCE5,Supported,Nucleoplasm: Supported
+METTL16,Q86W50,Supported,Nucleoplasm: Supported;Cytosol: Approved
+METTL17,Q9H7H0,Validated,Nucleus: Validated
+METTL22,Q9BUU2,Supported,Nucleus: Supported;Nucleoli: Supported
+MFSD8,Q8NHS3,Supported,Nucleoplasm: Supported;Vesicles: Supported
+MGA,Q8IWI9,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MGLL,Q99685,Supported,Nucleoplasm: Supported
+MGMT,P16455,Validated,Nucleoplasm: Validated
+MICAL3,Q7RTP6,Validated,Nucleoplasm: Validated;Cytosol: Uncertain;Plasma membrane: Uncertain
+MIER1,Q8N108,Validated,Nucleoplasm: Validated
+MIER3,Q7Z3K6,Validated,Nucleoplasm: Validated
+MIF4GD,A9UHW6,Supported,Nucleoli: Supported;Cytosol: Supported
+MINA,Q8IUF8,Validated,Nucleus: Validated;Nucleoli: Validated
+MIOS,Q9NXC5,Validated,Nucleoplasm: Validated;Cytosol: Validated
+MKI67,P46013,Validated,Nucleus: Validated;Nucleoli: Validated;Nuclear bodies: Validated
+MKL1,Q969V6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MKL2,Q9ULH7,Supported,Nuclear speckles: Supported
+MKNK1,Q9BUB5,Supported,Nucleoplasm: Supported
+MKNK2,Q9HBH9,Supported,Nucleus: Supported;Nucleoli: Supported;Nuclear bodies: Supported
+MLF2,Q15773,Supported,Nucleoplasm: Supported;Cytosol: Approved;Plasma membrane: Approved
+MLH1,P40692,Validated,Nucleoplasm: Validated
+MLLT1,Q03111,Supported,Nucleoplasm: Supported
+MLLT10,P55197,Supported,Nucleoplasm: Supported
+MLLT11,Q13015,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MLLT4,P55196,Validated,Nucleoplasm: Supported;Cell Junctions: Validated;Plasma membrane: Validated
+MLXIPL,Q9NP71,Supported,Nucleus: Supported
+MMACHC,Q9Y4U1,Supported,Nucleoplasm: Supported;Cytosol: Approved;Plasma membrane: Approved
+MMS19,Q96T76,Validated,Nucleoplasm: Validated
+MMS22L,Q6ZRQ5,Supported,Nucleoplasm: Supported
+MNAT1,P51948,Validated,Nucleoplasm: Validated
+MNDA,P41218,Supported,Nucleoplasm: Supported;Nucleoli: Supported
+MNT,Q99583,Validated,Nucleoplasm: Validated
+MOB2,Q70IA6,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+MORC2,Q9Y6X9,Supported,Nucleus: Supported;Cytosol: Supported
+MORC3,Q14149,Validated,Nucleoplasm: Validated;Mitochondria: Uncertain
+MORC4,Q8TE76,Validated,Nucleoplasm: Validated
+MORF4L1,Q9UBU8,Supported,Nuclear speckles: Supported
+MORF4L2,Q15014,Validated,Nucleus: Validated
+MPHOSPH10,O00566,Validated,Nucleoli: Validated
+MPHOSPH6,Q99547,Supported,Nucleus: Supported;Nucleoli: Supported
+MPHOSPH8,Q99549,Supported,Nucleus: Supported;Cytosol: Uncertain;Plasma membrane: Uncertain
+MPLKIP,Q8TAP9,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported;Vesicles: Supported
+MPO,P05164,Supported,Nucleus: Approved;Vesicles: Supported
+MRE11A,P49959,Validated,Nucleoplasm: Validated
+MRGBP,Q9NV56,Supported,Nucleus: Supported
+MRGPRF,Q96AM1,Supported,Nuclear membrane: Approved;Plasma membrane: Supported
+MRI1,Q9BV20,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported;Cytosol: Supported
+MRPL23,Q16540,Supported,Nucleoli (Fibrillar center): Approved;Mitochondria: Supported
+MRPL36,Q9P0J6,Supported,Nuclear bodies: Approved;Mitochondria: Supported
+MRPL40,Q9NQ50,Validated,Nucleoli: Validated;Mitochondria: Validated
+MRPL46,Q9H2W6,Supported,Nucleoplasm: Uncertain;Cell Junctions: Uncertain;Mitochondria: Supported
+MRPS14,O60783,Supported,Nuclear membrane: Supported;Mitochondria: Supported
+MRPS23,Q9Y3D9,Supported,Nuclear membrane: Supported;Mitochondria: Supported
+MRPS31,Q92665,Supported,Nucleoli: Uncertain;Mitochondria: Supported
+MRPS9,P82933,Validated,Nucleoli: Approved;Mitochondria: Validated
+MSANTD2,Q6P1R3,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+MSC,O60682,Supported,Nucleoplasm: Supported
+MSH6,P52701,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved;Vesicles: Approved
+MSL1,Q68DK7,Validated,Nucleoplasm: Validated
+MSRA,Q9UJ68,Validated,Nucleoplasm: Validated;Cytosol: Validated
+MSRB1,Q9NZV6,Validated,Nucleoplasm: Validated
+MSX1,P28360,Supported,Nucleoplasm: Supported
+MSX2,P35548,Supported,Nuclear speckles: Supported
+MTA1,Q13330,Validated,Nucleoplasm: Validated;Cytosol: Supported
+MTA2,O94776,Validated,Nucleoplasm: Validated
+MTA3,Q9BTC8,Supported,Nucleus: Supported;Vesicles: Approved
+MTERF3,Q96E29,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+MTF1,Q14872,Validated,Nucleoplasm: Validated
+MTF2,Q9Y483,Validated,Nucleoplasm: Supported
+MTIF3,Q9H2K0,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+MTL5,Q9Y4I5,Supported,Nucleoplasm: Supported
+MTMR3,Q13615,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MTUS1,Q9ULD2,Validated,Nucleoli: Supported;Microtubules: Validated
+MTX2,O75431,Supported,Nucleoli: Uncertain;Mitochondria: Supported
+MUS81,Q96NY9,Supported,Nucleus: Approved;Nucleoli (Fibrillar center): Supported
+MUTYH,Q9UIF7,Supported,Nucleus: Supported
+MVB12A,Q96EY5,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+MX1,P20591,Supported,Nuclear membrane: Supported;Cytosol: Supported
+MXI1,P50539,Supported,Nucleus: Supported;Nucleoli: Supported
+MYBBP1A,Q9BQG0,Supported,Nucleoli: Supported;Vesicles: Supported
+MYBL2,P10244,Validated,Nucleoplasm: Validated;Cytosol: Validated
+MYC,P01106,Validated,Nucleoplasm: Validated
+MYCL,P12524,Supported,Nucleus: Supported
+MYEF2,Q9P2K5,Supported,Nucleoplasm: Supported
+MYF5,P13349,Supported,Nucleoplasm: Supported
+MYNN,Q9NPC7,Supported,Nucleus: Supported
+MYO10,Q9HD67,Supported,Nucleoli: Approved;Cytosol: Supported;Plasma membrane: Supported
+MYO18B,Q8IUG5,Supported,Nucleoplasm: Supported;Centrosome: Supported
+MYO1C,O00159,Validated,Nuclear bodies: Supported;Plasma membrane: Validated
+MYO5C,Q9NQX4,Supported,Nucleus: Supported;Cytosol: Supported
+MYO6,Q9UM54,Supported,Nucleoplasm: Supported
+MYOD1,P15172,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Uncertain
+MYOG,P15173,Supported,Nucleoplasm: Supported
+MYSM1,Q5VVJ2,Supported,Nucleoplasm: Supported;Plasma membrane: Approved
+MYT1,Q01538,Supported,Nucleoplasm: Supported;Cytosol: Supported
+MZF1,P28698,Supported,Nucleus: Supported
+N4BP3,O15049,Supported,Nucleoplasm: Approved;Centrosome: Approved
+NAA10,P41227,Validated,Nucleoli: Validated;Cytosol: Validated
+NAA38,Q9BRA0,Supported,Nucleus: Supported
+NABP1,Q96AH0,Supported,Nucleoplasm: Supported;Cytosol: Approved
+NABP2,Q9BQ15,Validated,Nucleoplasm: Validated
+NACC1,Q96RE7,Validated,Nucleoplasm: Validated
+NAF1,Q96HR8,Validated,Nucleus: Validated;Cytosol: Supported
+NAIF1,Q69YI7,Supported,Nucleoplasm: Supported;Plasma membrane: Supported
+NANOS1,Q8WY41,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NAP1L4,Q99733,Supported,Nucleoplasm: Supported
+NARF,Q9UHQ1,Supported,Nucleus: Supported;Nucleoli: Approved
+NASP,P49321,Validated,Nucleoplasm: Validated
+NAT10,Q9H0A0,Validated,Nucleoli: Validated;Midbody: Supported
+NAV2,Q8IVL1,Supported,Nucleoplasm: Supported
+NBR1,Q14596,Supported,Nucleoplasm: Approved;Nuclear bodies: Approved;Vesicles: Supported
+NCAM2,O15394,Supported,Nuclear bodies: Approved;Plasma membrane: Supported
+NCAPD2,Q15021,Supported,Nucleus: Supported;Cytosol: Supported
+NCAPD3,P42695,Supported,Nucleoplasm: Supported
+NCAPG2,Q86XI2,Supported,Nuclear speckles: Supported
+NCAPH,Q15003,Supported,Nucleus: Supported;Cytosol: Supported
+NCAPH2,Q6IBW4,Validated,Nucleoplasm: Validated;Cytokinetic bridge: Supported
+NCBP1,Q09161,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NCBP2,P52298,Validated,Nucleoplasm: Validated
+NCF2,P19878,Validated,Nucleoli: Supported;Cytosol: Validated
+NCL,P19338,Validated,Nucleus: Supported;Nucleoli: Validated
+NCOA1,Q15788,Validated,Nucleoplasm: Validated;Cytosol: Validated;Plasma membrane: Validated
+NCOA2,Q15596,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+NCOA3,Q9Y6Q9,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NCOA5,Q9HCD5,Supported,Nucleus: Supported;Actin filaments: Supported
+NCOA6,Q14686,Supported,Nucleoplasm: Supported
+NCOR1,O75376,Validated,Nucleoplasm: Validated;Cytosol: Validated
+NCOR2,Q9Y618,Supported,Nucleoplasm: Supported
+NDC1,Q9BTX1,Supported,Nuclear membrane: Supported;Actin filaments: Uncertain;Plasma membrane: Approved
+NDC80,O14777,Supported,Nucleoplasm: Supported;Centrosome: Approved
+NDOR1,Q9UHB4,Supported,Nucleus: Supported;Intermediate filaments: Supported;Cytosol: Supported
+NDUFA9,Q16795,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+NDUFAB1,O14561,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+NDUFB1,O75438,Supported,Nuclear speckles: Uncertain;Mitochondria: Supported
+NDUFB4,O95168,Supported,Nuclear membrane: Approved;Mitochondria: Supported
+NDUFB5,O43674,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+NDUFS2,O75306,Validated,Nucleoplasm: Validated;Mitochondria: Validated
+NDUFS3,O75489,Supported,Nuclear bodies: Approved;Mitochondria: Supported
+NECAB1,Q8N987,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NEDD8,Q15843,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+NEIL1,Q96FI4,Supported,Nucleoplasm: Supported
+NEIL2,Q969S2,Supported,Nucleus: Supported;Nucleoli: Approved
+NEIL3,Q8TAT5,Validated,Nucleoplasm: Validated
+NEK11,Q8NG66,Supported,Nucleoplasm: Supported
+NEK2,P51955,Supported,Nucleus: Supported;Centrosome: Supported
+NEK6,Q9HC98,Supported,Nucleoplasm: Supported;Microtubule organizing center: Supported;Cytosol: Supported
+NEK7,Q8TDX7,Supported,Nucleoplasm: Supported
+NELFA,Q9H3P2,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated;Cytosol: Uncertain
+NELFB,Q8WX92,Validated,Nucleoplasm: Validated
+NELFCD,Q8IXH7,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Vesicles: Approved;Cytosol: Approved
+NELFE,P18615,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+NENF,Q9UMX5,Validated,Nucleus: Validated
+NEU3,Q9UQ49,Supported,Nucleoplasm: Supported;Vesicles: Approved
+NF2,P35240,Validated,Nucleus: Validated;Cytosol: Validated;Plasma membrane: Validated
+NFAT5,O94916,Supported,Nucleus: Supported;Cytosol: Supported
+NFATC1,O95644,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+NFATC2,Q13469,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NFATC3,Q12968,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NFATC4,Q14934,Supported,Nuclear speckles: Supported;Cytosol: Supported
+NFIA,Q12857,Validated,Nucleoplasm: Validated
+NFIB,O00712,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+NFIC,P08651,Validated,Nucleus: Validated;Nucleoli (Fibrillar center): Supported
+NFIX,Q14938,Supported,Nucleoplasm: Supported
+NFKB1,P19838,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NFKBIE,O00221,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Cytosol: Supported
+NFKBIZ,Q9BYH8,Supported,Nuclear speckles: Supported;Cytoplasmic bodies: Approved
+NFRKB,Q6P4R8,Validated,Nucleus: Validated
+NFS1,Q9Y697,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NFU1,Q9UMS0,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NFX1,Q12986,Validated,Nucleus: Validated;Cytosol: Supported
+NFYA,P23511,Supported,Nucleoplasm: Supported
+NFYB,P25208,Supported,Nucleoplasm: Supported
+NFYC,Q13952,Supported,Nucleoplasm: Supported
+NHEJ1,Q9H9Q4,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+NHP2,Q9NX24,Supported,Nucleoplasm: Supported;Cytosol: Approved
+NICN1,Q9BSH3,Supported,Nucleoplasm: Supported
+NIFK,Q9BYG3,Validated,Nucleoli: Validated
+NIN,Q8N4C6,Validated,Nucleus: Approved;Nucleoli: Supported;Centrosome: Validated
+NIP7,Q9Y221,Supported,Nucleus: Supported;Nucleoli: Supported
+NIPBL,Q6KC79,Supported,Nucleoplasm: Supported;Vesicles: Approved
+NKAP,Q8N5F7,Supported,Nucleoplasm: Supported;Cytosol: Approved
+NKRF,O15226,Supported,Nucleus: Approved;Nucleoli: Supported
+NKTR,P30414,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+NKX6-1,P78426,Supported,Nucleoplasm: Supported
+NLE1,Q9NVX2,Supported,Nucleus: Approved;Nucleoli: Supported
+NLK,Q9UBE8,Supported,Nucleus: Supported;Nucleoli: Supported;Cell Junctions: Supported
+NLRP1,Q9C000,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NMD3,Q96D46,Supported,Nucleus: Supported;Nucleoli: Supported
+NME1,P15531,Validated,Nucleoplasm: Supported;Cytosol: Validated
+NMI,Q13287,Supported,Nucleoplasm: Approved;Cytosol: Supported
+NMNAT1,Q9HAN9,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+NMRAL1,Q9HBL8,Validated,Nucleus: Validated
+NOC2L,Q9Y3T9,Validated,Nucleoli: Validated
+NOC3L,Q8WTT2,Validated,Nucleus: Supported;Nucleoli: Validated
+NOC4L,Q9BVI4,Supported,Nucleus: Supported;Nucleoli: Supported
+NOCT,Q9UK39,Supported,Nucleoplasm: Approved;Nuclear bodies: Supported;Cytosol: Supported
+NOL10,Q9BSC4,Supported,Nucleoli: Supported
+NOL11,Q9H8H0,Validated,Nucleoli: Validated
+NOL3,O60936,Supported,Nucleus: Supported;Cytosol: Supported
+NOL4,O94818,Supported,Nucleus: Supported
+NOL4L,Q96MY1,Validated,Nucleoplasm: Validated
+NOL6,Q9H6R4,Validated,Nucleus: Validated;Nucleoli: Validated;Mitochondria: Validated
+NOL7,Q9UMY1,Validated,Nucleus: Uncertain;Nucleoli: Validated;Mitochondria: Uncertain
+NOL8,Q76FK4,Supported,Nucleoli: Supported
+NOL9,Q5SY16,Supported,Nucleoli: Supported;Intermediate filaments: Approved
+NOLC1,Q14978,Validated,Nucleoli: Validated
+NOM1,Q5C9Z4,Validated,Nucleoli: Validated
+NONO,Q15233,Validated,Nucleoplasm: Validated
+NOP10,Q9NPE3,Supported,Nuclear bodies: Supported
+NOP14,P78316,Validated,Nucleus: Validated;Nucleoli: Validated
+NOP16,Q9Y3C1,Validated,Nucleoli: Validated
+NOP2,P46087,Supported,Nucleoli: Supported
+NOP56,O00567,Validated,Nucleoli (Fibrillar center): Validated
+NOP58,Q9Y2X3,Validated,Nucleus: Supported;Nucleoli (Fibrillar center): Validated
+NOS1,P29475,Supported,Nucleoplasm: Approved;Plasma membrane: Supported
+NOSIP,Q9Y314,Validated,Nucleus: Validated
+NOTCH2,Q04721,Supported,Nucleoplasm: Supported;Plasma membrane: Supported
+NOTCH3,Q9UM47,Supported,Nucleoplasm: Supported;Actin filaments: Supported;Cytosol: Supported
+NOVA1,P51513,Supported,Nucleus: Supported;Nucleoli: Supported
+NPAT,Q14207,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+NPLOC4,Q8TAT6,Supported,Nucleoplasm: Supported;Cytosol: Approved
+NPM1,P06748,Validated,Nucleus: Supported;Nucleoli: Validated
+NQO2,P16083,Supported,Nucleoplasm: Approved;Cytosol: Supported
+NR0B1,P51843,Supported,Nucleoplasm: Supported
+NR1D1,P20393,Supported,Nuclear bodies: Supported
+NR1I2,O75469,Validated,Nucleoplasm: Validated
+NR2C1,P13056,Supported,Nucleus: Supported;Cell Junctions: Approved;Cytosol: Approved
+NR2C2,P49116,Validated,Nucleoplasm: Validated
+NR2C2AP,Q86WQ0,Validated,Nucleoplasm: Validated
+NR3C1,P04150,Validated,Nucleoplasm: Validated;Cytosol: Validated;Mitochondria: Supported
+NR4A1,P22736,Supported,Nucleus: Supported;Cytosol: Supported
+NR4A2,P43354,Supported,Nuclear speckles: Supported
+NR6A1,Q15406,Supported,Nucleus: Supported
+NRDE2,Q9H7Z3,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+NRF1,Q16656,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+NRG2,O14511,Supported,Nucleus: Supported;Nucleoli: Supported
+NRL,P54845,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+NRM,Q8IXM6,Validated,Nuclear membrane: Validated
+NSA2,O95478,Supported,Nucleus: Supported;Nucleoli: Supported
+NSD1,Q96L73,Supported,Nucleus: Supported;Plasma membrane: Supported
+NSFL1C,Q9UNZ2,Validated,Nucleoplasm: Validated;Cytosol: Validated;Plasma membrane: Validated
+NSL1,Q96IY1,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported;Cytosol: Approved
+NSMCE1,Q8WV22,Supported,Nucleoplasm: Supported;Vesicles: Approved
+NSMCE2,Q96MF7,Supported,Nucleus: Supported;Nuclear bodies: Supported
+NSMCE4A,Q9NXX6,Validated,Nucleoplasm: Validated
+NSMF,Q6X4W1,Supported,Nucleoplasm: Supported
+NSRP1,Q9H0G5,Supported,Nucleoplasm: Supported
+NSUN2,Q08J23,Supported,Nucleus: Supported
+NSUN5,Q96P11,Validated,Nucleus: Validated;Nucleoli: Validated
+NTMT1,Q9BV86,Validated,Nucleoplasm: Validated;Cytosol: Validated
+NTRK3,Q16288,Supported,Nuclear membrane: Approved;Nucleoli: Supported
+NUAK1,O60285,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Microtubules: Approved
+NUB1,Q9Y5A7,Validated,Nucleus: Validated;Nucleoli: Validated
+NUCKS1,Q9H1E3,Supported,Nucleus: Supported;Nucleoli: Approved
+NUDCD1,Q96RS6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NUDT15,Q9NV35,Supported,Nucleoplasm: Supported
+NUDT16,Q96DE0,Supported,Nucleus: Supported;Nucleoli: Supported
+NUDT18,Q6ZVK8,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+NUDT2,P50583,Supported,Nucleoplasm: Supported
+NUDT21,O43809,Supported,Nuclear bodies: Supported;Microtubule organizing center: Uncertain
+NUDT22,Q9BRQ3,Validated,Nucleoplasm: Validated
+NUDT9,Q9BW91,Supported,Nuclear membrane: Approved;Cell Junctions: Approved;Mitochondria: Supported
+NUF2,Q9BZD4,Supported,Nucleus: Supported
+NUFIP1,Q9UHK0,Validated,Nucleus: Validated;Nucleoli: Validated
+NUFIP2,Q7Z417,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Supported
+NUMA1,Q14980,Validated,Nucleoplasm: Validated
+NUP107,P57740,Supported,Nucleoplasm: Supported;Centrosome: Supported
+NUP133,Q8WUM0,Supported,Nuclear membrane: Supported
+NUP153,P49790,Validated,Nuclear membrane: Validated
+NUP155,O75694,Validated,Nuclear membrane: Validated
+NUP188,Q5SRE5,Supported,Nucleus: Supported
+NUP214,P35658,Supported,Nucleus: Supported;Vesicles: Supported;Focal Adhesions: Supported
+NUP35,Q8NFH5,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported;Plasma membrane: Approved
+NUP37,Q8NFH4,Supported,Nucleoplasm: Supported
+NUP50,Q9UKX7,Validated,Nucleoplasm: Validated;Nuclear membrane: Validated
+NUP62,P37198,Supported,Nuclear membrane: Supported;Vesicles: Approved
+NUP85,Q9BW27,Supported,Nucleus: Supported;Cytosol: Supported
+NUP88,Q99567,Supported,Nucleoplasm: Supported
+NUP98,P52948,Supported,Nucleoplasm: Supported;Vesicles: Uncertain
+NUPL2,O15504,Validated,Nucleus: Validated
+NUSAP1,Q9BXS6,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Cytosol: Approved
+NVL,O15381,Validated,Nucleoli: Validated
+NXF1,Q9UBU9,Supported,Nucleoplasm: Supported
+NXF3,Q9H4D5,Supported,Nucleoplasm: Supported
+NXT1,Q9UKK6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+NXT2,Q9NPJ8,Supported,Nucleoplasm: Supported;Cytosol: Supported
+OAS3,Q9Y6K5,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Approved
+OASL,Q15646,Supported,Nucleoplasm: Approved;Cytosol: Supported
+OAT,P04181,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+OAZ3,Q9UMX2,Supported,Nucleoplasm: Supported
+OBFC1,Q9H668,Supported,Nucleus: Supported
+ODAM,A1E959,Supported,Nucleoplasm: Supported;Cytosol: Supported
+OGFOD1,Q8N543,Supported,Nucleus: Supported;Cytosol: Supported
+OGFOD2,Q6N063,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+OGG1,O15527,Validated,Nucleoplasm: Validated
+OGT,O15294,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+OIP5,O43482,Supported,Nucleoplasm: Supported
+OLR1,P78380,Supported,Nucleoplasm: Uncertain;Vesicles: Approved;Plasma membrane: Supported
+ONECUT2,O95948,Supported,Nucleoplasm: Supported;Actin filaments: Approved
+ONECUT3,O60422,Supported,Nucleoplasm: Supported
+OPA1,O60313,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+ORC2,Q13416,Supported,Nucleoplasm: Supported;Cytosol: Approved
+ORC3,Q9UBD5,Validated,Nucleoplasm: Validated
+ORC4,O43929,Supported,Nucleus: Supported;Nucleoli: Supported
+ORC5,O43913,Supported,Nucleus: Supported;Cytosol: Supported
+OSBP,P22059,Validated,Nucleus: Supported;Golgi apparatus: Validated;Cytosol: Validated
+OSBPL3,Q9H4L5,Supported,Nucleoli: Supported;Cytosol: Supported
+OSGEP,Q9NPF4,Supported,Nucleoplasm: Supported;Plasma membrane: Approved
+PACSIN2,Q9UNF0,Supported,Nuclear speckles: Approved;Vesicles: Supported;Cytosol: Approved;Plasma membrane: Supported
+PAF1,Q8N7H5,Supported,Nucleoplasm: Supported
+PAFAH1B2,P68402,Supported,Nucleoli: Supported;Cytosol: Supported;Plasma membrane: Supported
+PAK2,Q13177,Supported,Nucleus: Supported;Vesicles: Approved
+PALB2,Q86YC2,Supported,Nucleoplasm: Supported
+PALM,O75781,Validated,Nucleus: Approved;Plasma membrane: Validated
+PAPD7,Q5XG87,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported;Golgi apparatus: Supported
+PAPOLA,P51003,Validated,Nucleoplasm: Validated
+PAPOLG,Q9BWT3,Validated,Nucleoplasm: Validated
+PARG,Q86W56,Validated,Nucleus: Validated;Vesicles: Validated
+PARK7,Q99497,Supported,Nucleus: Supported;Cytosol: Supported
+PARP1,P09874,Validated,Nucleus: Validated
+PARP10,Q53GL7,Supported,Nucleoli: Supported;Cytosol: Supported
+PARP9,Q8IXQ6,Supported,Nucleoplasm: Supported;Cytosol: Supported;Mitochondria: Approved
+PARPBP,Q9NWS1,Supported,Nucleoplasm: Supported
+PASD1,Q8IV76,Supported,Nuclear speckles: Supported
+PATZ1,Q9HBE1,Supported,Nucleoplasm: Supported
+PAX2,Q02962,Supported,Nucleoli: Supported;Golgi apparatus: Uncertain
+PAX3,P23760,Supported,Nucleoplasm: Supported
+PAX6,P26367,Validated,Nucleoplasm: Validated
+PAX8,Q06710,Validated,Nucleoplasm: Validated
+PBRM1,Q86U86,Supported,Nucleoplasm: Supported
+PBX1,P40424,Validated,Nucleoplasm: Validated
+PCBD1,P61457,Validated,Nucleoplasm: Validated;Cytosol: Validated
+PCBP1,Q15365,Validated,Nuclear speckles: Validated;Cytoplasmic bodies: Validated
+PCBP2,Q15366,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PCF11,O94913,Supported,Nucleoplasm: Supported;Mitochondria: Approved
+PCGF1,Q9BSM1,Validated,Nucleoplasm: Validated
+PCGF2,P35227,Supported,Nucleus: Supported
+PCGF3,Q3KNV8,Supported,Nucleoplasm: Supported
+PCGF5,Q86SE9,Supported,Nucleoli: Supported
+PCIF1,Q9H4Z3,Supported,Nucleoplasm: Supported;Microtubules: Supported;Cytokinetic bridge: Supported
+PCM1,Q15154,Validated,Nuclear membrane: Approved;Centrosome: Validated;Cytosol: Approved
+PCNA,P12004,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+PCNP,Q8WW12,Supported,Nucleus: Supported
+PDCD11,Q14690,Supported,Nucleoli: Supported;Vesicles: Approved
+PDCL3,Q9H2J4,Validated,Nucleus: Validated;Cytosol: Validated
+PDDC1,Q8NB37,Supported,Nucleoplasm: Supported
+PDGFRA,P16234,Supported,Nucleus: Approved;Cell Junctions: Supported;Plasma membrane: Supported
+PDHB,P11177,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+PDIK1L,Q8N165,Supported,Nucleoplasm: Supported
+PDK2,Q15119,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+PDK3,Q15120,Supported,Nucleoli: Approved;Mitochondria: Supported
+PDLIM5,Q96HC4,Supported,Nucleoplasm: Supported;Focal Adhesions: Supported;Plasma membrane: Supported
+PDP1,Q9P0J1,Supported,Nucleoplasm: Supported;Cytosol: Supported;Mitochondria: Supported
+PDS5A,Q29RF7,Validated,Nucleoplasm: Validated
+PDS5B,Q9NTI5,Validated,Nucleoplasm: Validated
+PDX1,P52945,Supported,Nucleoplasm: Supported
+PDXK,O00764,Validated,Nucleus: Validated
+PDZRN3,Q9UPQ7,Supported,Nucleus: Supported;Cytosol: Supported
+PEG10,Q86TG7,Validated,Nucleus: Validated;Cytosol: Validated
+PEG3,Q9GZU2,Supported,Nucleoplasm: Supported
+PELP1,Q8IZL8,Validated,Nucleus: Validated;Nucleoli: Validated
+PER1,O15534,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PES1,O00541,Validated,Nucleus: Validated;Nucleoli: Validated
+PEX14,O75381,Supported,Nucleoli (Fibrillar center): Approved;Vesicles: Validated
+PEX3,P56589,Supported,Nucleoplasm: Approved;Vesicles: Supported
+PFKFB2,O60825,Validated,Nucleus: Validated
+PFKFB3,Q16875,Validated,Nucleoplasm: Validated
+PGC,P20142,Supported,Nucleus: Supported
+PGLS,O95336,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PHACTR3,Q96KR7,Validated,Nucleoplasm: Validated
+PHAX,Q9H814,Validated,Nucleoplasm: Validated
+PHC1,P78364,Supported,Nucleus: Supported
+PHC2,Q8IXK0,Supported,Nucleoplasm: Supported
+PHC3,Q8NDX5,Supported,Nucleus: Supported
+PHF10,Q8WUB8,Supported,Nucleus: Supported
+PHF11,Q9UIL8,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported
+PHF12,Q96QT6,Validated,Nucleoplasm: Validated
+PHF2,O75151,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+PHF20,Q9BVI0,Supported,Nucleoplasm: Validated;Nuclear membrane: Supported;Cytosol: Uncertain
+PHF23,Q9BUL5,Validated,Nucleoplasm: Validated
+PHF5A,Q7RTV0,Validated,Nucleoplasm: Validated
+PHF6,Q8IWS0,Validated,Nucleus: Validated;Nucleoli: Validated
+PHF7,Q9BWX1,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+PHF8,Q9UPP1,Supported,Nucleus: Supported
+PHGDH,O43175,Validated,Nucleoplasm: Validated;Cytosol: Validated;Plasma membrane: Validated
+PHIP,Q8WWQ0,Supported,Nucleoplasm: Supported
+PHLDA1,Q8WV24,Supported,Nucleoli: Supported
+PHOX2B,Q99453,Supported,Nucleoplasm: Supported
+PIAS3,Q9Y6X2,Supported,Nucleoplasm: Supported
+PIBF1,Q8WXW3,Supported,Nucleoplasm: Supported;Microtubule organizing center: Supported
+PIF1,Q9H611,Supported,Nucleoplasm: Supported
+PIK3C2A,O00443,Supported,Nucleus: Supported
+PIK3CB,P42338,Supported,Nucleoplasm: Supported;Nucleoli: Supported;Midbody: Approved
+PIM1,P11309,Supported,Nucleoli: Supported;Cytosol: Supported
+PIN1,Q13526,Validated,Nucleoplasm: Validated;Cytosol: Validated
+PIN4,Q9Y237,Supported,Nucleus: Supported;Nucleoli: Supported
+PIP4K2B,P78356,Supported,Nucleoplasm: Supported
+PIP5K1A,Q99755,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+PITX1,P78337,Supported,Nucleoli: Supported
+PITX2,Q99697,Validated,Nucleus: Validated
+PKIG,Q9Y2B9,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PKMYT1,Q99640,Supported,Nucleus: Approved;Nucleoli: Approved;Golgi apparatus: Supported
+PKN1,Q16512,Supported,Nucleus: Supported;Nuclear bodies: Supported;Cytosol: Supported
+PKNOX1,P55347,Validated,Nucleoplasm: Validated
+PKNOX2,Q96KN3,Validated,Nucleoplasm: Validated
+PKP1,Q13835,Validated,Nucleoplasm: Validated
+PKP2,Q99959,Validated,Nucleoplasm: Supported;Cell Junctions: Validated
+PKP3,Q9Y446,Validated,Nucleoplasm: Approved;Cell Junctions: Validated;Cytosol: Approved
+PLAA,Q9Y263,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+PLAGL1,Q9UM63,Supported,Nuclear bodies: Supported;Golgi apparatus: Uncertain;Vesicles: Uncertain
+PLCB3,Q01970,Validated,Nucleoplasm: Validated
+PLEKHA1,Q9HB21,Validated,Nucleus: Validated;Cytosol: Supported
+PLEKHA8,Q96JA3,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+PLEKHG1,Q9ULL1,Validated,Nucleoplasm: Validated
+PLEKHG3,A1L390,Supported,Nucleoplasm: Supported;Cytokinetic bridge: Approved;Centrosome: Approved;Cytosol: Supported;Plasma membrane: Supported
+PLEKHM1,Q9Y4G2,Supported,Nucleoli: Approved;Vesicles: Supported
+PLRG1,O43660,Validated,Nuclear membrane: Approved;Nuclear speckles: Validated
+PLXDC2,Q6UX71,Supported,Nuclear bodies: Supported
+PLXNA1,Q9UIW2,Supported,Nucleus: Supported;Cytosol: Supported
+PM20D2,Q8IYS1,Validated,Nucleoplasm: Validated
+PMF1,Q6P1K2,Supported,Nucleoplasm: Validated;Vesicles: Uncertain
+PMF1-BGLAP,,Supported,Nucleoplasm: Validated;Vesicles: Uncertain
+PML,P29590,Validated,Nuclear bodies: Validated
+PMS1,P54277,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+PMS2,P54278,Validated,Nucleoplasm: Validated;Cytosol: Supported
+PNISR,Q8TF01,Supported,Nuclear speckles: Supported;Cytosol: Approved
+PNKP,Q96T60,Supported,Nucleus: Supported;Nucleoli: Supported
+PNN,Q9H307,Validated,Nuclear speckles: Validated
+PNO1,Q9NRX1,Supported,Nucleus: Approved;Nucleoli: Supported
+PNPLA2,Q96AD5,Validated,Nucleoplasm: Approved;Lipid droplets: Validated
+PNPO,Q9NVS9,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PNRC2,Q9NPJ4,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+POF1B,Q8WVV4,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+POGK,Q9P215,Supported,Nucleoplasm: Supported;Vesicles: Approved
+POGZ,Q7Z3K3,Validated,Nucleoplasm: Validated
+POLA1,P09884,Supported,Nucleoplasm: Supported;Cytosol: Approved
+POLA2,Q14181,Supported,Nucleoplasm: Supported
+POLD1,P28340,Supported,Nucleoplasm: Supported
+POLD2,P49005,Validated,Nucleoplasm: Validated
+POLD3,Q15054,Supported,Nucleus: Supported
+POLDIP3,Q9BY77,Validated,Nuclear speckles: Validated;Cytoplasmic bodies: Supported
+POLE,Q07864,Validated,Nucleus: Validated;Plasma membrane: Validated
+POLE2,P56282,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Vesicles: Approved
+POLH,Q9Y253,Validated,Nucleoplasm: Validated;Cytosol: Uncertain
+POLI,Q9UNA4,Supported,Nuclear speckles: Supported;Cytoplasmic bodies: Approved
+POLK,Q9UBT6,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+POLM,Q9NP87,Supported,Nucleus: Supported
+POLN,Q7Z5Q5,Validated,Nucleoplasm: Validated
+POLR1A,O95602,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+POLR1B,Q9H9Y6,Supported,Nucleoli: Supported;Cytosol: Approved
+POLR1C,O15160,Supported,Nucleus: Supported
+POLR1E,Q9GZS1,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+POLR2A,P24928,Validated,Nucleoplasm: Validated
+POLR2B,P30876,Supported,Nucleoplasm: Supported
+POLR2C,P19387,Supported,Nucleoplasm: Supported;Microtubules: Supported;Cytosol: Supported
+POLR2D,O15514,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported
+POLR2E,P19388,Supported,Nucleoplasm: Supported
+POLR2F,P61218,Validated,Nucleus: Validated;Nucleoli (Fibrillar center): Validated
+POLR2G,P62487,Supported,Nucleoplasm: Supported
+POLR2H,P52434,Supported,Nucleus: Supported
+POLR2I,P36954,Validated,Nucleoplasm: Validated
+POLR3A,O14802,Supported,Nucleoplasm: Supported
+POLR3C,Q9BUI4,Validated,Nucleoplasm: Validated
+POLR3D,P05423,Validated,Nucleoplasm: Validated
+POLR3E,Q9NVU0,Validated,Nucleoplasm: Validated
+POLR3G,O15318,Supported,Nucleoplasm: Supported
+POLR3H,Q9Y535,Supported,Nucleoplasm: Supported;Vesicles: Supported;Centrosome: Supported
+POM121,Q96HA1,Validated,Nucleoplasm: Validated;Nuclear membrane: Validated
+POMP,Q9Y244,Supported,Nuclear speckles: Supported
+POP1,Q99575,Supported,Nucleoli: Supported
+POP7,O75817,Supported,Nucleoli: Supported;Vesicles: Supported
+POT1,Q9NUX5,Supported,Nucleus: Supported
+POU2F1,P14859,Supported,Nucleoplasm: Supported;Endoplasmic reticulum: Approved;Vesicles: Supported
+POU2F2,P09086,Supported,Nucleoplasm: Supported
+POU3F1,Q03052,Validated,Nucleoplasm: Validated
+POU3F2,P20265,Supported,Nucleus: Approved
+POU3F3,P20264,Supported,Nucleus: Supported
+POU4F3,Q15319,Supported,Nucleoplasm: Supported
+POU5F1,Q01860,Supported,Nucleoplasm: Supported;Cytosol: Supported
+POU5F1B,Q06416,Supported,Nucleoplasm: Supported
+POU6F1,Q14863,Supported,Nuclear bodies: Supported;Actin filaments: Uncertain
+PPARA,Q07869,Supported,Nucleus: Supported
+PPARG,P37231,Validated,Nucleus: Validated;Vesicles: Validated
+PPARGC1A,Q9UBK2,Supported,Nucleoplasm: Supported
+PPARGC1B,Q86YN6,Supported,Nucleus: Supported
+PPHLN1,Q8NEY8,Validated,Nucleoplasm: Validated;Golgi apparatus: Approved
+PPIB,P23284,Supported,Nucleus: Approved;Endoplasmic reticulum: Supported
+PPID,Q08752,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+PPIE,Q9UNP9,Supported,Nuclear speckles: Supported
+PPIG,Q13427,Supported,Nuclear speckles: Supported;Cytosol: Uncertain
+PPIL2,Q13356,Validated,Nucleoplasm: Validated
+PPIL3,Q9H2H8,Supported,Nucleus: Supported
+PPIL4,Q8WUA2,Validated,Nucleoplasm: Supported
+PPM1E,Q8WY54,Supported,Nucleus: Supported;Nucleoli: Supported
+PPM1G,O15355,Validated,Nucleoplasm: Validated
+PPM1H,Q9ULR3,Supported,Nucleoplasm: Supported
+PPME1,Q9Y570,Supported,Nucleus: Supported
+PPP1CA,P62136,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Approved
+PPP1CB,P62140,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Approved
+PPP1R10,Q96QC0,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+PPP1R13B,Q96KQ4,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PPP1R14A,Q96A00,Supported,Nucleoplasm: Supported;Nuclear bodies: Approved
+PPP1R16B,Q96T49,Supported,Nuclear speckles: Supported;Plasma membrane: Supported
+PPP1R2,P41236,Validated,Nucleoplasm: Validated;Cytosol: Validated
+PPP1R26,Q5T8A7,Validated,Nucleoplasm: Validated
+PPP1R8,Q12972,Validated,Nucleoplasm: Validated;Nuclear speckles: Validated
+PPP2CB,P62714,Supported,Nucleoplasm: Supported
+PPP2R4,Q15257,Validated,Nucleoplasm: Validated;Cytosol: Validated
+PPP3CA,Q08209,Validated,Nucleoplasm: Validated;Cytosol: Supported
+PPP4C,P60510,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Approved
+PPP4R2,Q9NY27,Validated,Nucleoplasm: Validated
+PPP4R3A,Q6IN85,Supported,Nucleoplasm: Supported
+PPP4R3B,Q5MIZ7,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported;Centrosome: Supported
+PPP6R3,Q5H9R7,Validated,Nucleoplasm: Validated;Cytosol: Validated;Plasma membrane: Validated
+PPRC1,Q5VV67,Validated,Nucleoplasm: Validated
+PPWD1,Q96BP3,Supported,Nuclear bodies: Supported
+PQBP1,O60828,Validated,Nuclear speckles: Validated
+PRCC,Q92733,Validated,Nuclear speckles: Validated
+PRDM15,P57071,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+PRDM16,Q9HAZ2,Validated,Nucleoplasm: Validated
+PRDM4,Q9UKN5,Supported,Nucleoplasm: Supported
+PRDM5,Q9NQX1,Supported,Nucleus: Supported;Nucleoli: Supported;Nuclear bodies: Supported
+PRELID1,Q9Y255,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+PRKAA1,Q13131,Supported,Nuclear speckles: Supported
+PRKCB,P05771,Supported,Nucleoplasm: Supported;Cytosol: Approved
+PRKD2,Q9BZL6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PRKD3,O94806,Supported,Nucleoplasm: Approved;Cytosol: Supported
+PRKDC,P78527,Validated,Nucleoplasm: Validated
+PRKRA,O75569,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PRKX,P51817,Supported,Nucleus: Supported
+PRMT1,Q99873,Supported,Nucleoplasm: Supported
+PRMT2,P55345,Validated,Nucleoplasm: Validated;Cytosol: Validated
+PRMT6,Q96LA8,Supported,Nucleus: Supported;Nucleoli: Supported
+PRMT7,Q9NVM4,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Approved
+PRODH2,Q9UF12,Supported,Nucleoplasm: Approved;Cytosol: Approved
+PROX1,Q92786,Supported,Nucleoplasm: Supported
+PRPF19,Q9UMS4,Validated,Nuclear speckles: Validated
+PRPF3,O43395,Validated,Nucleoplasm: Validated
+PRPF31,Q8WWY3,Supported,Nucleus: Supported
+PRPF38A,Q8NAV1,Validated,Nucleus: Validated
+PRPF4,O43172,Validated,Nuclear speckles: Validated
+PRPF40A,O75400,Validated,Nuclear speckles: Validated
+PRPF4B,Q13523,Supported,Nuclear speckles: Supported
+PRPF6,O94906,Validated,Nuclear speckles: Validated
+PRPF8,Q6P2Q9,Validated,Nucleoplasm: Validated
+PRR13,Q9NZ81,Validated,Nucleoplasm: Validated
+PRRX1,P54821,Supported,Nucleus: Supported;Nucleoli: Supported
+PSEN2,P49810,Supported,Nucleus: Supported
+PSIP1,O75475,Validated,Nucleoplasm: Validated
+PSMA1,P25786,Validated,Nucleoplasm: Validated
+PSMA4,P25789,Validated,Nucleus: Supported;Vesicles: Approved;Cytosol: Supported
+PSMA6,P60900,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PSMB1,P20618,Supported,Nucleus: Supported
+PSMB2,P49721,Validated,Nucleoplasm: Validated
+PSMB5,P28074,Supported,Nucleus: Supported;Centrosome: Supported
+PSMB6,P28072,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PSMB7,Q99436,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PSMC1,P62191,Validated,Nucleoplasm: Validated;Cytosol: Validated
+PSMC3,P17980,Supported,Nucleus: Supported;Cytosol: Supported
+PSMC3IP,Q9P2W1,Supported,Nucleoplasm: Supported
+PSMC4,P43686,Supported,Nucleus: Supported;Cytosol: Supported
+PSMD14,O00487,Supported,Nucleoplasm: Supported
+PSMD3,O43242,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PSMD4,P55036,Validated,Nucleoplasm: Validated;Cytosol: Validated
+PSMD7,P51665,Validated,Nucleoplasm: Validated
+PSME3,P61289,Validated,Nucleoplasm: Validated
+PSME4,Q14997,Supported,Nucleoplasm: Supported
+PTAFR,P25105,Supported,Nucleoplasm: Supported;Vesicles: Supported;Plasma membrane: Supported
+PTBP1,P26599,Supported,Nucleoplasm: Supported
+PTEN,P60484,Supported,Nucleoplasm: Supported;Cytosol: Supported
+PTGES3,Q15185,Supported,Nucleoplasm: Approved;Cytosol: Supported
+PTHLH,P12272,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved;Cytosol: Supported
+PTK6,Q13882,Supported,Nucleoplasm: Supported;Nuclear bodies: Approved;Cytosol: Supported;Plasma membrane: Supported
+PTMA,P06454,Validated,Nucleus: Validated;Cytosol: Validated
+PTOV1,Q86YD1,Supported,Nucleus: Supported
+PTPDC1,A2A3K4,Supported,Nucleoplasm: Supported
+PTPN11,Q06124,Supported,Nucleus: Supported;Nucleoli: Supported;Actin filaments: Approved;Cytosol: Supported
+PTPN14,Q15678,Validated,Nucleoplasm: Validated
+PTPN2,P17706,Validated,Nucleoplasm: Validated
+PTPN23,Q9H3S7,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+PTPN6,P29350,Supported,Nucleus: Supported;Nucleoli: Approved
+PTTG1,O95997,Supported,Nucleoli: Approved;Cytosol: Supported
+PTTG1IP,P53801,Supported,Nucleoplasm: Supported
+PUF60,Q9UHX1,Validated,Nucleoplasm: Validated
+PUM1,Q14671,Supported,Nucleus: Supported;Cytosol: Supported
+PUM3,Q15397,Supported,Nucleoli: Supported
+PURB,Q96QR8,Supported,Nucleus: Supported
+PUS1,Q9Y606,Supported,Nucleus: Supported;Mitochondria: Supported
+PUS7L,Q9H0K6,Supported,Nuclear speckles: Supported
+PVR,P15151,Supported,Nucleoplasm: Approved;Vesicles: Approved;Plasma membrane: Supported
+PWP2,Q15269,Supported,Nucleoli: Supported;Cytosol: Approved
+PWWP2A,Q96N64,Supported,Nucleoplasm: Supported;Focal Adhesions: Approved
+PWWP2B,Q6NUJ5,Validated,Nucleoplasm: Validated
+PYCARD,Q9ULZ3,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+PYM1,Q9BRP8,Supported,Nucleus: Supported;Nucleoli: Supported;Cell Junctions: Approved;Cytosol: Supported
+QKI,Q96PU8,Supported,Nucleoplasm: Supported
+QRICH1,Q2TAL8,Validated,Nucleoplasm: Validated
+QSOX2,Q6ZRP7,Validated,Nucleoplasm: Approved;Golgi apparatus: Validated
+R3HDM2,Q9Y2K5,Supported,Nucleoplasm: Supported
+RAB11FIP2,Q7L804,Supported,Nucleoplasm: Approved;Vesicles: Supported
+RAB8A,P61006,Supported,Nucleus: Supported;Plasma membrane: Supported
+RAB8B,Q92930,Supported,Nucleoplasm: Uncertain;Vesicles: Supported
+RABGEF1,Q9UJ41,Supported,Nucleoli: Approved;Cytosol: Supported
+RABGGTA,Q92696,Validated,Nucleoplasm: Validated
+RACGAP1,Q9H0H5,Validated,Nucleoplasm: Validated
+RAD1,O60671,Supported,Nucleoplasm: Supported;Vesicles: Approved
+RAD17,O75943,Validated,Nucleoplasm: Validated
+RAD18,Q9NS91,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+RAD21,O60216,Validated,Nucleoplasm: Validated
+RAD23A,P54725,Supported,Nucleoplasm: Supported;Cytosol: Approved
+RAD23B,P54727,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RAD50,Q92878,Validated,Nucleoplasm: Validated
+RAD51,Q06609,Validated,Nucleoli: Validated;Cytosol: Supported;Mitochondria: Supported
+RAD51C,O43502,Supported,Nucleus: Supported;Vesicles: Approved;Cell Junctions: Approved;Cytosol: Supported;Mitochondria: Supported
+RAD54L,Q92698,Validated,Nucleoplasm: Validated
+RAD54L2,Q9Y4B4,Supported,Nucleus: Supported;Cytosol: Approved
+RAD9A,Q99638,Validated,Nucleoplasm: Validated
+RAE1,P78406,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+RAI1,Q7Z5J4,Validated,Nucleoplasm: Validated
+RAI14,Q9P0K7,Supported,Nucleus: Supported;Actin filaments: Approved;Cytosol: Uncertain
+RALY,Q9UKM9,Validated,Nucleoplasm: Validated
+RALYL,Q86SE5,Supported,Nucleoplasm: Supported
+RANBP2,P49792,Validated,Nuclear membrane: Validated;Vesicles: Validated
+RANBP3,Q9H6Z4,Validated,Nucleoplasm: Validated
+RANBP9,Q96S59,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RANGAP1,P46060,Validated,Nuclear membrane: Validated;Vesicles: Validated;Cytosol: Validated
+RANGRF,Q9HD47,Supported,Nucleoplasm: Supported
+RAP1GAP2,Q684P5,Supported,Nuclear membrane: Approved;Cytosol: Supported
+RAPGEF5,Q92565,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+RARA,P10276,Supported,Nucleus: Supported;Cytosol: Supported
+RARB,P10826,Validated,Nucleoplasm: Validated
+RARG,P13631,Supported,Nucleoplasm: Supported
+RARS,P54136,Validated,Nucleoplasm: Approved;Cytosol: Validated
+RASSF2,P50749,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RAVER1,Q8IY67,Supported,Nucleoplasm: Supported
+RB1,P06400,Validated,Nucleoplasm: Validated
+RB1CC1,Q8TDY2,Supported,Nuclear membrane: Approved;Cytosol: Supported
+RBAK,Q9NYW8,Supported,Nucleoplasm: Supported
+RBBP4,Q09028,Validated,Nucleoplasm: Validated
+RBBP5,Q15291,Validated,Nucleus: Validated;Nucleoli: Validated
+RBBP6,Q7Z6E9,Validated,Nuclear speckles: Validated
+RBBP7,Q16576,Supported,Nucleoplasm: Supported
+RBBP8,Q99708,Supported,Nucleoplasm: Supported
+RBBP9,O75884,Supported,Nucleoplasm: Supported
+RBFOX2,O43251,Supported,Nucleoplasm: Supported
+RBFOX3,A6NFN3,Supported,Nucleoplasm: Supported
+RBL1,P28749,Validated,Nucleoplasm: Validated
+RBM10,P98175,Validated,Nuclear speckles: Validated
+RBM11,P57052,Supported,Nucleoplasm: Supported
+RBM12,Q9NTZ6,Validated,Nucleoplasm: Validated
+RBM14,Q96PK6,Supported,Nuclear speckles: Supported
+RBM15,Q96T37,Validated,Nucleoplasm: Validated
+RBM15B,Q8NDT2,Validated,Nucleoplasm: Validated
+RBM17,Q96I25,Supported,Nucleoplasm: Supported
+RBM19,Q9Y4C8,Supported,Nucleoli: Supported
+RBM22,Q9NW64,Validated,Nucleus: Validated
+RBM24,Q9BX46,Validated,Nucleoplasm: Validated;Cytosol: Validated
+RBM25,P49756,Validated,Nuclear speckles: Validated
+RBM28,Q9NW13,Validated,Nucleoli: Validated
+RBM3,P98179,Validated,Nucleoplasm: Supported
+RBM34,P42696,Supported,Nucleus: Supported;Nucleoli: Supported
+RBM38,Q9H0Z9,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RBM39,Q14498,Supported,Nucleoplasm: Approved;Nuclear speckles: Supported;Microtubules: Uncertain;Microtubule organizing center: Uncertain
+RBM45,Q8IUH3,Supported,Nucleus: Supported
+RBM47,A0AV96,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RBM48,Q5RL73,Validated,Nucleoplasm: Validated
+RBM5,P52756,Validated,Nucleoplasm: Validated
+RBM7,Q9Y580,Validated,Nucleoplasm: Validated
+RBM8A,Q9Y5S9,Validated,Nuclear speckles: Validated
+RBPJ,Q06330,Supported,Nucleoplasm: Supported
+RBPMS,Q93062,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RBX1,P62877,Supported,Nucleoplasm: Supported
+RCC1,P18754,Supported,Nucleus: Supported;Nuclear membrane: Supported
+RCHY1,Q96PM5,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RCOR1,Q9UKL0,Validated,Nucleoplasm: Validated
+RDM1,Q8NG50,Supported,Nucleoli: Supported;Cytosol: Supported
+RECQL,P46063,Validated,Nucleoplasm: Validated
+RECQL4,,Validated,Nucleus: Validated
+RECQL5,O94762,Supported,Nucleus: Supported;Cytosol: Supported
+RELB,Q01201,Supported,Nucleoplasm: Supported;Cytosol: Approved
+RELT,Q969Z4,Supported,Nucleus: Supported
+REPIN1,Q9BWE0,Validated,Nucleus: Validated
+REXO1,Q8N1G1,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+REXO2,Q9Y3B8,Supported,Nucleoli: Approved;Focal Adhesions: Approved;Mitochondria: Supported
+REXO4,Q9GZR2,Supported,Nucleus: Supported;Nucleoli: Supported
+RFC1,P35251,Validated,Nucleus: Validated
+RFC2,P35250,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+RFC3,P40938,Supported,Nucleoplasm: Supported;Vesicles: Approved
+RFC4,P35249,Validated,Nucleoplasm: Validated
+RFNG,Q9Y644,Supported,Nucleus: Supported
+RFWD3,Q6PCD5,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RFX1,P22670,Supported,Nucleoplasm: Supported
+RFX6,Q8HWS3,Supported,Nucleus: Supported;Nucleoli: Supported
+RFXANK,O14593,Validated,Nucleoplasm: Validated
+RGCC,Q9H4X1,Supported,Nucleus: Supported;Nucleoli: Supported
+RGMA,Q96B86,Supported,Nucleoplasm: Supported;Cytosol: Approved
+RGS10,O43665,Supported,Nucleus: Supported;Plasma membrane: Supported
+RGS12,O14924,Supported,Nucleus: Supported;Nucleoli: Approved
+RGS14,O43566,Validated,Nucleoplasm: Validated;Vesicles: Validated
+RGS3,P49796,Validated,Nucleoplasm: Validated;Cytosol: Validated;Mitochondria: Approved
+RITA1,Q96K30,Supported,Nucleus: Supported
+RLIM,Q9NVW2,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+RMI1,Q9H9A7,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+RMI2,Q96E14,Supported,Nuclear speckles: Supported;Cytosol: Supported
+RNASEH2A,O75792,Validated,Nucleus: Validated;Cytosol: Validated
+RNASEH2B,Q5TBB1,Validated,Nucleus: Validated
+RNF111,Q6ZNA4,Supported,Nucleus: Supported;Cytosol: Supported
+RNF146,Q9NTX7,Supported,Nucleoplasm: Approved;Cytosol: Supported;Plasma membrane: Supported
+RNF168,Q8IYW5,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+RNF169,Q8NCN4,Supported,Nuclear speckles: Supported
+RNF187,Q5TA31,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RNF2,Q99496,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported
+RNF20,Q5VTR2,Validated,Nucleoplasm: Validated
+RNF208,Q9H0X6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RNF216,Q9NWF9,Supported,Nucleoplasm: Approved;Cytosol: Supported
+RNF34,Q969K3,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+RNF38,Q9H0F5,Supported,Nucleoplasm: Supported
+RNF40,O75150,Validated,Nucleoplasm: Validated
+RNF6,Q9Y252,Supported,Nuclear membrane: Supported
+RNF7,Q9UBF6,Supported,Nucleoplasm: Supported
+RNF8,O76064,Supported,Nucleus: Supported;Cytosol: Approved
+RNH1,P13489,Validated,Nucleoplasm: Supported;Cytosol: Validated
+RNMT,O43148,Validated,Nucleoplasm: Validated;Nucleoli (Fibrillar center): Validated
+RNPC3,Q96LT9,Supported,Nucleoplasm: Supported
+RNPEP,Q9H4A4,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+RNPS1,Q15287,Supported,Nucleoplasm: Supported
+RORC,P51449,Supported,Nuclear bodies: Supported
+RP11-382A20.3,Q9Y3E1,Supported,Nucleoplasm: Supported
+RP11-762I7.5,,Validated,Nuclear speckles: Validated
+RP11-80H18.3,P86397,Supported,Nucleoli: Approved;Mitochondria: Supported
+RP11-849H4.2,Q6ZNB5,Supported,Nucleoli: Supported
+RP9,Q8TA86,Supported,Nucleus: Supported;Cytosol: Supported
+RPA1,P27694,Validated,Nucleoplasm: Validated
+RPA2,P15927,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+RPAP2,Q8IXW5,Supported,Nucleoli: Supported;Cytosol: Supported
+RPF1,Q9H9Y2,Validated,Nucleoli: Validated
+RPF2,Q9H7B2,Supported,Nucleus: Approved;Nucleoli: Supported
+RPL10A,P62906,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPL13,P26373,Validated,Nucleoli: Validated;Endoplasmic reticulum: Validated;Cytosol: Validated
+RPL18,Q07020,Validated,Nucleoli: Supported;Endoplasmic reticulum: Validated;Cytosol: Validated
+RPL19,P84098,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPL21,P46778,Supported,Nucleoli (Fibrillar center): Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPL26,P61254,Supported,Nucleoli: Approved;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPL26L1,Q9UNX3,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPL29,P47914,Validated,Nucleoli: Validated;Endoplasmic reticulum: Validated;Cytosol: Validated
+RPL3,P39023,Supported,Nucleoli: Supported;Cytosol: Supported
+RPL34,P49207,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPL4,P36578,Supported,Nucleoli: Supported;Nuclear bodies: Approved;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPL8,P62917,Validated,Nucleoli: Validated;Endoplasmic reticulum: Validated;Cytosol: Validated
+RPL9,P32969,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPP25,Q9BUL9,Supported,Nucleoplasm: Supported;Microtubule organizing center: Supported
+RPP25L,Q8N5L8,Supported,Nucleus: Supported
+RPP38,P78345,Supported,Nucleoli: Supported
+RPRD1A,Q96P16,Supported,Nucleus: Supported;Golgi apparatus: Approved
+RPRD1B,Q9NQG5,Supported,Nucleoplasm: Supported;Centrosome: Approved;Cytosol: Approved
+RPS11,P62280,Supported,Nucleoli: Approved;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPS17,P08708,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPS19BP1,Q86WX3,Supported,Nucleus: Supported;Nucleoli: Validated;Cytosol: Supported
+RPS26,P62854,Validated,Nucleoli: Validated;Endoplasmic reticulum: Validated;Cytosol: Validated
+RPS27L,Q71UM5,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported;Cytosol: Supported
+RPS3A,P61247,Validated,Nucleoli: Validated;Endoplasmic reticulum: Validated;Cytosol: Validated
+RPS6KA1,Q15418,Supported,Nucleus: Supported;Cytosol: Supported
+RPS6KA2,Q15349,Supported,Nucleoplasm: Supported
+RPS6KA4,O75676,Supported,Nucleus: Validated;Cytosol: Approved
+RPS6KA5,O75582,Validated,Nucleoplasm: Validated
+RPS6KA6,Q9UK32,Supported,Nucleus: Supported;Nucleoli: Approved;Mitochondria: Approved
+RPS6KB1,P23443,Supported,Nucleoplasm: Supported
+RPTOR,Q8N122,Validated,Nucleoplasm: Approved;Cytosol: Supported;Vesicles: Validated
+RRAGC,Q9HB90,Supported,Nucleus: Supported;Vesicles: Supported
+RREB1,Q92766,Supported,Nucleoli (Fibrillar center): Uncertain;Nuclear speckles: Supported
+RRM2B,Q7LG56,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RRN3,Q9NYV6,Validated,Nucleoli: Supported
+RRP1,P56182,Validated,Nucleoli: Validated
+RRP12,Q5JTH9,Supported,Nucleoli: Supported
+RRP1B,Q14684,Validated,Nucleoli: Validated
+RRP36,Q96EU6,Supported,Nucleus: Supported;Nucleoli: Supported
+RRP8,O43159,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+RRP9,O43818,Supported,Nucleus: Supported
+RRS1,Q15050,Validated,Nucleoli: Validated
+RSAD2,Q8WXG1,Supported,Nucleoli (Fibrillar center): Approved;Endoplasmic reticulum: Supported
+RSBN1,Q5VWQ0,Supported,Nucleoplasm: Supported;Nuclear bodies: Approved;Vesicles: Approved
+RSBN1L,Q6PCB5,Supported,Nuclear speckles: Supported;Plasma membrane: Approved
+RSC1A1,Q92681,Supported,Nucleoplasm: Supported;Cell Junctions: Uncertain
+RSF1,Q96T23,Validated,Nucleoplasm: Validated
+RSG1,Q9BU20,Validated,Nucleoplasm: Validated
+RSL1D1,O76021,Validated,Nucleoli: Validated
+RSL24D1,Q9UHA3,Validated,Nucleus: Validated;Nucleoli: Validated
+RSPH4A,Q5TD94,Supported,Nucleus: Supported
+RSRC2,Q7L4I2,Validated,Nucleoli (Fibrillar center): Approved;Nuclear speckles: Validated;Cytosol: Approved
+RTCA,O00442,Validated,Nucleus: Validated
+RTCB,Q9Y3I0,Supported,Nucleoplasm: Supported;Vesicles: Approved;Cytosol: Supported
+RTEL1,Q9NZ71,Supported,Nuclear bodies: Supported
+RTP4,Q96DX8,Supported,Nucleus: Supported
+RUFY1,Q96T51,Supported,Nucleus: Approved;Vesicles: Supported;Cytosol: Supported
+RUNX1,Q01196,Validated,Nucleoplasm: Validated;Vesicles: Validated
+RUNX2,Q13950,Validated,Nucleoplasm: Validated
+RUNX3,Q13761,Supported,Nucleus: Supported;Cytosol: Supported
+RUVBL1,Q9Y265,Supported,Nucleoplasm: Supported;Cytosol: Supported
+RUVBL2,Q9Y230,Supported,Nucleoplasm: Supported;Centrosome: Approved;Cytosol: Supported
+RXRA,P19793,Supported,Nucleus: Supported;Golgi apparatus: Supported
+RXRB,P28702,Supported,Nucleus: Supported
+RYBP,Q8N488,Validated,Nucleoplasm: Validated
+S100A14,Q9HCY8,Supported,Nuclear bodies: Approved;Cell Junctions: Supported;Cytosol: Supported
+S100A2,P29034,Supported,Nucleus: Supported;Nucleoli: Approved;Cytosol: Supported;Plasma membrane: Approved
+S100A3,P33764,Validated,Nucleoli: Validated;Cytosol: Validated
+S100A9,P06702,Supported,Nucleoplasm: Uncertain;Cell Junctions: Supported;Cytosol: Supported
+S100P,P25815,Supported,Nuclear bodies: Supported
+S100PBP,Q96BU1,Supported,Nuclear speckles: Supported
+SAAL1,Q96ER3,Supported,Nucleoplasm: Supported
+SAFB,Q15424,Validated,Nucleoplasm: Validated
+SAFB2,Q14151,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Vesicles: Approved
+SAGE1,Q9NXZ1,Validated,Nucleus: Validated
+SALL4,Q9UJQ4,Validated,Nucleoplasm: Validated
+SAMHD1,Q9Y3Z3,Supported,Nucleoplasm: Supported;Plasma membrane: Approved
+SAP130,Q9H0E3,Supported,Nuclear speckles: Supported
+SAP18,O00422,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Supported
+SAP30,O75446,Supported,Nucleoplasm: Supported
+SAP30BP,Q9UHR5,Validated,Nucleoplasm: Validated
+SAP30L,Q9HAJ7,Supported,Nucleus: Validated;Nucleoli: Validated
+SAPCD2,Q86UD0,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+SARNP,P82979,Supported,Nuclear speckles: Supported
+SART1,O43290,Validated,Nuclear speckles: Validated;Golgi apparatus: Supported
+SATB1,Q01826,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+SATB2,Q9UPW6,Supported,Nucleoplasm: Supported
+SBDS,Q9Y3A5,Supported,Nucleus: Supported;Cytosol: Supported
+SCAF11,Q99590,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported
+SCAF4,O95104,Validated,Nucleoplasm: Validated
+SCAF8,Q9UPN6,Validated,Nucleoplasm: Validated
+SCAI,Q8N9R8,Supported,Nucleus: Supported;Nuclear membrane: Approved
+SCAPER,Q9BY12,Supported,Nucleus: Supported;Cytosol: Approved
+SCEL,O95171,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+SCMH1,Q96GD3,Supported,Nucleoplasm: Supported;Nuclear bodies: Approved
+SCML4,Q8N228,Validated,Nucleoplasm: Validated
+SCO2,O43819,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+SCRIB,Q14160,Validated,Nucleoplasm: Validated;Cell Junctions: Validated;Plasma membrane: Validated;Rods & Rings: Approved
+SCRN2,Q96FV2,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+SDAD1,Q9NVU7,Supported,Nucleus: Approved;Nucleoli: Supported
+SDHAF2,Q9NX18,Supported,Nucleoli: Approved;Cytosol: Approved;Mitochondria: Supported
+SDHB,P21912,Supported,Nucleoplasm: Uncertain;Mitochondria: Supported;Plasma membrane: Uncertain
+SEC13,P55735,Supported,Nucleoplasm: Supported;Vesicles: Supported
+SEC14L2,O76054,Supported,Nucleus: Supported;Cytosol: Supported
+SECISBP2,Q96T21,Supported,Nucleoplasm: Supported
+SEL1L3,Q68CR1,Validated,Nucleus: Validated
+SELENBP1,Q13228,Supported,Nucleoli: Supported
+SEMA4A,Q9H3S1,Validated,Nucleus: Validated
+SEMA6A,Q9H2E6,Supported,Nucleus: Supported;Intermediate filaments: Approved
+SENP1,Q9P0U3,Validated,Nucleus: Validated;Focal Adhesions: Validated
+SENP3,Q9H4L4,Supported,Nucleus: Supported;Nucleoli: Supported
+SENP6,Q9GZR1,Supported,Nucleoplasm: Supported;Cytosol: Approved
+SEPT2,Q15019,Supported,Nucleus: Approved;Actin filaments: Supported;Cytosol: Supported
+SEPT4,O43236,Supported,Nucleoplasm: Supported
+SERGEF,Q9UGK8,Validated,Nucleoplasm: Validated;Vesicles: Approved;Cytosol: Validated
+SERTAD2,Q14140,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SERTAD3,Q9UJW9,Supported,Nucleoli: Supported
+SERTAD4,Q9NUC0,Supported,Nucleoplasm: Supported
+SESN1,Q9Y6P5,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+SET,Q01105,Supported,Nucleoplasm: Supported;Lipid droplets: Approved
+SETBP1,Q9Y6X0,Supported,Nucleus: Supported;Nuclear bodies: Supported;Cytosol: Uncertain
+SETD1A,O15047,Supported,Nuclear speckles: Supported
+SETD1B,Q9UPS6,Validated,Nucleoplasm: Validated
+SETD5,Q9C0A6,Validated,Nucleus: Validated;Cytosol: Validated
+SETD6,Q8TBK2,Supported,Nucleus: Supported;Cytosol: Uncertain
+SETD7,Q8WTS6,Supported,Nucleoli: Supported
+SETD8,Q9NQR1,Supported,Nucleus: Supported
+SETDB1,Q15047,Validated,Nucleoplasm: Validated;Cytosol: Uncertain
+SETMAR,Q53H47,Supported,Nucleoli: Supported
+SETSIP,P0DME0,Supported,Nucleoplasm: Supported;Lipid droplets: Approved
+SETX,Q7Z333,Supported,Nucleus: Supported;Cytokinetic bridge: Approved
+SF1,Q15637,Validated,Nucleoplasm: Validated
+SF3A1,Q15459,Validated,Nuclear speckles: Validated
+SF3A3,Q12874,Validated,Nucleoplasm: Validated
+SF3B1,O75533,Validated,Nuclear speckles: Validated
+SF3B2,Q13435,Validated,Nuclear speckles: Validated
+SF3B3,Q15393,Supported,Nucleus: Supported;Nucleoli: Supported
+SF3B5,Q9BWJ5,Validated,Nucleoplasm: Validated
+SF3B6,Q9Y3B4,Supported,Nucleoplasm: Supported
+SFMBT1,Q9UHJ3,Validated,Nucleoplasm: Validated
+SFMBT2,Q5VUG0,Supported,Nuclear speckles: Supported
+SFPQ,P23246,Validated,Nucleoplasm: Validated
+SGCG,Q13326,Supported,Nucleoplasm: Supported
+SGK1,O00141,Supported,Nuclear speckles: Supported;Cytosol: Supported
+SGK2,Q9HBY8,Supported,Nucleoplasm: Supported
+SGOL2,Q562F6,Validated,Nucleoplasm: Validated;Nuclear bodies: Approved
+SGPP1,Q9BX95,Supported,Nucleus: Supported
+SH3BGRL2,Q9UJC5,Supported,Nucleoplasm: Supported
+SH3BP5,O60239,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+SH3D19,Q5HYK7,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SH3GLB2,Q9NR46,Supported,Nucleoplasm: Approved;Cytosol: Supported
+SH3RF3,Q8TEJ3,Validated,Nucleoplasm: Validated;Centrosome: Approved;Cytosol: Approved
+SHARPIN,Q9H0F6,Supported,Nucleus: Supported;Cytosol: Supported
+SHB,Q15464,Validated,Nucleoplasm: Validated;Cytosol: Validated;Cytoplasmic bodies: Approved
+SHMT1,P34896,Supported,Nucleus: Supported;Cytosol: Supported
+SHOX,O15266,Validated,Nucleoplasm: Validated;Vesicles: Approved
+SHQ1,Q6PI26,Supported,Nucleoplasm: Supported
+SIAH2,O43255,Supported,Nucleoplasm: Supported;Vesicles: Supported
+SIGLEC15,Q6ZMC9,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+SIM2,Q14190,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+SIMC1,Q8NDZ2,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+SIN3A,Q96ST3,Validated,Nucleoplasm: Validated
+SIRT1,Q96EB6,Validated,Nucleus: Validated;Cytosol: Validated;Mitochondria: Validated
+SIRT6,Q8N6T7,Supported,Nucleoplasm: Supported
+SIRT7,Q9NRC8,Supported,Nucleoli (Fibrillar center): Supported;Vesicles: Approved
+SIVA1,O15304,Supported,Nucleoplasm: Supported
+SIX1,Q15475,Supported,Nucleus: Supported;Nucleoli: Supported
+SIX2,Q9NPC8,Supported,Nucleoplasm: Supported;Nuclear membrane: Approved
+SKAP2,O75563,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SKI,P12755,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+SKIV2L2,P42285,Supported,Nucleus: Supported
+SKP1,P63208,Supported,Nucleus: Supported;Cytosol: Approved
+SKP2,Q13309,Supported,Nucleus: Supported;Cytosol: Supported
+SLBP,Q14493,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+SLC12A8,A0AV02,Supported,Nucleoplasm: Supported
+SLC16A3,O15427,Supported,Nuclear membrane: Approved;Plasma membrane: Supported
+SLC22A18AS,Q8N1D0,Supported,Nucleoplasm: Supported
+SLC25A10,Q9UBX3,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+SLC25A22,Q9H936,Validated,Nucleoplasm: Validated;Mitochondria: Validated
+SLC26A11,Q86WA9,Supported,Nucleoplasm: Approved;Golgi apparatus: Approved;Vesicles: Supported
+SLC2A4RG,Q9NR83,Supported,Nuclear speckles: Supported
+SLC30A5,Q8TAD4,Supported,Nucleus: Approved;Golgi apparatus: Supported
+SLC35C2,Q9NQQ7,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+SLC3A2,P08195,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Supported
+SLC44A1,Q8WWI5,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+SLC4A1AP,Q9BWU0,Supported,Nucleoplasm: Supported;Vesicles: Approved
+SLC8A1,P32418,Supported,Nucleoplasm: Approved;Plasma membrane: Supported
+SLF2,Q8IX21,Supported,Nucleus: Supported;Vesicles: Approved
+SLFN11,Q7Z7L1,Validated,Nucleoplasm: Validated
+SLITRK5,O94991,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+SLTM,Q9NWH9,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+SLU7,O95391,Validated,Nucleoplasm: Validated;Nuclear speckles: Supported
+SLX4,Q8IY92,Supported,Nucleoplasm: Supported;Cell Junctions: Supported;Cytosol: Supported
+SMAD1,Q15797,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Supported
+SMAD2,Q15796,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Supported
+SMAD3,P84022,Validated,Nucleoplasm: Validated;Cytosol: Validated
+SMAD4,Q13485,Supported,Nucleoplasm: Supported;Centrosome: Approved;Cytosol: Supported
+SMAD5,Q99717,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SMAD6,O43541,Supported,Nucleus: Supported;Nuclear bodies: Supported;Golgi apparatus: Uncertain
+SMAD7,O15105,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SMAD9,O15198,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SMAGP,Q0VAQ4,Supported,Nucleoplasm: Supported;Plasma membrane: Supported
+SMARCA1,P28370,Supported,Nucleoplasm: Supported;Vesicles: Approved
+SMARCA4,P51532,Supported,Nucleoplasm: Supported
+SMARCA5,O60264,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Approved
+SMARCAD1,Q9H4L7,Validated,Nucleoplasm: Validated
+SMARCAL1,Q9NZC9,Supported,Nucleoplasm: Supported
+SMARCB1,Q12824,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported
+SMARCC1,Q92922,Validated,Nucleoplasm: Validated
+SMARCC2,Q8TAQ2,Validated,Nucleoplasm: Validated
+SMARCD2,Q92925,Validated,Nucleoplasm: Validated
+SMARCD3,Q6STE5,Validated,Nucleoplasm: Validated
+SMARCE1,Q969G3,Supported,Nucleoplasm: Supported
+SMC1A,Q14683,Validated,Nucleoplasm: Validated;Cytosol: Uncertain
+SMC1B,Q8NDV3,Supported,Nucleoplasm: Supported;Cytosol: Approved
+SMC2,O95347,Supported,Nucleus: Supported;Nucleoli: Supported
+SMC3,Q9UQE7,Supported,Nucleoplasm: Supported
+SMC4,Q9NTJ3,Supported,Nuclear speckles: Supported;Cytosol: Supported
+SMC5,Q8IY18,Supported,Nuclear speckles: Supported
+SMC6,Q96SB8,Supported,Nucleoplasm: Supported
+SMCR8,Q8TEV9,Validated,Nucleoplasm: Validated
+SMDT1,Q9H4I9,Supported,Nucleus: Approved;Mitochondria: Supported
+SMG1,Q96Q15,Supported,Nucleoplasm: Supported
+SMG6,Q86US8,Supported,Nucleoli: Supported;Cytosol: Supported
+SMN1,Q16637,Supported,Nuclear bodies: Supported;Cytosol: Supported
+SMNDC1,O75940,Supported,Nucleus: Supported;Nuclear bodies: Supported
+SMOX,Q9NWM0,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported;Vesicles: Approved
+SMTN,P53814,Validated,Nucleoplasm: Validated;Actin filaments: Supported
+SMURF2,Q9HAU4,Supported,Nuclear speckles: Supported
+SNAI1,O95863,Supported,Nucleus: Supported;Cytosol: Supported
+SNAP29,O95721,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SNAPC1,Q16533,Supported,Nucleoplasm: Supported
+SNAPC2,Q13487,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Uncertain
+SNAPC3,Q92966,Validated,Nucleus: Validated;Nuclear bodies: Validated
+SNAPC5,O75971,Supported,Nucleus: Supported
+SNF8,Q96H20,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SNIP1,Q8TAD8,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SNRNP200,O75643,Supported,Nucleoplasm: Supported
+SNRNP25,Q9BV90,Supported,Nucleoplasm: Supported;Cytokinetic bridge: Approved;Cytosol: Approved
+SNRNP35,Q16560,Supported,Nucleoli: Supported
+SNRNP40,Q96DI7,Supported,Nuclear speckles: Supported
+SNRNP48,Q6IEG0,Supported,Nucleoplasm: Supported;Cytosol: Approved
+SNRNP70,P08621,Validated,Nucleoplasm: Validated
+SNRPA,P09012,Validated,Nucleoplasm: Validated
+SNRPA1,P09661,Validated,Nuclear speckles: Validated
+SNRPB,P14678,Supported,Nucleoplasm: Supported
+SNRPB2,P08579,Supported,Nuclear speckles: Supported
+SNRPC,P09234,Validated,Nucleoplasm: Validated
+SNRPD3,P62318,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Supported
+SNRPN,P63162,Supported,Nucleoplasm: Supported
+SNUPN,O95149,Supported,Nuclear membrane: Supported
+SNW1,Q13573,Validated,Nucleoplasm: Validated
+SNX15,Q9NRS6,Supported,Nucleoli: Approved;Cytosol: Supported
+SOCS1,O15524,Supported,Nucleoplasm: Supported;Cytoplasmic bodies: Approved
+SOD1,P00441,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Supported
+SON,P18583,Validated,Nuclear speckles: Validated
+SORBS2,O94875,Supported,Nucleoplasm: Supported
+SOX10,P56693,Supported,Nucleoplasm: Supported
+SOX12,O15370,Supported,Nucleoplasm: Supported
+SOX13,Q9UN79,Validated,Nucleoplasm: Validated
+SOX15,O60248,Supported,Nucleus: Validated;Nucleoli: Approved;Golgi apparatus: Approved;Vesicles: Approved
+SOX2,P48431,Supported,Nucleoplasm: Supported
+SOX3,P41225,Validated,Nucleoplasm: Validated
+SOX4,Q06945,Supported,Nucleoplasm: Supported;Mitochondria: Approved
+SOX5,P35711,Supported,Nucleoplasm: Supported
+SOX8,P57073,Supported,Nucleus: Supported
+SOX9,P48436,Validated,Nucleoplasm: Validated
+SP1,P08047,Validated,Nucleoplasm: Validated
+SP100,P23497,Supported,Nucleus: Supported;Nuclear bodies: Supported
+SP110,Q9HB58,Supported,Nucleus: Supported
+SP2,Q02086,Validated,Nucleoplasm: Validated;Vesicles: Validated
+SP4,Q02446,Validated,Nucleoplasm: Validated;Cytosol: Supported
+SP6,Q3SY56,Supported,Nucleoplasm: Supported;Mitotic spindle: Approved;Centrosome: Approved
+SPAG17,Q6Q759,Validated,Nucleoplasm: Validated
+SPAG7,O75391,Supported,Nucleus: Supported
+SPANXA1,Q9NS26,Supported,Nucleoplasm: Supported;Vesicles: Approved
+SPANXA2,Q9NS26,Supported,Nucleoplasm: Supported;Vesicles: Approved
+SPANXC,Q9NY87,Supported,Nucleoplasm: Supported;Vesicles: Approved
+SPATA13,Q96N96,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SPATA24,Q86W54,Supported,Nucleus: Supported;Cytosol: Supported
+SPATS2L,Q9NUQ6,Validated,Nucleoli: Validated;Cytosol: Validated
+SPC24,Q8NBT2,Supported,Nucleus: Supported;Nucleoli: Supported
+SPDEF,O95238,Supported,Nucleus: Supported;Nucleoli: Supported
+SPDYA,Q5MJ70,Supported,Nucleoplasm: Supported
+SPEN,Q96T58,Validated,Nucleoplasm: Validated
+SPG11,Q96JI7,Supported,Nucleoli: Supported;Cytosol: Supported;Plasma membrane: Supported
+SPI1,P17947,Supported,Nucleoplasm: Supported
+SPIDR,Q14159,Supported,Nucleoplasm: Supported
+SPIN1,Q9Y657,Supported,Nucleoplasm: Supported
+SPR,P35270,Supported,Nucleoplasm: Approved;Cytosol: Supported
+SPRED1,Q7Z699,Supported,Nucleus: Supported
+SPRTN,Q9H040,Supported,Nucleoplasm: Supported
+SRA1,Q9HD15,Supported,Nucleoplasm: Supported;Microtubules: Approved;Cytosol: Supported
+SRCAP,Q6ZRS2,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+SREBF2,Q12772,Supported,Nucleoplasm: Supported;Vesicles: Supported;Mitochondria: Uncertain
+SREK1,Q8WXA9,Validated,Nucleoplasm: Validated;Nuclear speckles: Validated
+SRF,P11831,Supported,Nucleus: Supported
+SRFBP1,Q8NEF9,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Vesicles: Approved
+SRGAP2,,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SRI,P30626,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SRP54,P61011,Supported,Nucleoli: Approved;Cytosol: Supported
+SRPK1,Q96SB4,Supported,Nucleus: Supported;Cytosol: Supported;Plasma membrane: Approved
+SRPK2,P78362,Supported,Nucleus: Supported;Cytosol: Supported
+SRRM1,Q8IYB3,Validated,Nuclear speckles: Validated
+SRRM2,Q9UQ35,Validated,Nuclear speckles: Validated
+SRRT,Q9BXP5,Validated,Nucleoplasm: Validated
+SRSF1,Q07955,Validated,Nucleoplasm: Validated
+SRSF10,O75494,Supported,Nucleoplasm: Supported
+SRSF11,Q05519,Supported,Nuclear speckles: Supported
+SRSF3,P84103,Supported,Nucleoplasm: Supported
+SRSF4,Q08170,Supported,Nuclear speckles: Supported
+SRSF5,Q13243,Validated,Nucleus: Validated;Nucleoli: Validated
+SRSF6,Q13247,Supported,Nuclear speckles: Supported
+SRSF7,Q16629,Validated,Nucleoplasm: Validated
+SRSF8,Q9BRL6,Supported,Nucleus: Supported;Cytosol: Approved
+SS18L1,O75177,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SSFA2,P28290,Supported,Nucleus: Approved;Cytosol: Supported;Plasma membrane: Approved
+ST6GALNAC3,Q8NDV1,Supported,Nucleoplasm: Supported
+ST7,Q9NRC1,Supported,Nucleoplasm: Supported;Cytosol: Approved
+STAC3,Q96MF2,Validated,Nucleoplasm: Validated;Cytosol: Validated
+STAG1,Q8WVM7,Validated,Nucleus: Validated;Nuclear bodies: Validated
+STAM2,O75886,Supported,Nucleoplasm: Approved;Vesicles: Supported;Cytosol: Approved
+STAMBP,O95630,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Approved
+STAT1,P42224,Validated,Nucleoplasm: Validated;Cytosol: Validated
+STAT3,P40763,Supported,Nucleoplasm: Supported;Cytosol: Supported
+STAT5A,P42229,Validated,Nucleoplasm: Validated;Cytosol: Validated
+STAT6,P42226,Validated,Nucleoplasm: Validated;Cytosol: Validated
+STAU2,Q9NUL3,Supported,Nucleoplasm: Supported;Cytosol: Supported
+STIP1,P31948,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+STK11,Q15831,Supported,Nucleoplasm: Supported;Cytosol: Supported
+STK19,P49842,Supported,Nuclear speckles: Supported
+STK24,Q9Y6E0,Supported,Nucleoli: Supported;Cytosol: Supported
+STK35,Q8TDR2,Supported,Nucleus: Supported;Nuclear bodies: Approved
+STK39,Q9UEW8,Supported,Nucleoplasm: Supported;Vesicles: Approved;Cytosol: Supported
+STK4,Q13043,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported;Cytosol: Validated
+STK40,Q8N2I9,Supported,Nucleoplasm: Supported;Cytosol: Supported
+STON2,Q8WXE9,Supported,Nucleoli: Approved;Cytosol: Supported
+STOX1,Q6ZVD7,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported;Cytosol: Supported
+STRADA,Q7RTN6,Supported,Nucleoplasm: Supported;Cytosol: Supported
+STRAP,Q9Y3F4,Validated,Nucleoplasm: Supported;Cytosol: Validated
+STRN3,Q13033,Supported,Nucleoplasm: Approved;Actin filaments: Approved;Cytosol: Supported
+STUB1,Q9UNE7,Supported,Nucleoplasm: Supported;Cytosol: Supported
+STX11,O75558,Supported,Nuclear bodies: Approved;Mitochondria: Supported
+STX12,Q86Y82,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported;Vesicles: Supported
+STX3,Q13277,Supported,Nucleus: Supported;Nuclear bodies: Supported;Cytosol: Supported
+STX5,Q13190,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+STX6,O43752,Validated,Nucleoplasm: Validated;Golgi apparatus: Validated
+SUB1,P53999,Supported,Nucleus: Supported;Nucleoli: Supported
+SUDS3,Q9H7L9,Supported,Nuclear bodies: Supported;Cytosol: Approved
+SUFU,Q9UMX1,Supported,Nucleus: Supported
+SUGP1,Q8IWZ8,Validated,Nucleoplasm: Validated
+SUGP2,Q8IX01,Validated,Nucleoplasm: Validated;Nuclear bodies: Approved
+SUMO1,P63165,Supported,Nucleus: Supported;Nuclear membrane: Supported;Nucleoli: Supported;Nuclear bodies: Supported
+SUMO3,P55854,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+SUN1,O94901,Validated,Nuclear membrane: Validated
+SUN2,Q9UH99,Supported,Nuclear membrane: Supported
+SUPT16H,Q9Y5B9,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Approved
+SUPT20H,Q8NEM7,Supported,Nucleoli (Fibrillar center): Supported
+SUPT3H,O75486,Supported,Nucleoplasm: Supported
+SUPT5H,O00267,Validated,Nucleoplasm: Validated
+SUPT6H,Q7KZ85,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Approved
+SURF2,Q15527,Validated,Nucleus: Validated;Nucleoli: Validated
+SURF6,O75683,Validated,Nucleus: Approved;Nucleoli: Validated
+SUV420H1,Q4FZB7,Supported,Nucleus: Supported
+SWI5,Q1ZZU3,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SYAP1,Q96A49,Validated,Nucleoplasm: Supported;Golgi apparatus: Validated;Cytosol: Supported
+SYCE2,Q6PIF2,Supported,Nucleus: Supported
+SYCP2,Q9BX26,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+SYCP2L,Q5T4T6,Supported,Nucleoplasm: Supported
+SYF2,O95926,Supported,Nuclear speckles: Supported
+SYMPK,Q92797,Supported,Nucleoplasm: Supported;Cytosol: Approved;Plasma membrane: Supported
+SYN2,,Supported,Nucleoplasm: Supported
+SYNCRIP,O60506,Supported,Nucleoplasm: Supported;Cytosol: Supported
+SYNE1,Q8NF91,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported
+SYNE2,Q8WXH0,Validated,Nuclear membrane: Validated
+SYNE3,Q6ZMZ3,Supported,Nuclear membrane: Supported
+SYVN1,Q86TM6,Supported,Nucleoplasm: Supported;Endoplasmic reticulum: Validated;Plasma membrane: Supported
+T,O15178,Supported,Nucleus: Supported
+TAB1,Q15750,Validated,Nuclear speckles: Validated;Cytosol: Validated
+TACC2,O95359,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Uncertain
+TACSTD2,P09758,Supported,Nucleoli: Approved;Vesicles: Approved;Plasma membrane: Supported
+TADA1,Q96BN2,Supported,Nucleoplasm: Supported;Focal Adhesions: Approved;Cytosol: Approved
+TADA3,O75528,Supported,Nucleoplasm: Supported
+TAF1,P21675,Validated,Nucleoplasm: Validated
+TAF10,Q12962,Supported,Nucleus: Supported
+TAF11,Q15544,Supported,Nucleoplasm: Supported;Golgi apparatus: Uncertain
+TAF13,Q15543,Validated,Nucleus: Validated;Nucleoli: Validated
+TAF15,Q92804,Validated,Nucleoplasm: Validated
+TAF1A,Q15573,Validated,Nucleus: Validated;Vesicles: Validated;Microtubules: Validated
+TAF1B,Q53T94,Supported,Nucleus: Approved;Nucleoli: Supported
+TAF1C,Q15572,Supported,Nucleoli (Fibrillar center): Supported
+TAF1D,Q9H5J8,Supported,Nucleoplasm: Supported;Microtubule organizing center: Supported
+TAF3,Q5VWG9,Supported,Nucleoplasm: Supported;Nuclear membrane: Approved
+TAF4,O00268,Supported,Nucleoplasm: Supported;Cytosol: Approved
+TAF4B,Q92750,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported
+TAF5,Q15542,Supported,Nucleoplasm: Supported
+TAF5L,O75529,Supported,Nuclear speckles: Supported;Cytoplasmic bodies: Approved
+TAF6,P49848,Supported,Nucleus: Supported;Cytosol: Approved
+TAF6L,Q9Y6J9,Supported,Nucleoplasm: Supported
+TAF7,Q15545,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+TAF8,Q7Z7C8,Validated,Nucleus: Validated
+TAF9,Q16594,Validated,Nucleoplasm: Validated
+TAF9B,Q9HBM6,Supported,Nucleoplasm: Supported
+TALDO1,P37837,Validated,Nucleoplasm: Validated;Cytosol: Validated
+TANK,Q92844,Supported,Nucleoli: Supported;Cytosol: Supported
+TAOK2,Q9UL54,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Approved
+TARBP2,Q15633,Supported,Nucleoplasm: Supported;Nuclear bodies: Approved
+TARDBP,Q13148,Validated,Nucleoplasm: Validated
+TATDN1,Q6P1N9,Supported,Nucleoplasm: Supported
+TATDN2,Q93075,Supported,Nucleus: Supported;Nuclear speckles: Approved;Cytosol: Supported
+TBC1D10A,Q9BXI6,Supported,Nucleoplasm: Approved;Plasma membrane: Supported
+TBC1D14,Q9P2M4,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported;Vesicles: Supported
+TBC1D8,O95759,Supported,Nucleus: Supported
+TBCA,O75347,Supported,Nucleoli: Supported;Microtubules: Supported
+TBK1,Q9UHD2,Supported,Nucleoplasm: Supported
+TBL3,Q12788,Validated,Nucleoli: Validated
+TBP,P20226,Supported,Nucleoplasm: Supported
+TBPL1,P62380,Validated,Nucleoplasm: Validated;Nucleoli: Approved
+TBRG1,Q3YBR2,Validated,Nucleus: Validated
+TBXA2R,P21731,Supported,Nuclear speckles: Approved;Plasma membrane: Supported
+TCAF1,Q9Y4C2,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+TCEA1,P23193,Supported,Nucleus: Supported;Nucleoli: Approved
+TCEA2,Q15560,Supported,Nucleoplasm: Supported;Centrosome: Supported
+TCEAL1,Q15170,Supported,Nucleoplasm: Supported
+TCEAL7,Q9BRU2,Supported,Nucleus: Supported
+TCERG1,O14776,Validated,Nucleoplasm: Validated
+TCF12,Q99081,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported
+TCF15,Q12870,Supported,Nuclear speckles: Supported
+TCF20,Q9UGU0,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+TCF3,P15923,Validated,Nucleoplasm: Validated
+TCF7,P36402,Validated,Nucleoplasm: Validated
+TCF7L1,Q9HCS4,Supported,Nucleoplasm: Supported;Cytosol: Approved
+TCF7L2,Q9NQB0,Supported,Nucleoplasm: Approved;Nuclear bodies: Supported
+TCFL5,Q9UL49,Supported,Nucleoplasm: Supported
+TCOF1,Q13428,Validated,Nucleus: Validated;Nucleoli (Fibrillar center): Validated
+TCP11L2,Q8N4U5,Supported,Nuclear speckles: Supported
+TDG,Q13569,Supported,Nucleoplasm: Supported
+TDP1,Q9NUW8,Supported,Nucleus: Supported;Plasma membrane: Approved
+TDP2,O95551,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+TDRD3,Q9H7E2,Supported,Nucleoplasm: Supported;Cytosol: Supported
+TEAD1,P28347,Validated,Nucleus: Validated;Cytosol: Uncertain
+TEAD2,Q15562,Supported,Nucleoplasm: Supported
+TEAD4,Q15561,Supported,Nucleoplasm: Supported
+TELO2,Q9Y4R8,Supported,Nuclear bodies: Supported;Cytosol: Supported
+TEN1,Q86WV5,Supported,Nucleus: Supported
+TEP1,Q99973,Supported,Nucleoplasm: Supported;Vesicles: Supported
+TERF1,P54274,Supported,Nucleoli (Fibrillar center): Supported;Nuclear bodies: Supported
+TERF2,Q15554,Supported,Nuclear bodies: Supported
+TERF2IP,Q9NYB0,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+TERT,O14746,Validated,Nucleoplasm: Validated
+TESC,Q96BS2,Supported,Nucleus: Supported;Cytosol: Supported
+TESK2,Q96S53,Validated,Nucleoplasm: Validated
+TET1,Q8NFU7,Supported,Nucleus: Supported;Nuclear membrane: Supported
+TEX264,Q9Y6I9,Supported,Nucleoli: Supported;Cytosol: Supported
+TFAP2A,P05549,Validated,Nucleoplasm: Validated
+TFAP2C,Q92754,Supported,Nucleoplasm: Supported
+TFAP4,Q01664,Supported,Nucleoplasm: Supported;Mitochondria: Approved
+TFCP2,Q12800,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+TFCP2L1,Q9NZI6,Supported,Nucleoli (Fibrillar center): Supported
+TFDP1,Q14186,Validated,Nucleoplasm: Validated
+TFDP2,Q14188,Supported,Nucleus: Supported;Vesicles: Approved
+TFE3,P19532,Supported,Nucleoplasm: Supported;Cytosol: Approved
+TFEB,P19484,Supported,Nucleoplasm: Supported
+TFEC,O14948,Supported,Nucleoplasm: Supported
+TFPT,P0C1Z6,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported
+TGIF1,Q15583,Supported,Nucleoplasm: Supported
+TGIF2,Q9GZN2,Supported,Nucleoplasm: Supported
+TGOLN2,O43493,Validated,Nucleoplasm: Validated;Golgi apparatus: Validated
+TGS1,Q96RS0,Validated,Nucleus: Supported;Cytosol: Validated
+THAP1,Q9NVV9,Supported,Nucleus: Supported
+THAP11,Q96EK4,Validated,Nucleoplasm: Validated;Cytokinetic bridge: Validated
+THAP5,Q7Z6K1,Validated,Nucleus: Validated
+THOC1,Q96FV9,Validated,Nuclear speckles: Validated
+THOC3,Q96J01,Validated,Nucleoplasm: Validated
+THOC5,Q13769,Supported,Nucleoplasm: Supported
+THOC6,Q86W42,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported
+THOC7,Q6I9Y2,Supported,Nuclear speckles: Supported;Cytosol: Supported
+THRAP3,Q9Y2W1,Validated,Nuclear speckles: Validated
+THRB,P10828,Supported,Nuclear bodies: Supported
+THYN1,Q9P016,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported;Cytosol: Approved
+TIA1,P31483,Supported,Nucleoplasm: Supported;Cytosol: Supported
+TIAM2,Q8IVF5,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported;Cytosol: Supported
+TICRR,Q7Z2Z1,Validated,Nucleoplasm: Validated
+TIGD1,Q96MW7,Supported,Nucleus: Supported;Nucleoli: Supported;Nuclear bodies: Supported
+TIMELESS,Q9UNS1,Supported,Nucleus: Supported
+TIMM13,Q9Y5L4,Supported,Nucleoli (Fibrillar center): Approved;Mitochondria: Supported
+TIMM17A,Q99595,Supported,Nucleoplasm: Uncertain;Mitochondria: Validated
+TIMM50,Q3ZCQ8,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+TIMMDC1,Q9NPL8,Validated,Nucleus: Supported;Mitochondria: Validated
+TINF2,Q9BSI4,Supported,Nuclear bodies: Supported
+TIPIN,Q9BVW5,Supported,Nucleus: Supported;Vesicles: Approved
+TJP3,O95049,Validated,Nucleoplasm: Approved;Cell Junctions: Validated
+TKT,P29401,Validated,Nucleoplasm: Validated
+TLE1,Q04724,Supported,Nucleoplasm: Supported
+TLE2,Q04725,Supported,Nuclear bodies: Supported;Focal Adhesions: Approved
+TLE3,Q04726,Supported,Nucleoplasm: Supported
+TLE4,Q04727,Supported,Nucleus: Supported
+TLK1,Q9UKI8,Validated,Nucleus: Validated
+TLR2,O60603,Supported,Nucleus: Supported;Mitochondria: Supported
+TM2D1,Q9BX74,Validated,Nucleoplasm: Validated
+TMA16,Q96EY4,Validated,Nucleoli: Validated
+TMEM179B,Q7Z7N9,Validated,Nuclear speckles: Validated
+TMEM189-UBE2V1,,Supported,Nucleoplasm: Supported
+TMEM192,Q8IY95,Validated,Nucleoplasm: Approved;Vesicles: Validated
+TMEM201,Q5SNT2,Supported,Nucleus: Supported;Nuclear membrane: Supported
+TMEM70,Q9BUB7,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+TMEM8A,Q9HCN3,Supported,Nucleoplasm: Supported;Cytokinetic bridge: Approved
+TMEM92,Q6UXU6,Supported,Nucleoplasm: Supported
+TMEM94,Q12767,Supported,Nucleoplasm: Supported;Nuclear bodies: Approved
+TMEM98,Q9Y2Y6,Supported,Nucleoplasm: Supported
+TMPO,P42166;P42167,Validated,Nuclear membrane: Validated
+TMPRSS2,O15393,Supported,Nucleoplasm: Uncertain;Cell Junctions: Supported
+TMUB1,Q9BVT8,Supported,Nucleoplasm: Supported;Cytosol: Supported
+TMX1,Q9H3N1,Supported,Nucleoli: Supported;Endoplasmic reticulum: Supported
+TMX4,Q9H1E5,Supported,Nuclear membrane: Supported
+TNFAIP1,Q13829,Validated,Nucleoli: Validated
+TNFAIP8,O95379,Supported,Nucleoplasm: Supported
+TNFRSF10A,O00220,Supported,Nucleoplasm: Supported
+TNIK,Q9UKE5,Supported,Nucleoplasm: Supported;Cytosol: Supported
+TNIP1,Q15025,Supported,Nucleoplasm: Supported;Cytosol: Supported
+TNIP2,Q8NFZ5,Validated,Nucleoplasm: Validated;Cytosol: Validated
+TNPO1,Q92973,Supported,Nucleoplasm: Supported;Cytosol: Supported;Cytoplasmic bodies: Supported
+TNRC18,O15417,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported;Cytosol: Supported;Mitochondria: Supported
+TOE1,Q96GM8,Validated,Nucleoplasm: Validated;Nuclear bodies: Validated
+TONSL,Q96HA7,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported
+TOP1,P11387,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+TOP2A,P11388,Supported,Nucleus: Supported;Nucleoli: Approved
+TOP2B,Q02880,Validated,Nucleus: Validated
+TOPBP1,Q92547,Validated,Nucleus: Validated
+TOPORS,Q9NS56,Supported,Nucleoplasm: Supported
+TOR1A,O14656,Supported,Nuclear membrane: Supported;Vesicles: Supported
+TOR1AIP1,Q5JTV8,Validated,Nuclear membrane: Validated
+TOX2,Q96NM4,Supported,Nucleoplasm: Supported
+TP53,P04637,Validated,Nucleoplasm: Validated
+TP53BP1,Q12888,Validated,Nucleoplasm: Approved;Nuclear bodies: Validated
+TP63,Q9H3D4,Validated,Nucleoplasm: Validated;Golgi apparatus: Uncertain;Cytosol: Uncertain
+TP73,O15350,Supported,Nucleoplasm: Supported;Golgi apparatus: Supported
+TPGS2,Q68CL5,Supported,Nucleoli: Supported
+TPI1,P60174,Validated,Nucleoplasm: Validated
+TPP2,P29144,Supported,Nuclear bodies: Supported;Cytosol: Supported
+TPR,P12270,Validated,Nuclear membrane: Validated
+TPRG1,Q6ZUI0,Supported,Nucleoplasm: Supported
+TPX2,Q9ULW0,Supported,Nucleoplasm: Supported;Mitotic spindle: Supported
+TRA2A,Q13595,Supported,Nucleoli: Supported;Vesicles: Supported
+TRA2B,P62995,Validated,Nucleoplasm: Validated
+TRAF6,Q9Y4K3,Supported,Nucleoli: Supported;Mitochondria: Supported
+TRERF1,Q96PN7,Validated,Nucleoplasm: Validated;Cytosol: Uncertain
+TRIB3,Q96RU7,Supported,Nucleus: Supported;Nuclear membrane: Supported;Nucleoli: Supported
+TRIM11,Q96F44,Validated,Nucleus: Validated;Cytosol: Validated
+TRIM22,Q8IYM9,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+TRIM24,O15164,Validated,Nucleoplasm: Validated
+TRIM26,Q12899,Supported,Nucleoplasm: Supported;Cytosol: Supported
+TRIM28,Q13263,Validated,Nucleoplasm: Validated
+TRIM29,Q14134,Supported,Nucleoplasm: Supported;Intermediate filaments: Supported
+TRIM41,Q8WV44,Supported,Nucleoli: Supported;Nuclear bodies: Supported
+TRIM52,Q96A61,Supported,Nucleoli: Supported;Intermediate filaments: Supported
+TRIM65,Q6PJ69,Supported,Nucleoplasm: Supported;Vesicles: Approved;Cytosol: Supported
+TRIM66,O15016,Supported,Nucleoplasm: Supported
+TRIM68,Q6AZZ1,Supported,Nucleus: Supported;Cytosol: Supported
+TRIM8,Q9BZR9,Validated,Nucleoplasm: Validated;Vesicles: Validated;Cytosol: Validated
+TRIP10,Q15642,Supported,Nucleoplasm: Approved;Vesicles: Supported
+TRIP11,Q15643,Validated,Nucleus: Approved;Golgi apparatus: Validated
+TRIP4,Q15650,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+TRMT10C,Q7L0Y3,Supported,Nucleoplasm: Supported;Mitochondria: Supported
+TRMT6,Q9UJA5,Supported,Nucleus: Supported
+TRMU,O75648,Supported,Nucleoplasm: Approved;Mitochondria: Supported
+TRPM4,Q8TD43,Supported,Nucleoplasm: Approved;Plasma membrane: Supported
+TRPS1,Q9UHF7,Supported,Nucleoplasm: Supported
+TRRAP,Q9Y4A5,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+TSEN2,Q8NCE0,Validated,Nucleoplasm: Validated;Cytosol: Supported
+TSEN34,Q9BSV6,Supported,Nucleus: Supported
+TSFM,P43897,Supported,Nucleus: Approved;Mitochondria: Supported
+TSG101,Q99816,Supported,Nucleoli: Approved;Cytosol: Supported;Plasma membrane: Approved
+TSHZ3,Q63HK5,Supported,Nucleoplasm: Supported
+TSNAX,Q99598,Supported,Nucleoplasm: Supported;Cytosol: Supported
+TSPYL1,Q9H0U9,Supported,Nucleus: Supported;Nucleoli: Supported
+TSR1,Q2NL82,Supported,Nucleoplasm: Supported
+TSSC1,Q53HC9,Supported,Nucleus: Supported;Nucleoli: Supported;Intermediate filaments: Approved
+TTBK1,Q5TCY1,Supported,Nucleoplasm: Uncertain;Cytosol: Supported
+TTC14,Q96N46,Supported,Nucleus: Supported
+TTC21A,Q8NDW8,Supported,Nucleoplasm: Supported
+TTC37,Q6PGP7,Supported,Nucleoplasm: Supported;Cytosol: Supported
+TTC5,Q8N0Z6,Supported,Nucleoplasm: Supported
+TTF1,Q15361,Supported,Nucleus: Supported;Nucleoli: Supported
+TUBD1,Q9UJT1,Validated,Nucleoplasm: Validated;Cytosol: Validated
+TUBGCP2,Q9BSJ2,Supported,Nucleoplasm: Approved;Centrosome: Supported
+TULP3,O75386,Supported,Nucleus: Supported;Nucleoli: Supported;Plasma membrane: Supported
+TUT1,Q9H6E5,Supported,Nucleus: Supported;Cytosol: Approved
+TWIST2,Q8WVJ9,Supported,Nucleus: Supported;Nucleoli: Supported
+TWISTNB,Q3B726,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+TXN,P10599,Validated,Nucleus: Validated;Nucleoli: Approved;Cytosol: Validated
+TXNDC2,Q86VQ3,Validated,Nucleus: Validated;Cytosol: Validated
+TXNL4B,Q9NX01,Supported,Nucleoplasm: Supported;Cytosol: Approved
+TXNRD1,Q16881,Supported,Nucleus: Supported
+TXNRD3,,Validated,Nucleoplasm: Validated;Cytosol: Validated
+U2AF1,Q01081,Validated,Nucleoplasm: Validated
+U2AF2,P26368,Validated,Nucleoplasm: Supported;Nuclear speckles: Validated
+U2SURP,O15042,Supported,Nucleoplasm: Supported
+UACA,Q9BZF9,Supported,Nucleus: Supported;Cytosol: Supported
+UAP1,Q16222,Supported,Nucleoplasm: Approved;Cytosol: Supported;Plasma membrane: Approved
+UBA1,P22314,Validated,Nucleoplasm: Validated
+UBA2,Q9UBT2,Supported,Nucleoplasm: Supported
+UBA6,A0AVT1,Validated,Nucleoplasm: Validated;Cytosol: Validated
+UBD,O15205,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Approved
+UBE2A,P49459,Supported,Nucleoplasm: Supported;Vesicles: Supported;Cytosol: Supported;Plasma membrane: Supported
+UBE2B,P63146,Supported,Nucleoplasm: Supported;Vesicles: Supported;Cytosol: Supported;Plasma membrane: Supported
+UBE2L3,P68036,Supported,Nucleus: Supported;Cytosol: Supported
+UBE2M,P61081,Supported,Nucleus: Supported;Nuclear bodies: Approved;Cytosol: Approved
+UBE2N,P61088,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+UBE2O,Q9C0C9,Supported,Nucleus: Supported;Nuclear bodies: Supported
+UBE2QL1,A1L167,Supported,Nucleus: Supported;Plasma membrane: Uncertain
+UBE2V1,Q13404,Validated,Nucleoplasm: Validated
+UBE2V2,Q15819,Supported,Nucleoplasm: Supported
+UBE2W,Q96B02,Supported,Nucleoli: Supported
+UBE2Z,Q9H832,Supported,Nucleoplasm: Supported;Cytosol: Supported
+UBE4A,Q14139,Supported,Nuclear speckles: Supported
+UBLCP1,Q8WVY7,Validated,Nucleus: Validated;Nucleoli: Validated
+UBN1,Q9NPG3,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+UBN2,Q6ZU65,Supported,Nucleoplasm: Supported
+UBP1,Q9NZI7,Supported,Nucleoplasm: Supported
+UBQLN1,Q9UMX0,Supported,Nucleoplasm: Supported;Cytosol: Supported
+UBQLN4,Q9NRR5,Supported,Nucleus: Supported
+UBR4,Q5T4S7,Supported,Nucleoplasm: Supported;Centrosome: Approved;Cytosol: Supported
+UBR5,O95071,Supported,Nucleoplasm: Supported;Cytosol: Supported
+UBTF,P17480,Validated,Nucleoli (Fibrillar center): Validated
+UBXN7,O94888,Validated,Nucleoplasm: Validated
+UBXN8,O00124,Supported,Nucleoli: Approved;Endoplasmic reticulum: Supported
+UCHL1,P09936,Validated,Nucleoplasm: Approved;Cytosol: Validated
+UCHL3,P15374,Supported,Nucleus: Approved;Cytosol: Supported
+UGDH,O60701,Validated,Nucleoplasm: Validated
+UHMK1,Q8TAS1,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved
+UHRF1,Q96T88,Supported,Nucleoplasm: Supported
+UHRF2,Q96PU4,Validated,Nucleoplasm: Validated
+UIMC1,Q96RL1,Validated,Nuclear bodies: Validated
+UNC45A,Q9H3U1,Supported,Nuclear speckles: Supported;Cytosol: Supported
+UPF1,Q92900,Supported,Nucleoplasm: Supported
+UPF3B,Q9BZI7,Validated,Nucleus: Supported;Nucleoli: Supported;Cytosol: Validated
+UPP1,Q16831,Validated,Nucleoplasm: Validated
+UQCC2,Q9BRT2,Supported,Nuclear bodies: Approved;Mitochondria: Supported
+URB1,O60287,Supported,Nucleoli (Fibrillar center): Supported
+URB2,Q14146,Validated,Nucleoli: Validated
+URI1,O94763,Supported,Nucleoplasm: Supported;Cytosol: Supported
+UROD,P06132,Supported,Nucleoplasm: Supported;Cytosol: Supported
+USB1,Q9BQ65,Supported,Nucleus: Supported
+USF1,P22415,Validated,Nucleoplasm: Validated
+USF2,Q15853,Supported,Nucleoplasm: Validated;Vesicles: Approved
+USO1,O60763,Validated,Nucleoli (Fibrillar center): Supported;Golgi apparatus: Validated
+USP1,O94782,Supported,Nucleoplasm: Supported
+USP10,Q14694,Validated,Nucleoplasm: Validated;Cytosol: Validated
+USP11,P51784,Supported,Nucleoplasm: Supported
+USP21,Q9UK80,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Approved
+USP22,Q9UPT9,Supported,Nuclear speckles: Supported
+USP24,Q9UPU5,Supported,Nucleoplasm: Supported;Cytosol: Supported
+USP28,Q96RU2,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+USP3,Q9Y6I4,Supported,Nucleus: Supported
+USP33,Q8TEY7,Supported,Nucleoplasm: Approved;Golgi apparatus: Supported
+USP36,Q9P275,Validated,Nucleoli: Validated;Nuclear speckles: Validated
+USP39,Q53GS9,Supported,Nucleoplasm: Supported
+USP46,P62068,Validated,Nucleoli: Validated
+USP48,Q86UV5,Supported,Nucleoplasm: Supported;Cytosol: Supported;Mitochondria: Supported
+UTP14A,Q9BVJ6,Supported,Nucleoli: Supported;Cytosol: Uncertain
+UTP15,Q8TED0,Supported,Nucleoli: Supported;Endoplasmic reticulum: Approved
+UTP18,Q9Y5J1,Supported,Nucleus: Approved;Nuclear membrane: Approved;Nucleoli: Supported
+UTP20,O75691,Supported,Nucleoli: Supported;Plasma membrane: Approved
+UTP6,Q9NYH9,Validated,Nucleoli: Validated
+UXT,Q9UBK9,Supported,Nucleus: Supported;Microtubule organizing center: Supported;Cytosol: Approved
+VCP,P55072,Validated,Nucleoplasm: Validated;Cytosol: Validated
+VDR,P11473,Validated,Nucleoplasm: Validated
+VEZF1,Q14119,Validated,Nucleoplasm: Validated
+VEZT,Q9HBM0,Supported,Nucleoplasm: Supported;Cytosol: Approved
+VGLL1,Q99990,Supported,Nucleus: Supported
+VHL,P40337,Validated,Nucleoplasm: Validated;Cytosol: Supported
+VPRBP,Q9Y4B6,Validated,Nucleus: Validated;Nucleoli (Fibrillar center): Validated
+VPS54,Q9P1Q0,Validated,Nucleoplasm: Approved;Golgi apparatus: Validated
+VPS72,Q15906,Supported,Nuclear speckles: Supported
+VRK1,Q99986,Supported,Nucleus: Supported;Cytosol: Supported
+VRK3,Q8IV63,Supported,Nucleus: Supported;Vesicles: Approved
+VSIG10L,Q86VR7,Validated,Nucleus: Validated
+VTA1,Q9NP79,Supported,Nucleoplasm: Approved;Vesicles: Supported;Cytosol: Supported
+VWA5A,O00534,Validated,Nucleus: Validated
+VWCE,Q96DN2,Supported,Nucleus: Supported;Vesicles: Supported;Cytosol: Supported
+WAC,Q9BTA9,Supported,Nucleoplasm: Supported
+WBP11,Q9Y2W2,Validated,Nucleoplasm: Validated
+WBP4,O75554,Supported,Nucleoplasm: Supported;Vesicles: Uncertain;Plasma membrane: Uncertain
+WBSCR22,O43709,Supported,Nucleus: Supported;Nucleoli: Supported
+WDHD1,O75717,Validated,Nucleoplasm: Validated
+WDR13,Q9H1Z4,Supported,Nucleoplasm: Supported;Microtubule organizing center: Approved;Plasma membrane: Approved
+WDR25,Q64LD2,Supported,Nucleoplasm: Supported
+WDR26,Q9H7D7,Validated,Nucleoplasm: Validated;Cytosol: Validated
+WDR27,A2RRH5,Validated,Nucleoplasm: Validated
+WDR3,Q9UNX4,Supported,Nucleus: Approved;Nuclear membrane: Approved;Nucleoli: Validated
+WDR33,Q9C0J8,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported
+WDR36,Q8NI36,Supported,Nucleoli: Supported
+WDR4,P57081,Supported,Nucleus: Supported;Cytosol: Approved
+WDR5,P61964,Supported,Nucleoplasm: Supported
+WDR61,Q9GZS3,Validated,Nucleoplasm: Validated;Cytosol: Supported
+WDR74,Q6RFH5,Supported,Nucleus: Approved;Nucleoli: Supported
+WDR77,Q9BQA1,Supported,Nucleoplasm: Supported;Golgi apparatus: Approved;Cytosol: Supported
+WDYHV1,Q96HA8,Supported,Nucleoplasm: Supported;Vesicles: Supported
+WEE2,P0C1S8,Supported,Nucleoplasm: Supported;Cytosol: Approved
+WHSC1,O96028,Supported,Nucleus: Supported
+WIPF2,Q8TF74,Supported,Nucleoplasm: Supported
+WIPI2,Q9Y4P8,Supported,Nucleoplasm: Supported;Cytosol: Supported
+WIZ,O95785,Validated,Nucleoplasm: Validated;Midbody: Approved
+WRAP53,Q9BUR4,Validated,Nucleoplasm: Approved;Nuclear bodies: Validated;Cytosol: Validated
+WRN,Q14191,Supported,Nuclear speckles: Supported
+WT1,P19544,Supported,Nucleoplasm: Supported
+WTAP,Q15007,Validated,Nucleoplasm: Supported;Nuclear speckles: Validated
+WWTR1,Q9GZV5,Validated,Nucleoplasm: Validated;Nuclear bodies: Supported;Cytosol: Validated
+XAF1,Q6GPH4,Supported,Nucleus: Approved;Mitochondria: Supported;Rods & Rings: Approved
+XDH,P47989,Supported,Nucleus: Supported
+XIAP,P98170,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Approved
+XPC,Q01831,Validated,Nucleus: Validated;Plasma membrane: Validated
+XPO1,O14980,Validated,Nucleoplasm: Validated;Nuclear membrane: Validated;Vesicles: Validated;Cytosol: Validated
+XPO4,Q9C0E2,Supported,Nucleoplasm: Supported;Cytosol: Supported
+XPO5,Q9HAV4,Validated,Nucleoplasm: Validated
+XPOT,O43592,Validated,Nucleoplasm: Validated;Cytosol: Validated
+XRCC1,P18887,Validated,Nucleoplasm: Validated
+XRCC3,O43542,Validated,Nucleus: Validated
+XRCC4,Q13426,Supported,Nucleus: Supported
+XRCC5,P13010,Validated,Nucleoplasm: Validated
+XRCC6,P12956,Validated,Nucleoplasm: Validated
+XRN2,Q9H0D6,Validated,Nucleus: Validated;Nucleoli: Validated
+XRRA1,Q6P2D8,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+YAF2,Q8IY57,Supported,Nucleoplasm: Supported
+YAP1,P46937,Supported,Nucleus: Supported;Nucleoli: Supported
+YARS2,Q9Y2Z4,Supported,Nuclear bodies: Approved;Mitochondria: Supported
+YBEY,P58557,Validated,Nucleoplasm: Validated
+YBX2,Q9Y2T7,Supported,Nucleoli (Fibrillar center): Supported
+YIPF3,Q9GZM5,Validated,Nucleoplasm: Supported;Golgi apparatus: Validated
+YIPF5,Q969M3,Supported,Nucleoplasm: Approved;Endoplasmic reticulum: Supported;Golgi apparatus: Supported;Vesicles: Supported
+YLPM1,P49750,Supported,Nucleoplasm: Supported;Nuclear speckles: Supported
+YME1L1,Q96TA2,Supported,Nuclear bodies: Approved;Mitochondria: Supported
+YOD1,Q5VVQ6,Supported,Nucleoplasm: Supported;Cytosol: Supported;Plasma membrane: Supported
+YWHAQ,P27348,Supported,Nucleoplasm: Uncertain;Cytosol: Supported
+YY1,P25490,Supported,Nucleoplasm: Supported;Nucleoli (Fibrillar center): Supported;Vesicles: Approved
+ZBED4,O75132,Supported,Nucleoplasm: Supported
+ZBED8,Q8IZ13,Validated,Nucleoplasm: Validated
+ZBTB1,Q9Y2K1,Supported,Nucleoplasm: Supported;Nuclear membrane: Supported
+ZBTB10,Q96DT7,Validated,Nucleoplasm: Validated
+ZBTB11,O95625,Validated,Nucleoplasm: Validated
+ZBTB14,O43829,Validated,Nucleus: Validated;Nucleoli: Supported;Cytosol: Uncertain
+ZBTB18,Q99592,Supported,Nucleoplasm: Supported;Microtubules: Supported;Cytokinetic bridge: Supported
+ZBTB2,Q8N680,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ZBTB20,Q9HC78,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ZBTB21,Q9ULJ3,Validated,Nucleus: Validated
+ZBTB25,P24278,Validated,Nucleoplasm: Validated
+ZBTB33,Q86T24,Validated,Nucleus: Validated;Cytosol: Validated;Plasma membrane: Validated
+ZBTB34,Q8NCN2,Supported,Nucleoplasm: Supported
+ZBTB38,Q8NAP3,Validated,Nucleoplasm: Validated
+ZBTB4,Q9P1Z0,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported;Cytosol: Uncertain
+ZBTB42,B2RXF5,Supported,Nucleus: Supported
+ZBTB7B,O15156,Validated,Nucleoplasm: Validated
+ZC3H12A,Q5D1E8,Supported,Nucleoplasm: Supported;Cytoplasmic bodies: Supported
+ZC3H12D,A2A288,Supported,Nucleoplasm: Supported;Cytoplasmic bodies: Supported
+ZC3H14,Q6PJT7,Validated,Nuclear speckles: Validated
+ZC3H18,Q86VM9,Validated,Nuclear speckles: Validated
+ZC3H4,Q9UPT8,Validated,Nucleoplasm: Validated;Cytosol: Validated
+ZC3H8,Q8N5P1,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ZC3HC1,Q86WB0,Supported,Nucleus: Supported;Nuclear membrane: Supported
+ZCCHC11,Q5TAX3,Supported,Nucleoli: Supported;Cytosol: Supported
+ZCCHC17,Q9NP64,Supported,Nuclear speckles: Supported
+ZCCHC6,Q5VYS8,Supported,Nucleoplasm: Approved;Cytosol: Supported
+ZCCHC7,Q8N3Z6,Validated,Nucleoli: Validated;Cytosol: Validated
+ZCCHC8,Q6NZY4,Validated,Nucleoplasm: Validated;Nuclear bodies: Approved
+ZDBF2,Q9HCK1,Validated,Nucleoplasm: Validated;Cytosol: Approved
+ZDHHC16,Q969W1,Supported,Nucleus: Supported;Nuclear membrane: Approved;Cytosol: Approved
+ZEB1,P37275,Supported,Nucleoplasm: Supported
+ZFHX3,Q15911,Supported,Nucleoplasm: Supported
+ZFP91,Q96JP5,Supported,Nucleus: Supported;Nucleoli: Approved
+ZFPM2,Q8WW38,Supported,Nucleoplasm: Supported
+ZGPAT,Q8N5A5,Supported,Nucleus: Supported;Plasma membrane: Approved
+ZHX1,Q9UKY1,Validated,Nucleoplasm: Validated
+ZHX3,Q9H4I2,Supported,Nucleoplasm: Supported
+ZIC1,Q15915,Supported,Nucleoplasm: Supported
+ZIC3,O60481,Supported,Nucleoplasm: Supported
+ZKSCAN3,Q9BRR0,Supported,Nucleoplasm: Supported
+ZKSCAN4,Q969J2,Supported,Nucleoplasm: Supported
+ZMAT3,Q9HA38,Supported,Nucleoplasm: Supported
+ZMAT4,Q9H898,Supported,Nucleus: Supported;Nucleoli: Supported
+ZMAT5,Q9UDW3,Supported,Nucleoplasm: Supported
+ZMIZ2,Q8NF64,Supported,Nucleoplasm: Supported
+ZMYM4,Q5VZL5,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ZMYM6,O95789,Supported,Nucleoplasm: Supported
+ZMYND11,Q15326,Supported,Nucleoplasm: Supported
+ZNF12,P17014,Supported,Nucleoplasm: Supported;Centrosome: Approved
+ZNF131,P52739,Validated,Nucleoplasm: Validated;Intermediate filaments: Supported
+ZNF146,Q15072,Supported,Nucleoli: Supported
+ZNF148,Q9UQR1,Supported,Nucleus: Supported;Golgi apparatus: Uncertain
+ZNF16,P17020,Supported,Nucleus: Supported;Nucleoli: Supported
+ZNF174,Q15697,Supported,Nucleoplasm: Supported;Actin filaments: Approved;Cytosol: Approved
+ZNF175,Q9Y473,Supported,Nucleoplasm: Supported;Intermediate filaments: Approved;Cytosol: Supported
+ZNF202,O95125,Supported,Nucleoplasm: Supported;Mitochondria: Approved
+ZNF207,O43670,Validated,Nucleus: Validated
+ZNF212,Q9UDV6,Supported,Nucleus: Supported
+ZNF217,O75362,Validated,Nuclear speckles: Validated
+ZNF219,Q9P2Y4,Supported,Nucleus: Supported
+ZNF22,P17026,Validated,Nucleus: Validated
+ZNF224,Q9NZL3,Supported,Nucleus: Supported;Nuclear membrane: Supported
+ZNF232,Q9UNY5,Supported,Nucleus: Supported;Vesicles: Supported;Cytosol: Supported
+ZNF235,Q14590,Supported,Nucleoplasm: Supported
+ZNF24,P17028,Supported,Nucleus: Supported
+ZNF250,P15622,Supported,Nuclear speckles: Supported
+ZNF256,Q9Y2P7,Supported,Nucleus: Supported
+ZNF260,Q3ZCT1,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+ZNF263,O14978,Supported,Nucleoplasm: Approved;Mitotic spindle: Approved;Cytosol: Supported
+ZNF266,Q14584,Validated,Nucleus: Approved;Vesicles: Validated;Rods & Rings: Approved
+ZNF274,Q96GC6,Supported,Nucleus: Supported;Centrosome: Supported
+ZNF281,Q9Y2X9,Validated,Nucleoplasm: Validated
+ZNF300,Q96RE9,Supported,Nucleoplasm: Supported;Nucleoli: Supported
+ZNF317,Q96PQ6,Validated,Nucleoplasm: Validated
+ZNF318,Q5VUA4,Supported,Nucleoplasm: Supported;Cytosol: Uncertain
+ZNF32,P17041,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ZNF322,Q6U7Q0,Supported,Nucleus: Supported;Centrosome: Approved;Cytosol: Supported
+ZNF326,Q5BKZ1,Validated,Nucleoplasm: Validated;Golgi apparatus: Validated;Vesicles: Validated
+ZNF330,Q9Y3S2,Supported,Nucleoli: Supported
+ZNF335,Q9H4Z2,Validated,Nucleoplasm: Validated
+ZNF34,Q8IZ26,Validated,Nucleoplasm: Validated;Cytosol: Validated
+ZNF346,Q9UL40,Validated,Nucleus: Validated
+ZNF350,Q9GZX5,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ZNF354A,O60765,Supported,Nucleus: Supported;Nucleoli: Supported;Cytosol: Uncertain
+ZNF354C,Q86Y25,Supported,Nuclear membrane: Supported;Cytosol: Supported
+ZNF367,Q7RTV3,Supported,Nucleoplasm: Supported
+ZNF383,Q8NA42,Supported,Nucleus: Supported;Nuclear membrane: Supported
+ZNF384,Q8TF68,Supported,Nucleoplasm: Supported
+ZNF385A,Q96PM9,Supported,Nucleus: Approved;Cytosol: Supported
+ZNF385B,Q569K4,Supported,Nucleoli (Fibrillar center): Supported
+ZNF419,Q96HQ0,Supported,Nucleus: Supported;Nucleoli (Fibrillar center): Supported
+ZNF423,Q2M1K9,Validated,Nucleus: Validated
+ZNF425,Q6IV72,Supported,Nucleus: Supported
+ZNF432,O94892,Supported,Nucleoplasm: Supported
+ZNF436,Q9C0F3,Supported,Nucleoplasm: Supported;Cytosol: Approved
+ZNF438,Q7Z4V0,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ZNF444,Q8N0Y2,Supported,Nucleus: Supported;Nucleoli: Supported
+ZNF45,Q02386,Supported,Nucleoplasm: Supported
+ZNF470,Q6ECI4,Supported,Nucleoplasm: Supported;Nuclear bodies: Supported
+ZNF471,Q9BX82,Supported,Nucleus: Supported
+ZNF473,Q8WTR7,Supported,Nucleoplasm: Supported
+ZNF480,Q8WV37,Supported,Nucleoplasm: Supported
+ZNF488,Q96MN9,Supported,Nucleoplasm: Supported;Cytosol: Approved
+ZNF500,O60304,Validated,Nucleoplasm: Validated;Cytosol: Validated
+ZNF507,Q8TCN5,Supported,Nucleoli: Supported;Cytosol: Supported
+ZNF512,Q96ME7,Validated,Nucleus: Validated
+ZNF540,Q8NDQ6,Supported,Nucleoplasm: Supported;Vesicles: Supported;Cytosol: Supported
+ZNF554,Q86TJ5,Supported,Nucleoplasm: Supported;Nucleoli: Supported
+ZNF559,Q9BR84,Supported,Nucleoplasm: Supported;Cytosol: Approved
+ZNF574,Q6ZN55,Supported,Nucleoplasm: Supported
+ZNF577,Q9BSK1,Supported,Nucleus: Supported;Nucleoli: Supported
+ZNF593,O00488,Validated,Nucleus: Validated;Nucleoli: Validated
+ZNF606,Q8WXB4,Supported,Nucleoplasm: Supported
+ZNF609,O15014,Validated,Nucleoplasm: Validated;Cytosol: Approved
+ZNF621,Q6ZSS3,Supported,Nuclear speckles: Supported
+ZNF622,Q969S3,Validated,Nucleus: Validated;Nucleoli: Supported;Golgi apparatus: Approved;Cytosol: Validated
+ZNF629,Q9UEG4,Supported,Nucleus: Supported;Golgi apparatus: Approved
+ZNF638,Q14966,Validated,Nucleoplasm: Validated;Vesicles: Supported
+ZNF639,Q9UID6,Supported,Nucleoplasm: Supported
+ZNF641,Q96N77,Supported,Nucleoplasm: Supported
+ZNF655,Q8N720,Supported,Nucleoplasm: Supported;Plasma membrane: Supported
+ZNF672,Q499Z4,Validated,Nucleoplasm: Validated
+ZNF674,Q2M3X9,Validated,Nucleoplasm: Validated
+ZNF687,Q8N1G0,Validated,Nucleoplasm: Validated
+ZNF692,Q9BU19,Validated,Nucleus: Validated;Nucleoli: Validated
+ZNF707,Q96C28,Validated,Nucleoplasm: Validated
+ZNF74,Q16587,Supported,Nucleoplasm: Supported;Actin filaments: Supported
+ZNF778,Q96MU6,Supported,Nucleus: Supported;Nuclear bodies: Supported
+ZNF789,Q5FWF6,Validated,Nucleoplasm: Validated
+ZNF800,Q2TB10,Supported,Nucleoli: Supported;Cytosol: Supported
+ZNF821,O75541,Supported,Nucleoplasm: Approved;Nuclear speckles: Supported
+ZNF830,Q96NB3,Validated,Nucleoplasm: Validated
+ZNF84,P51523,Supported,Nucleoplasm: Supported
+ZNF85,Q03923,Supported,Nucleus: Supported
+ZNRD1,Q9P1U0,Supported,Nucleoli (Fibrillar center): Supported
+ZRANB1,Q9UGI0,Supported,Nucleoplasm: Supported;Cytosol: Supported
+ZRANB2,O95218,Validated,Nucleus: Validated
+ZRANB3,Q5FWF4,Supported,Nucleus: Supported
+ZSCAN26,Q16670,Validated,Nucleus: Validated;Nucleoli: Supported
+ZXDC,Q2QGD7,Supported,Nucleoli: Supported;Vesicles: Approved
