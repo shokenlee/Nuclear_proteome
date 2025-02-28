@@ -131,3 +131,5 @@ dmypy.json
 # .DS_Store
 .DS_Store
 
+# Too large source files
+aal3321_thul_sm_table_s6.xlsx
