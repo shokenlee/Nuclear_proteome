@@ -1,6 +1,7 @@
 # Nuclear envelope proteome curated
 
-Human proteome list of nuclear envelope (NE) was curated. See figure 1 of Lee et al. 2026 "Screening of amphipathic helices identifies features linked to inner nuclear membrane properties"
+Human proteome list of nuclear envelope (NE) was curated. 
+See figure 1 of Lee et al. 2026 Nature Communications "Screening of amphipathic helices identifies features linked to inner nuclear membrane properties"
 
 Tested on Python 3.8 and 3.11 with Anaconda 2.6 on Mac OS in 2021-2024.
 
